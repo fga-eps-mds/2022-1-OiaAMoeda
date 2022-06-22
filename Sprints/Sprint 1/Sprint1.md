@@ -15,7 +15,7 @@ Tal layout é apenas um exemplo e pode vir a ser alterado a qualquer momento!
 # Planning da Sprint _1_
 
 - **Período:** _6/06/2022 a 13/06/2022_
-- **Objetivo:** _Conhecer os membros da equipe e definir os métodos de comunicação_
+- **Objetivo:** _Conhecer os membros da equipe e definir os métodos de comunicação, definição da reunião semanal para o sprint planning e sprint review e a definição dos papéis da metodologia Scurm_
 
 # Análise do Scrum Master
 _Sendo a primeira semana com o time completo, a definição dos métodos de comunicação a serem utilizados pelo time foi de extrema importância, além de conhecer os membros da equipe para sabermos com quem estamos trabalhando. Como o acesso ao repositório foi dado ao squad apenas no meio da sprint, acabamos por não definir issues no mesmo, nem a pontuação das tarefas realizadas._
