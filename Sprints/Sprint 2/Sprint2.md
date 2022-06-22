@@ -11,17 +11,17 @@ Tal layout é apenas um exemplo e pode vir a ser alterado a qualquer momento!
 | --- | --- | --- | --- |
 | _xx/xx/xxxx_ | _0.x_ | _inserir modificação_ | _inserir autor(a)_ |
 
-# Planning da Sprint _X_
+# Planning da Sprint _2_
 
 - **Período:** _18/06 a 25/06_
 - **Objetivo:** _Famirializar com as ferramenta basicas do projeto como GIT,GitHub Pages,Documento de arquitetura_
 
 ## Issues
 
-| **ID** | **Descrição** 
+| **ID** | **Descrição** | **Estimativa** |
 | --- | --- | --- | 
-| _#1_ | _Treinamento de Git/Github_ | _inserir pontuação_ |
-| _#2_ | _Analisar os projetos passados_ | _inserir pontuação_ |
+| _#xx_ | _inserir descrição_ | _inserir pontuação_ |
+| _#xx_ | _inserir descrição_ | _inserir pontuação_ |
 
 - **Total de Pontos:** _inserir pontuação_
 
