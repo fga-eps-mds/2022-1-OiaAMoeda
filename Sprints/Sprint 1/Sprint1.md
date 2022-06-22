@@ -6,16 +6,16 @@ Tal layout é apenas um exemplo e pode vir a ser alterado a qualquer momento!
 -->
 # Sprint _1_
 ---
+## Histórico de Revisão
+| Data | Versão | Modificação | Autor(a) |
+| --- | --- | --- | --- |
+| _21/06/2022_ | _0.1_ | _Criação do documento_ | _Arthur Taylor_ |
+| _22/06/2022_ | _0.2_ | _alteração do coumento para o padrão definido_ | _Arthur Taylor_ |
 
 # Planning da Sprint _1_
 
-- **Período:** _11/06 a 18/06_
-- **Objetivo:** _O objetivo dessa sprint foi poder conhecer os membros do grupo e seus conhecimentos em determinadas áreas alem de começar a capacitação dos mesmos._
+- **Período:** _6/06/2022 a 13/06/2022_
+- **Objetivo:** _Conhecer os membros da equipe e definir os métodos de comunicação_
 
-## Issues
-ID | Descrição
----|----------
-#1 | Interação entre os membros da equipe 
-#2 | Treinamento de Git/Github
-
-Obs.: Em virtude de ser a Sprint 1 não foram feitos alguns rituais ágeis. Tais como pontuação das issues, review e restrospectiva, Quadro de conhecimento,Analise do Scrum Master.
+# Análise do Scrum Master
+_Sendo a primeira semana com o time completo, a definição dos métodos de comunicação a serem utilizados pelo time foi de extrema importância, além de conhecer os membros da equipe para sabermos com quem estamos trabalhando. Como o acesso ao repositório foi dado ao squad apenas no meio da sprint, acabamos por não definir issues no mesmo, nem a pontuação das tarefas realizadas._
