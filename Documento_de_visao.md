@@ -31,13 +31,13 @@ Descreve o conteúdo do documento de visão e explica como o documento é organi
 
 Descreve brevemente a oportunidade de negócios que é tratada por este projeto.
 
-### 2.2 Instrução do problema
+### 2.2 Instrução do problema:
 
 Resume o problema que este projeto resolve. Use as seguintes instruções como um modelo, fornecendo detalhes do projeto para substituir os elementos entre parênteses:
 
 O problema de (descreva o problema) afeta (as partes interessadas afetadas pelo problema). O impacto do problema é (qual é o impacto do problema). Uma solução bem sucedida incluiria (lista alguns principais benefícios de uma solução bem sucedida).
 
-### 2.3 Instrução de Posição de Produto
+### 2.3 Instrução de Posição de Produto:
 
 Fornece uma instrução geral resumida no nível mais alto, a posição exclusiva que o produto pretende preencher no mercado de trabalho. Use as seguintes instruções como um modelo, fornecendo detalhes do projeto para substituir os elementos entre parênteses:
 
