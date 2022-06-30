@@ -106,7 +106,6 @@ O usuário poderá ter acesso aos seguintes recursos:
 
  - Receber notícias sobre as moedas com a melhor performance recente.
  - Filtrar por moeda as notícias que o usuário deseja receber.
- - 
 
 ## 6: Restrições e Dependências
 
