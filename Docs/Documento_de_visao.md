@@ -133,8 +133,8 @@ O usuário precisará ter acesso a um computador ou smartphone e conexão à int
 |**Identificador**|**Requisito**|**Prioridade**|
 |:-:|:-:|:-:|
 | RF01 | A aplicação deverá apresentar noticias recentes sobre o mercado em cards | Alta |
-| RF02 | A aplicação deverá providenciar gráfico de performance das principais moedas | Média |
-| RF03 |  | Baixa |
+| RF02 | A aplicação deverá providenciar gráfico de performance das principais moedas | Alta |
+| RF03 | A aplicação deverá permitir ao usuário pesquisar sobre notícias relativas a uma moeda específica | Média |
 
 ### 7.2: Lista de Requisitos Não Funcionais:
 
