@@ -31,8 +31,6 @@ A aplicação, será implementada como uma aplicação web que pode ser usada fa
 
 ### 2.3 Oportunidade de Negócios:
 
-Descreve brevemente a oportunidade de negócios que é tratada por este projeto.
-
 ## 3: Descrição dos Usuários e Envolvidos:
 
 ### 3.1 Descrição dos Usuários:
