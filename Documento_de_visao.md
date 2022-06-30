@@ -2,103 +2,154 @@
 
 ## 1: Introdução
 
-Esta introdução fornece uma visão geral de todo o documento de visão. Ela inclui o propósito, escopo, definições, acrônimos, abreviações, referências e visão geral de todo o documento.
-
 ### 1.1 Propósito:
 
-Determina o propósito deste documento de visão.
+Este documento busca delinear as características do desenvolvimento da aplicação em questão, definir os perfis das partes interessadas e dos usuários, e também definir os requisitos tanto funcionais quanto não funcionais
 
 ### 1.2 Escopo: 
 
-Descreve brevemente o escopo deste documento de visão, incluindo a quais programas, projetos, aplicativos e processos de negócios o documento está associado. Inclui qualquer outra coisa que este documento afete ou influencie.
+No contexto econômico enfervecente atual sendo diariamente inundado com novas moedas de forma cada vez mais veloz se torna cada vez mais difícil para potênciais investidores se manterem atualizados no estado do mercado.
+
+É tendo esse desafio em vista que este projeto busca auxiliar investidores na obtenção curada dessas informações essenciais.
 
 ### 1.3 Definições, acrônimos e abreviações:
 
 Define todos os termos, acrônimos e abreviações necessários para interpretar a visão corretamente. Essas informações podem ser fornecidas por referência ao glossário do projeto, que pode ser desenvolvido online no repositório do RM.
 
-### 1.4 Referências:
-
-Lista todos os documentos aos quais o documento de visão faz referência. Identifique cada documento por título, número de relatório (se aplicável), data e organização de publicação. Especifique as origens a partir das quais os leitores podem obter as referências; as origens estão disponíveis de maneira ideal no RM ou em outros repositórios online. Essas informações podem ser fornecidas por referência para um apêndice ou para outro documento.
-
-### 1.5 Visão Geral: 
-
-Descreve o conteúdo do documento de visão e explica como o documento é organizado.
-
-
 ## 2: Posicionando
 
-### 2.1 Oportunidade de Negócios:
+### 2.1 Instrução do problema:
+
+| O problema é | que afeta | cujo impacto é | uma boa solução seria |
+| ------------ | --------- | -------------- | ----------------------|
+| Dificuldade na obtenção de informações sobre as novas moedas do mercado| Investidores em busca de informações curadas | A carência de informações necessárias para a avaliação da performance de novas moedas no mercado | Organização das informações em uma aplicação de fácil entendimento. |
+
+
+### 2.2 Instrução de Posição de Produto:
+
+A aplicação, será implementada como uma aplicação web que pode ser usada facilmente em navegadores mobile proporcionando uma experiência muito parecida a de um app nativo. Permitindo ao investidor checar notícias e gráficos detalhando a performance das moedas que estão mais em voga.
+
+### 2.3 Oportunidade de Negócios:
 
 Descreve brevemente a oportunidade de negócios que é tratada por este projeto.
 
-### 2.2 Instrução do problema:
+## 3: Descrição dos Usuários e Envolvidos:
 
-Resume o problema que este projeto resolve. Use as seguintes instruções como um modelo, fornecendo detalhes do projeto para substituir os elementos entre parênteses:
+### 3.1 Descrição dos Usuários:
 
-O problema de (descreva o problema) afeta (as partes interessadas afetadas pelo problema). O impacto do problema é (qual é o impacto do problema). Uma solução bem sucedida incluiria (lista alguns principais benefícios de uma solução bem sucedida).
+|**Nome**|**Descrição**|
+|:-|:-|
+| Investidores iniciantes | Investidores iniciantes em busca de acesso fácil a informações sobre o mercado de crypto |
 
-### 2.3 Instrução de Posição de Produto:
+### 3.2 Principais Necessidades dos Usuários:
 
-Fornece uma instrução geral resumida no nível mais alto, a posição exclusiva que o produto pretende preencher no mercado de trabalho. Use as seguintes instruções como um modelo, fornecendo detalhes do projeto para substituir os elementos entre parênteses:
+|**Usuário**|**Necessidade**|**Solução Atual**|**Solução Proposta**|
+|:-:|:-:|:-:|:-:|
+| Investidores | Acessar informações sobre seus interesses de investimento | Pesquisar por informações sobre investimentos em portais online | Forcecer um hub com todas as informações pertinentes ao usuário de forma curada |
 
-Para o (cliente alvo) quem (instrução da necessidade ou oportunidade). O (nome do produto) é uma (categoria do produto) que (instrução do principal benefício, isto é, o motivo convincente para comprar). De outro modo (principal alternativa competitiva), nosso produto (instrução da principal diferenciação).
+### 3.3 Descrição dos Envolvidos:
 
-Uma instrução de posição do produto comunica o intento do aplicativo e a importância do projeto para todas as partes interessadas.
+|**Nome**|**Descrição**|**Responsabilidade**|
+|:-:|:-:|:-:|
+|Grupo de desenvolvimento| Estudantes de MDS |Projetar, desenvolver, testar, manter e gerir o software proposto e todos os documentos relacionados.|
+|Grupo de avaliação| Professora e monitores de MDS |Ajudar o grupo de desenvolvimento com orientação e feedback sobre o projeto.|
 
-## 3: Descrições da Parte Interessada e do Usuário
+### 3.4 Perfis dos Envolvidos:
 
-Para fornecer produtos e serviços que atendam às necessidades das partes interessadas e dos usuários, você deve identificar e envolver todas as partes interessadas como parte do processo de definição dos requisitos. Você deve também identificar os usuários do sistema e assegurar que a comunidade das partes interessadas os represente adequadamente.
+#### 3.4.1 Equipe de Desenvolvimento de Software:
 
-Esta seção fornece um perfil das partes interessadas e usuários que estão envolvidos no projeto. Esta seção também identifica os principais problemas que as partes interessadas e os usuários consideram que a solução proposta deva tratar. Esta seção não descreve as solicitações ou requisitos específicos; um artefato separado de solicitações da parte interessada captura esses itens. A descrição do principal problema fornece o plano de fundo e a justificação para os requisitos.
+| Papel  |  Descrição  |
+|:-:|:-:|
+| Scrum Master | Arthur Taylor |
+| Scrum Master | Yago Passos |
+| Product Owner | Renato Gabriel |
+| Product Owner | Thiago Oliveira Cunha |
+| Arquiteto de Software | Silas Neres |
+| Arquiteto de Software | João Gabriel |
+| Desenvolvedor | João Pedro Anacleto |
+| Desenvolvedor | Pablo Santos Costa |
 
-### 3.1 Demográficos de Mercado:
+#### 3.4.2 Avaliadores e Monitores:
 
-Resume os principais demográficos de mercado que motivam suas decisões sobre o produto. Descrevem e posicionam os segmentos do mercado alvo. Estime o tamanho e o crescimento do mercado usando o número de usuários potenciais. Como alternativa, estime a quantia de dinheiro que seus clientes gastam tentando atender às necessidades que seu produto ou aprimoramento preencheria. Revise as principais tendências do segmento de mercado e tecnologias. Responda estas questões estratégicas:
-Qual é a reputação de sua organização nesses mercados?
-O que você gostaria que a reputação fosse?
-Como esse produto ou serviço suporta seus objetivos?
+|**Representantes**|**Tipo**|**Responsabilidade**|**Critério de Sucesso**|**Envolvimento**|
 
-### 3.2 Resumo da Parte Interessada:
+|:-:|:-:|:-:|:-:|:-:|
+| Carla Rocha | Profº de MDS | Auxiliar a equipe de desenvolvimento provendo feedback e orientação em relação ao desenvolvimento do projeto | Entrega do projeto dentro do prazo limite | Baixo |
 
-Lista todas as partes interessadas identificadas. Para cada tipo de parte interessada, forneça estas informações:
-Nome: Nome do tipo da parte interessada.
-Representa: Descreve brevemente quais pessoas, equipes ou organizações esse tipo de parte interessada representa.
-Função: Descreve brevemente a função que esse tipo de parte interessada desempenha no esforço de desenvolvimento.
+### 3.5 Perfis dos Usuários:
 
-### 3.3 Resumo do Usuário: 
+#### 3.5.1 Perfil 1:
 
-Lista todos os tipos de usuários identificados. Para cada tipo de usuário, forneça estas informações:
-Nome: Nome do tipo de usuário
-Descrição: Descreve brevemente o relacionamento desse tipo de usuário com o sistema que está em desenvolvimento.
-Parte Interessada: Lista qual tipo de parte interessada representa esse tipo de usuário.
+#### 3.5.2 Perfil 2:
+
+### 3.6 Alternativas e Concorrências:
+
+#### 3.6.1 Alternativa 1:
+
+#### 3.6.2 Alternativa 1:
 
 ## 4: Visão Geral do Produto
 
-Esta seção fornece uma visualização de alto nível das capacidades do produto, interfaces para outros aplicativos e configurações dos sistemas. Esta seção, em geral, consiste em três subseções:
-Perspectiva do Produto
-Funções do Produto
-Suposições e Dependências
-
 ### 4.1 Perspectiva do Produto:
 
-Coloca o produto em perspectiva com respeito a outros produtos relacionados e ao ambiente do usuário. Se o produto for independente e totalmente autocontido, indique-o aqui. Se o produto for um componente de um sistema maior, relacione como esses sistemas interagem e identificam as interfaces relevantes entre os sistemas. Uma maneira de exibir os principais componentes do maior sistema, interconexões e interfaces externas é usar um processo de negócios ou diagrama de casos de uso.
+O projeto tem como principal objetivo elaborar um hub que possibilite ao usuário obter informações sobre as principais moedas do mercado.
 
 ### 4.2 Resumo das Capacidades: 
 
-Resume os principais benefícios e recursos que o produto fornecerá. Por exemplo, um sistema de suporte ao cliente pode usar essa parte para endereçar a documentação do problema, o roteamento e o relato de status sem elaborar em detalhes o que essas funções requerem. Organize as funções de modo que a lista seja compreensível para o cliente ou para qualquer outra pessoa que leia o documento pela primeira vez. Uma simples tabela que lista os principais benefícios cujos recursos de suporte são suficientes.
+|**Benefícios**|**Recurso de Suporte**|
+|:-:|:-:|
+|Facilidade de acesso a informações| Interface customizável permitindo a seleção de moedas favoritas bem como o monitoramento de moedas em crescimento |
 
 ## 5: Recursos do Produto
 
-Lista e descreve brevemente os recursos do produto. Os recursos são capacidades de alto nível do sistema que são necessários para entregar benefícios aos usuários. Cada recurso é um serviço solicitado que, em geral, requer uma série de entradas para alcançar o resultado desejado. Por exemplo, um recurso de um sistema de rastreamento de problemas pode ser a capacidade de fornecer relatórios de tendências. Conforme o modelo de casos de uso tomar forma, atualize a descrição para referir-se aos casos de uso.
+O usuário poderá ter acesso aos seguintes recursos:
+
+ - Receber notícias sobre as moedas com a melhor performance recente.
+ - Filtrar por moeda as notícias que o usuário deseja receber.
+ - 
 
 ## 6: Restrições e Dependências
 
-Observe todas as restrições de design, restrições externas, como requisitos operacionais ou regulamentares) ou outras dependências.
+### 6.1 Restrições de Implementação:
 
-## 7: Faixas de Qualidade
+A aplicação será desenvolvida usando -,- e - tecnologias.
 
-Defina as faixas de qualidade para desempenho, robustez, tolerância a falhas, usabilidade e características similares que o conjunto de recursos não descreve.
+### 6.2 Restrições Externas:
 
-## 8: Precedência e Prioridade
+A equipe possui um nível baixo de experiência com as tecnologias utilizadas.
 
-Define a prioridade dos diferentes recursos do sistema.
+### 6.3 Restrições de Desing:
+
+A aplicação deve ser de fácil uso.
+
+### 6.4 Restrições de Uso:
+
+O usuário precisará ter acesso a um computador ou smartphone e conexão à internet.
+
+## 7: Requisitos do Produto:
+
+### 7.1: Lista de Requisitos Funcionais:
+
+|**Identificador**|**Requisito**|**Prioridade**|
+|:-:|:-:|:-:|
+| RF01 | A aplicação deverá apresentar noticias recentes sobre o mercado em cards | Alta |
+| RF02 | A aplicação deverá providenciar gráfico de performance das principais moedas | Média |
+| RF03 |  | Baixa |
+
+### 7.2: Lista de Requisitos Não Funcionais:
+
+|**Identificador**|**Requisito**|**Prioridade**|
+|:-:|:-:|:-:|
+| RNF01 | A aplicação deverá obter informações em tempo real | Alta |
+| RNF02 | A aplicação deverá armazenar essas informações em um banco de dados | Alta |
+| RNF03 | O Back-End da aplicação será desenvolvido usando -,-,-. | Alta |
+| RNF04 | O Front-End da aplicação será desenvolvido usando -,-,-. | Alta |
+| RNF05 | A aplicação deve possuir auta coesão e baixo acoplamento | Média |
+
+## 9: Referências
+
+https://github.com/fga-eps-mds/2021.2-INDICAA-Wiki/blob/main/docs/documentacao/documento_de_visao.md
+
+https://fga-eps-mds.github.io/2021.1-AlligaBot/2021/08/04/documento-de-vis%C3%A3o/
+
+https://fga-eps-mds.github.io/2020.2-Anunbis/documentacao/documento-de-visao/
