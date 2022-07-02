@@ -24,3 +24,7 @@
 | RNF03 | O Back-End da aplicação será desenvolvido usando -,-,-. | Alta |
 | RNF04 | O Front-End da aplicação será desenvolvido usando -,-,-. | Alta |
 | RNF05 | A aplicação deve possuir auta coesão e baixo acoplamento | Média |
+
+## Referências:
+
+https://fga-eps-mds.github.io/2021.1-AlligaBot/2021/08/05/requisitos-do-produto/
