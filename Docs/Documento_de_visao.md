@@ -72,7 +72,6 @@ Descreve brevemente a oportunidade de negócios que é tratada por este projeto.
 #### 3.4.2 Avaliadores e Monitores:
 
 |**Representantes**|**Tipo**|**Responsabilidade**|**Critério de Sucesso**|**Envolvimento**|
-
 |:-:|:-:|:-:|:-:|:-:|
 | Carla Rocha | Profº de MDS | Auxiliar a equipe de desenvolvimento provendo feedback e orientação em relação ao desenvolvimento do projeto | Entrega do projeto dentro do prazo limite | Baixo |
 
