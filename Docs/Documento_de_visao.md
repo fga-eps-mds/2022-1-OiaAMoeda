@@ -31,6 +31,8 @@ A aplicação, será implementada como uma aplicação web que pode ser usada fa
 
 ### 2.3 Oportunidade de Negócios:
 
+Descreve brevemente a oportunidade de negócios que é tratada por este projeto.
+
 ## 3: Descrição dos Usuários e Envolvidos:
 
 ### 3.1 Descrição dos Usuários:
@@ -70,7 +72,6 @@ A aplicação, será implementada como uma aplicação web que pode ser usada fa
 #### 3.4.2 Avaliadores e Monitores:
 
 |**Representantes**|**Tipo**|**Responsabilidade**|**Critério de Sucesso**|**Envolvimento**|
-
 |:-:|:-:|:-:|:-:|:-:|
 | Carla Rocha | Profº de MDS | Auxiliar a equipe de desenvolvimento provendo feedback e orientação em relação ao desenvolvimento do projeto | Entrega do projeto dentro do prazo limite | Baixo |
 
@@ -104,7 +105,6 @@ O usuário poderá ter acesso aos seguintes recursos:
 
  - Receber notícias sobre as moedas com a melhor performance recente.
  - Filtrar por moeda as notícias que o usuário deseja receber.
- - 
 
 ## 6: Restrições e Dependências
 
@@ -131,7 +131,7 @@ O usuário precisará ter acesso a um computador ou smartphone e conexão à int
 |**Identificador**|**Requisito**|**Prioridade**|
 |:-:|:-:|:-:|
 | RF01 | A aplicação deverá apresentar noticias recentes sobre o mercado em cards | Alta |
-| RF02 | A aplicação deverá providenciar gráfico de performance das principais moedas | Alta |
+| RF02 | A aplicação deverá providenciar gráficos de performance das principais moedas | Alta |
 | RF03 | A aplicação deverá permitir ao usuário pesquisar sobre notícias relativas a uma moeda específica | Média |
 
 ### 7.2: Lista de Requisitos Não Funcionais:
