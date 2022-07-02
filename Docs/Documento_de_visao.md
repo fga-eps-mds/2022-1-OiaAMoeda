@@ -70,7 +70,6 @@ A aplicação, será implementada como uma aplicação web que pode ser usada fa
 #### 3.4.2 Avaliadores e Monitores:
 
 |**Representantes**|**Tipo**|**Responsabilidade**|**Critério de Sucesso**|**Envolvimento**|
-
 |:-:|:-:|:-:|:-:|:-:|
 | Carla Rocha | Profº de MDS | Auxiliar a equipe de desenvolvimento provendo feedback e orientação em relação ao desenvolvimento do projeto | Entrega do projeto dentro do prazo limite | Baixo |
 
@@ -104,7 +103,6 @@ O usuário poderá ter acesso aos seguintes recursos:
 
  - Receber notícias sobre as moedas com a melhor performance recente.
  - Filtrar por moeda as notícias que o usuário deseja receber.
- - 
 
 ## 6: Restrições e Dependências
 
