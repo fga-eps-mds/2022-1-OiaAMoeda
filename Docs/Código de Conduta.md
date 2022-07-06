@@ -1,6 +1,5 @@
 # Código de Conduta
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
 ## Nosso Compromisso
 Nós, como estudantes, colaboradores e líderes, nos comprometemos em tornar a participação na nossa comunidade uma experiência livre de assédio para todos, independentemente de idade, deficiência, nível de experiência, educação, status socioeconômico, nacionalidade, cor, raça, etnia, credo ou identidade e orientação sexual.
