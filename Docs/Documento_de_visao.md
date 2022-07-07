@@ -1,5 +1,14 @@
 # Documento de visão
 
+## Histórico de Revisão:
+
+|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+|:----------:|:--------:|:----------------------:|:---------------------------:|
+| 29/06/2022 |   0.0    | Criação do Template do Documento de Visão  |   João Pedro Anacleto |
+| 30/06/2022 |   0.1    | Atualização do Documento de Visão  |   Renato Gabriel M. Carvalho |
+| 07/07/2022 |   0.2    | Adição do Histórico de Revisão  |   Renato Gabriel M. Carvalho |
+
+
 ## 1: Introdução
 
 ### 1.1 Propósito:

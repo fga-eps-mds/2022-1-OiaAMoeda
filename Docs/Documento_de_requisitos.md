@@ -1,4 +1,11 @@
 
+## Histórico de Revisão:
+
+|    Data    |  Versão  |        Descrição       |          Autor(es)          |
+|:----------:|:--------:|:----------------------:|:---------------------------:|
+| 02/07/2022 |   0.0    | Criação do Documento de Requisitos |   Renato Gabriel M. Carvalho |
+| 07/07/2022 |   0.1    | Adição do Histórico de Revisão  |   Renato Gabriel M. Carvalho |
+
 ## Categoria de Prioridades:
 
 |**Tipo**|**Descrição**|

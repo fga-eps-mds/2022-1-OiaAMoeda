@@ -12,6 +12,7 @@ Olá estamos felizes que você tenha demonstrado interesse pelo nosso projeto, a
 certifique-se de seguir os seguintes passos antes de enviar sua contribuição:
 
 * Siga o nosso [código de conduta](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/main/Docs/Codigo_de_Conduta.md) do projeto.
+* Antes de fazer qualquer alteração no projeto crie uma issue e se responsabilize pela mesma.
 * Certifique-se de cumprir os critérios de aceitação.
 
 ## Como criar uma Issue:
