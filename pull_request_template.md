@@ -9,3 +9,15 @@ Selecione uma das opcões:
 - [ ] Não se aplica.
 
 ## Descrição 
+Escreva um resumo sobre o que foi atualizado, aponte as issues resolvidas e mencione o criador da issue para review da solução.
+
+## Lista de controle
+- [ ] Você verificou se não há outras [Solicitações de Pull](https://github.com/fga-eps-mds/2022-1-Squad5/pulls) para a mesma atualização/alteração que você está trabalhando?
+- [ ] As mudanças seguem as políticas de commit e branch?
+- [ ] Os membros da equipe estão de acordo com a atualização?
+
+## Quem contribuiu?
+<sub>
+mencione quem contribuiu dessa forma:
+</sub> 
+@mencao1 @mencao2
