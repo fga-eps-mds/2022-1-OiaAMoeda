@@ -60,6 +60,19 @@ Python é uma linguagem de programação de alto nível, interpretada de script,
 ## <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 Discord é um aplicativo de voz sobre IP proprietário e gratuito, projetado inicialmente para comunidades de jogos, utilizada para a comunicação entre os membros do grupo.
 
+## 
+Figma
+
+## 
+Visual studio code 
+
+## 
+Live share extension
+
+## 
+Google drive
+
+
 ## 4: Visão Lógica 
 
 Esta seção lista casos de uso ou cenários do modelo de casos de uso quando eles representam funcionalidade central e significativa do sistema final ou, quando têm uma grande cobertura arquitetural — eles experimentam muitos elementos arquiteturais ou quando enfatizam ou ilustram um ponto complexo e específico da arquitetura.
@@ -76,7 +89,7 @@ Esta subseção descreve toda a decomposição do modelo de design em termos de 
 
 ## 5: Backlog 
 
-O backlog representa uma lista de itens a se fazer ...
+O [backlog](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/main/Docs/Product_Backlog.md) representa uma lista de itens a se fazer ...
 
 ## 6: Visão de implementação
 
