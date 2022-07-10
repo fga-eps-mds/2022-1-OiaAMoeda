@@ -1,8 +1,6 @@
 # Visão geral
 
-Oia a moeda
-
-
+Oia a moeda tem como objetivo criar um site para uma melhor visualização de informações referentes ás cripto moedas presentes no mercado atualmente, em conjunto com noticias sobre as mesmas, com o objetivo de reduzir o tempo gasto por investidores e empresas ao realizar uma analise mais aprofundada, ou mais rasa, sobre a moeda desejada.
 # Equipe
 
 <div class="container">
