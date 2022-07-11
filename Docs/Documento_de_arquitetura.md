@@ -60,17 +60,23 @@ Python é uma linguagem de programação de alto nível, interpretada de script,
 ## <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
 Discord é um aplicativo de voz sobre IP proprietário e gratuito, projetado inicialmente para comunidades de jogos, utilizada para a comunicação entre os membros do grupo.
 
-## 
-Figma
+## <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+O HTML5 é uma linguagem de marcação de hipertexto para apresentar e estruturar o conteúdo na web.
 
-## 
-Visual studio code 
+## <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=CSS3&logoColor=white">
+CSS3 é a terceira mais nova versão das famosas Cascading Style Sheets (ou simplesmente CSS), pela qual se define estilos para um projeto web (página de internet).
 
-## 
-Live share extension
+## <img src="https://img.shields.io/badge/FIGMA-F24E1E?style=for-the-badge&logo=FIGMA&logoColor=white">
+O Figma e um editor grafico voltado para a a criação de interfaces como sites,aplicativos e etc.
 
-## 
-Google drive
+## <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VISUALSTUDIOCODE&logoColor=white">
+O Visual Studio Code é um editor de texto desenvolvido pela Microsoft para Windows, Linux e macOS. 
+
+## <img src="https://img.shields.io/badge/LiveShare-007ACC?style=for-the-badge&logo=VISUALSTUDIOCODE&logoColor=white">
+O Live share e uma extensão que fornece a capacidade de editar e depurar de maneira colaborativa, conversar com seus colegas, compartilhar terminais, servidores, ver comentários e muito mais.
+
+## <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=GOOGLEDRIVE&logoColor=white">
+Google drive é o serviço de armazenamento na nuvem do Google, oferecido tanto em modalidade gratuita como em planos por assinatura, no qual o objetivo no projeto e o arquivamento de documentos em versões iniciais
 
 
 ## 4: Visão Lógica 
