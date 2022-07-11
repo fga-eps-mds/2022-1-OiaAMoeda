@@ -11,7 +11,7 @@ Tal layout é apenas um exemplo e pode vir a ser alterado a qualquer momento!
 | --- | --- | --- | --- |
 | _25/06/2022_ | _0.1_ | _Documentação da Sprint 2_ | _Arthur Taylor_ |
 
-# Planning da Sprint _2_
+# Planning da Sprint _3_
 
 - **Período:** _18/06 a 25/06_
 - **Objetivo:** _Famirializar com as ferramenta basicas do projeto como GIT,GitHub Pages,Documento de arquitetura_
