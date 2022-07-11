@@ -11,7 +11,7 @@ Tal layout é apenas um exemplo e pode vir a ser alterado a qualquer momento!
 | --- | --- | --- | --- |
 | _03/07/2022_ | _0.1_ | _Documentação da Sprint 3_ | _Arthur Taylor_ |
 
-# Planning da Sprint _3_
+# Planning da Sprint _4_
 
 - **Período:** _02/07/2022 a 09/07/2022_
 - **Objetivo:** _Terminar os comunity standards, e outros documentos de documentação_
