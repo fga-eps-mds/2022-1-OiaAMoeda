@@ -1,10 +1,11 @@
 
 ## Histórico de Revisão:
 
-|    Data    |  Versão  |        Descrição       |          Autor(es)          |
-|:----------:|:--------:|:----------------------:|:---------------------------:|
-| 02/07/2022 |   0.0    | Criação do Documento de Requisitos |   Renato Gabriel M. Carvalho |
-| 07/07/2022 |   0.1    | Adição do Histórico de Revisão  |   Renato Gabriel M. Carvalho |
+| Data | Versão | Descrição | Autor(es) |
+| :-: | :-: | :-: | :-: |
+| 02/07/2022 | 0.0 | Criação do Documento de Requisitos | Renato Gabriel M. Carvalho |
+| 07/07/2022 | 0.1 | Adição do Histórico de Revisão | Renato Gabriel M. Carvalho |
+| 12/07/2022 | 0.2 | Atualização do Documento | Renato Gabriel M. Carvalho |
 
 ## Categoria de Prioridades:
 
@@ -20,18 +21,17 @@
 |:-:|:-:|:-:|
 | RF01 | A aplicação deverá apresentar noticias recentes sobre o mercado em cards | Alta |
 | RF02 | A aplicação deverá providenciar gráficos de performance das principais moedas | Alta |
-| RF03 | A aplicação deverá permitir ao usuário pesquisar sobre notícias relativas a uma moeda específica | Média |
+| RF03 | A aplicação deverá permitir ao usuário filtrar notícias relativas a uma moeda específica | Média |
 
 ## Requisitos Não Funcionais:
 
 |**Identificador**|**Requisito**|**Prioridade**|
 |:-:|:-:|:-:|
 | RNF01 | A aplicação deverá obter informações em tempo real | Alta |
-| RNF02 | A aplicação deverá armazenar essas informações em um banco de dados | Alta |
-| RNF03 | O Back-End da aplicação será desenvolvido usando -,-,-. | Alta |
-| RNF04 | O Front-End da aplicação será desenvolvido usando -,-,-. | Alta |
-| RNF05 | A aplicação deve possuir auta coesão e baixo acoplamento | Média |
+| RNF02 | O Back-End da aplicação será desenvolvido usando -,-,-. | Alta |
+| RNF03 | O Front-End da aplicação será desenvolvido usando -,-,-. | Alta |
+| RNF04 | A aplicação deve possuir auta coesão e baixo acoplamento | Média |
 
 ## Referências:
 
-https://fga-eps-mds.github.io/2021.1-AlligaBot/2021/08/05/requisitos-do-produto/
+UNIVERSIDADE DE BRASÍLIA (BRASIL). **AlligaBot - documento de visão**. Disponível em: <https://fga-eps-mds.github.io/2021.1-AlligaBot/2021/08/04/documento-de-vis%C3%A3o/>. Acesso em: 12 de julho de 2022. <br />
