@@ -6,6 +6,7 @@
 |**Data**|**Versão**|**Descrição**|**Autor(es/as)**|
 | :-: | :-: | :-: | :-: | 
 | 01/07/2022 | 0.1 | Versão Inicial | Thiago Oliveira Cunha, Arthur Taylor |
+| 15/07/2022 | 0.2 | Adição dos tópicos 6,7 e 8 | Arthur Taylor |
 
 ### Siglas
 
