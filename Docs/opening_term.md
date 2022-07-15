@@ -85,15 +85,28 @@ O público-alvo consiste na comunidade da Universidade de Brasília, isto é: Co
 
 ## 6. Requisitos de alto nível
 
-Á definir
+**Nome** | **Descrição**
+--- | --- 
+Visualização das notícias | As notícias deverão ser apresentadas para o usúario de acordo com a moeda selecionada para vizualização.
+Obtenção dos dados | Obtenção dos dados contidos nas APIs que serão utilizadas para o projeto. 
+Filtros de exibição | Deverá ser possível filtrar as moedas, para uma exibição mais "personalizada" da tela para o usuário que está utilizando.
+Interatividade com o usuário | As mensagens do sistema para o usuário devem ser claras, e o usuário deve poder buscar pelas moeda e notícias que desejar.
 
 ## 7. Riscos
 
-Á definir
+**Risco** | **Prevenção** | **Ação**
+:---: | :---: | :---:
+Algum membro contrair COVID-19 | Estar previamente organizado entre os membros do grupo, para que alguém consiga assumir a função do membro em questão. | Organização com a equipe.
+Falta de comunicação | Estabelecer canais de comunicação fixos, além das prtáticas do SCRUM para melhor colaboração. | Préticas do SCRUM realizadas de forma correta, membros procurarem ajuda se sentirem dificuldades.
+Desistência de algum membro do projeto | Estimular a participação do membro no projeto. | Não sobrecarregar nenhum membro e auxiliar em suas devidas tarefas.
+Dificuldade ao adaptar às tecnologias escolhidas | Compartilhamento de links ou aulas para estudo e aprofundamento da tecnologia. | Procurar sobre as tecnologias e incentivar o estudo. 
 
 ## 8. Requisitos para a aprovação
 
-Á definir
+* Validação pela professora Dr. Carla Rocha Aguiar.
+* Atender às expectativas definidas pelo _**MVP**_.
+* Entrega de todos os itens necessários na _Release 2 da disciplina de MDS_.
+
 
 ## 9. Estratégias de comunicação
 
