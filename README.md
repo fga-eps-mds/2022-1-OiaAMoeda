@@ -22,7 +22,8 @@ Cada Tag pode ser clicada e levará para o link de download da tecnologia ou de 
 [<img alt="tagTelegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://web.telegram.org/)
 
 ## 📜Como Contribuir
-Para contribuir com o projeto, é extremamente importante e recomendado que siga o [Guia de como contribuir com o projeto](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/main/Docs/CONTRIBUTING.md) onde será encontrado tudo necessario para se contribuir, como templates, codigo de conduta e politicas.
+Para contribuir com o projeto, é extremamente importante e recomendado que siga o [Guia de como contribuir com o projeto](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/main/Docs/CONTRIBUTING.md) onde será encontrado tudo necessario para se contribuir, como templates, codigo de conduta e politicas.              
+E tambem deverá estar atento ao nosso [Codigo de Conduta](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/develop/Docs/CODE_OF_CONDUCT.md).
 
 ## 👨‍💻💪Instalação e execução do projeto
 
