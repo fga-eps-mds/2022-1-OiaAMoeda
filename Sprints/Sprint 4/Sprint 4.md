@@ -43,7 +43,7 @@ _Issues não serem todas finalizadas e acumularem para proxima sprint, mais prox
 - _Issues ainda estão sendo realizados de forma tardia, apesar deste problema a maior parte do trabalho foi entregue, ficando com apenas 2 divídas alocadas para a Sprint 5._
 
 ## Qualidade do Trabalho Entregue
-_O trbalho entregue atendeu as expectativas da sprint._
+_O trabalho entregue atendeu as expectativas da sprint._
 
 # Retrospectiva
 
