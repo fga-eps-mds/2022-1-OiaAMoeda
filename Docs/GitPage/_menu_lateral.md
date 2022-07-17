@@ -1,9 +1,11 @@
 - Visão de Produto
-  - [Termo de Abertura](Docs/termo_de_abertura.md)
-  - [Documento de Visão](Docs/Documento_de_visao.md)
-  - [Documento de Requisitos](Docs/Documento_de_requisitos.md)
-  - [Documento de Arquitetura](Docs/Documento_de_arquitetura.md)
-  - [Protótipo](Docs/Prototipo._de_baixa_fidelidade.md)
+  - [Termo de Abertura](../Termo_de_abertura.md)
+  - [Documento de Visão](../Documento_de_visao.md)
+  - [Documento de Requisitos](../Documento_de_requisitos.md)
+  - [Documento de Arquitetura](../Documento_de_arquitetura.md)
+  - [Protótipo de Alta Fidelidade](../Prototipo_de_alta_fidelidade.md)
+  - [Protótipo de Baixa Fidelidade](../Prototipo_de_baixa_fidelidade.md)
+  - [Identidade Visual](../Guia_de_estilo.md)
 
 - Gerenciamento
   - [Sprint 0](#)
@@ -13,6 +15,6 @@
 
 - Contribuição
   - [Como contribuir](Docs/Como_contribuir.md)
-  - [Código de Conduta](Docs/Codigo_de_Conduta.md)
+  - [Código de Conduta](../Codigo_de_conduta.md)
   - [Políticas de Contribuição](#)
 
