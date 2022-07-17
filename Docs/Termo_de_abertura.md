@@ -116,6 +116,6 @@ Demais ferramentas à definir(como ferramentas de treinamento e etc)
 
 ## 10. Referências
 
-UNIVERSIDADE DE BRASÍLIA (Brasil). **INDICAA - Termo de abertura do projeto.** [S. l.], 2022. Disponível em: <[https://github.com/fga-eps-mds/2021.2-INDICAA-Wiki/blob/main/docs/documentacao/termo_de_abertura.md>]. Acesso em: 01 julho. 2022. <br />
+UNIVERSIDADE DE BRASÍLIA (Brasil). **INDICAA - Termo de abertura do projeto.** [S. l.], 2022. Disponível em: <https://github.com/fga-eps-mds/2021.2-INDICAA-Wiki/blob/main/docs/documentacao/termo_de_abertura.md>. Acesso em: 01 julho. 2022. <br />
 UNIVERSIDADE DE BRASÍLIA (Brasil). **Acácia - Termo de abertura do projeto.** [S. l.], 2019. Disponível em: <https://fga-eps-mds.github.io/2019.2-Acacia/#/project_charter>. Acesso em: 28 jan. 2022. <br />
 UNIVERSIDADE DE BRASÍLIA (Brasil). **AlligaBot - Termo de abertura do projeto.** [S. l.], 2021. Disponível em: <https://fga-eps-mds.github.io/2021.1-AlligaBot/2021/08/02/termo-de-abertura-do-projeto/>. Acesso em: 28 jan. 2022. <br />

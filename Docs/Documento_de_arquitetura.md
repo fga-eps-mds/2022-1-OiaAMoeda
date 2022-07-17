@@ -100,7 +100,7 @@ Esta subseção descreve toda a decomposição do modelo de design em termos de 
 
 ## 5: Backlog 
 
-O [backlog](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/main/Docs/product_backlog.md) representa uma lista de itens a se fazer ...
+O [backlog](Backlog_do_produto.md) representa uma lista de itens a se fazer ...
 
 ## 6: Visão de implementação
 
