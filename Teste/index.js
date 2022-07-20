@@ -1,9 +1,9 @@
 // variables
-const generalBtn = document.getElementById("genral");
-const businessBtn = document.getElementById("business");
-const sportsBtn = document.getElementById("sport");
-const entertainmentBtn = document.getElementById("entertainment");
-const technologyBtn = document.getElementById("technology");
+const dogeBtn = document.getElementById("doge");
+const btcBtn = document.getElementById("bitcoin");
+const ethBtn = document.getElementById("ethereum");
+const usdtBtn = document.getElementById("tether");
+const bnbBtn = document.getElementById("bnb");
 const searchBtn = document.getElementById("searchBtn");
 
 const newsQuery = document.getElementById("newsQuery");
@@ -14,43 +14,42 @@ const newsdetails = document.getElementById("newsdetails");
 var newsDataArr = [];
 
 // apis 
-const API_KEY = "efa9284109e941d0aa56eecf4e54a85c";
-const HEADLINES_NEWS = "https://newsapi.org/v2/top-headlines?country=br&apiKey=";
-const GENERAL_NEWS = "https://newsapi.org/v2/top-headlines?country=br&category=general&apiKey=";
-const BUSINESS_NEWS = "https://newsapi.org/v2/top-headlines?country=br&apiKey=";
-const SPORTS_NEWS = "https://newsapi.org/v2/top-headlines?country=br&category=sports&apiKey=";
-const ENTERTAINMENT_NEWS = "https://newsapi.org/v2/top-headlines?country=br&category=entertainment&apiKey=";
-const TECHNOLOGY_NEWS = "https://newsapi.org/v2/top-headlines?country=br&category=technology&pageSize=8&apiKey=";
-const SEARCH_NEWS = "https://newsapi.org/v2/everything?q=";
+const API_KEY = "188f514b04db4f2586a4700cb306a7b8";
+const HEADLINES_NEWS = "https://newsapi.org/v2/everything?q=+bitcoin&language=pt&sortBy=relevance&apiKey=";
+const DOGE_NEWS = "https://newsapi.org/v2/everything?q=+DOGE&language=pt&sortBy=relevance&apiKey=";
+const BITCOIN_NEWS = "https://newsapi.org/v2/everything?q=+bitcoin&language=pt&sortBy=relevance&apiKey=";
+const ETH_NEWS = "https://newsapi.org/v2/everything?q=+ethereum&language=pt&sortBy=relevance&apiKey=";
+const USDT_NEWS = "https://newsapi.org/v2/everything?q=+Tether USDT&language=pt&sortBy=relevance&apiKey=";
+const BNB_NEWS = "https://newsapi.org/v2/everything?q=+Binance BNB&language=pt&sortBy=relevance&apiKey=";
 
 window.onload = function() {
-    newsType.innerHTML="<h4>Headlines</h4>";
+    newsType.innerHTML="<h4>Bitcoin</h4>";
     fetchHeadlines();
 };
 
 
-generalBtn.addEventListener("click",function(){
-    newsType.innerHTML="<h4>General news</h4>";
+dogeBtn.addEventListener("click",function(){
+    newsType.innerHTML="<h4>Doge Coin</h4>";
     fetchGeneralNews();
 });
 
-businessBtn.addEventListener("click",function(){
-    newsType.innerHTML="<h4>Business</h4>";
+btcBtn.addEventListener("click",function(){
+    newsType.innerHTML="<h4>Bitcoin</h4>";
     fetchBusinessNews();
 });
 
-sportsBtn.addEventListener("click",function(){
-    newsType.innerHTML="<h4>Sports</h4>";
+ethBtn.addEventListener("click",function(){
+    newsType.innerHTML="<h4>Ethereum</h4>";
     fetchSportsNews();
 });
 
-entertainmentBtn.addEventListener("click",function(){
-    newsType.innerHTML="<h4>Entertainment</h4>";
+usdtBtn.addEventListener("click",function(){
+    newsType.innerHTML="<h4>USDT</h4>";
     fetchEntertainmentNews();
 });
 
-technologyBtn.addEventListener("click",function(){
-    newsType.innerHTML="<h4>Technology</h4>";
+bnbBtn.addEventListener("click",function(){
+    newsType.innerHTML="<h4>Binance coin</h4>";
     fetchTechnologyNews();
 });
 
@@ -77,7 +76,7 @@ const fetchHeadlines = async () => {
 
 
 const fetchGeneralNews = async () => {
-    const response = await fetch(GENERAL_NEWS+API_KEY);
+    const response = await fetch(DOGE_NEWS+API_KEY);
     newsDataArr = [];
     if(response.status >=200 && response.status < 300) {
         const myJson = await response.json();
@@ -93,7 +92,7 @@ const fetchGeneralNews = async () => {
 }
 
 const fetchBusinessNews = async () => {
-    const response = await fetch(BUSINESS_NEWS+API_KEY);
+    const response = await fetch(BITCOIN_NEWS+API_KEY);
     newsDataArr = [];
     if(response.status >=200 && response.status < 300) {
         const myJson = await response.json();
@@ -109,7 +108,7 @@ const fetchBusinessNews = async () => {
 }
 
 const fetchEntertainmentNews = async () => {
-    const response = await fetch(ENTERTAINMENT_NEWS+API_KEY);
+    const response = await fetch(USDT_NEWS+API_KEY);
     newsDataArr = [];
     if(response.status >=200 && response.status < 300) {
         const myJson = await response.json();
@@ -126,7 +125,7 @@ const fetchEntertainmentNews = async () => {
 }
 
 const fetchSportsNews = async () => {
-    const response = await fetch(SPORTS_NEWS+API_KEY);
+    const response = await fetch(ETH_NEWS+API_KEY);
     newsDataArr = [];
     if(response.status >=200 && response.status < 300) {
         const myJson = await response.json();
@@ -142,7 +141,7 @@ const fetchSportsNews = async () => {
 }
 
 const fetchTechnologyNews = async () => {
-    const response = await fetch(TECHNOLOGY_NEWS+API_KEY);
+    const response = await fetch(BNB_NEWS+API_KEY);
     newsDataArr = [];
     if(response.status >=200 && response.status < 300) {
         const myJson = await response.json();
