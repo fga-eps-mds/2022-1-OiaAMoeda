@@ -4,6 +4,7 @@
 | :-: | :-: | :-: | :-: |
 | 01/07/2022 | 0.1 | Criação do documento de arquitetura | Arthur Taylor e Thiago Oliveira |
 | 12/07/2022 | 0.2 | Atualização do documento de arquitetura | Renato Gabriel M. Carvalho |
+| 15/07/2022 | 0.2.1 | Atualização do documento de arquitetura | Joâo Pedro Anacleto Ferreira Machado |
 
 ## 1: Introdução
 
@@ -85,13 +86,21 @@ Esta subseção descreve toda a decomposição do modelo de design em termos de 
 
 ### 4.2. Diagrama de Pacotes
 
+![Diagrama em branco](https://user-images.githubusercontent.com/56097889/179231221-9dd45c6d-e144-49b0-8c86-201147f3b18c.png)
+
+
 ### 4.3. Diagrama de Casos de Uso
+
+![Diagrama de caso de uso](https://user-images.githubusercontent.com/56097889/178992553-4e5e9714-5aac-4641-a8bf-16d48e60fc47.png)
+
 
 ### 4.4. Diagrama de Classes
 
+![Diagrama em branco](https://user-images.githubusercontent.com/56097889/178992916-0c7cfb73-f7d9-42aa-9798-12ed9a0533d0.png)
+
 ## 5: Backlog 
 
-O [backlog](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/main/Docs/product_backlog.md) representa uma lista de itens a se fazer ...
+O [backlog](Backlog_do_produto.md) representa uma lista de itens a se fazer ...
 
 ## 6: Visão de implementação
 

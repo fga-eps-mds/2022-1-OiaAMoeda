@@ -12,14 +12,14 @@ Olá estamos felizes que você tenha demonstrado interesse pelo nosso projeto, a
 
 Certifique-se de seguir os seguintes passos antes de enviar sua contribuição:
 
-* Siga o nosso [código de conduta](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/main/Docs/CODE_OF_CONDUCT.md) do projeto.
+* Siga o [código de conduta](Codigo_de_conduta.md) do projeto.
 * Antes de fazer qualquer alteração no projeto crie uma issue e se responsabilize pela mesma.
 * Certifique-se de cumprir os critérios de aceitação.
 
 ## Como criar uma Issue
 
 1. Procure por issues semelhantes para evitar redundância na documentação
-2. Ao elaborar uma issue siga o [template de issue](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/main/issue_template.md).
+2. Ao elaborar uma issue siga o [template de issue](../Template_de_Issue.md)
 
 Pronto basta esperar ou solicitar o feedback de um dos responsáveis pelo repositório.
 
@@ -27,6 +27,6 @@ Pronto basta esperar ou solicitar o feedback de um dos responsáveis pelo reposi
 
 1. Procure fazer todos os testes necessários antes de fazer o pull request. 
 2. Certifique-se de resolver todos os conflitos entre a branches antes de solicitar o pull request.
-3. Ao criar um pull request siga o [template de pull request](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/main/pull_request_template.md).
+3. Ao criar um pull request siga o [template de Pull Request.](../Template_de_pull_request.md)
 
 Após enviar o pull request para avaliação basta esperar ou solicitar o feedback de um dos responsáveis pelo repositório.

@@ -21,7 +21,7 @@ FIX #
 <!-- Se aplicável, adicione imagens da tela para ajudar a explicar a mudança feita. -->
 
 **Checklist**  
-- [ ] Você verificou se não há outras [Solicitações de Pull](https://github.com/fga-eps-mds/2022-1-Squad5/pulls) para a mesma atualização/alteração que você está trabalhando?
+- [ ] Você verificou se não há outras [Solicitações de Pull](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/pulls) para a mesma atualização/alteração que você está trabalhando?
 - [ ] As mudanças seguem as políticas de commit e branch?
 - [ ] Os membros da equipe estão de acordo com a atualização?
 - [ ] O pull request possui nome significativo.
