@@ -14,6 +14,6 @@
   - [Sprint 3](Sprints/Sprint%203/Sprint3.md)
 
 - Contribuição
-  - [Como contribuir](Docs/Como_contribuir.md)
+  - [Como contribuir](Docs/Como_Contribuir.md)
   - [Código de Conduta](Docs/Codigo_de_conduta.md)
 
