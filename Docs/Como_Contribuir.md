@@ -30,3 +30,18 @@ Pronto basta esperar ou solicitar o feedback de um dos responsáveis pelo reposi
 3. Ao criar um pull request siga o [template de Pull Request.](../Template_de_pull_request.md)
 
 Após enviar o pull request para avaliação basta esperar ou solicitar o feedback de um dos responsáveis pelo repositório.
+
+## Política de commits 
+As descrições das alterações devem ser feitas seguindo um padrão, indicando a issue resolvida e a funcionalidade (ou correção) adicionada.
+
+Utilize tags para definir o propósito do commit:
+* `ADD` : quando adicionar uma nova funcionalidade 
+* `DEL` : Caso seja um commit relacionado a remoção de algo
+* `UPDATE` : quando atualizar alguma funcionalidade
+* `FIX` : para referenciar correções
+* `DOC` : para indicar documentação
+* `REFACT` : indica refatoração do código
+
+Ex:
+
+`git commit -m " [tag] (Issue #x) : mensagem descritiva" `
