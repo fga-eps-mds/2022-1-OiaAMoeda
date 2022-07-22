@@ -7,6 +7,7 @@
 | 04/07/2022 | 0.0 | Criação do Documento de Contribuição | João Pedro Anacleto |
 | 07/07/2022 | 0.1 | Atualização do Documento de Contribuição | Renato Gabriel |
 | 12/07/2022 | 0.2 | Atualização do Documento de Contribuição | Renato Gabriel |
+| 22/07/2022 | 0.3 | Atualização do Documento de Contribuição | Silas Neres    |
 
 Olá estamos felizes que você tenha demonstrado interesse pelo nosso projeto, acreditamos que toda contribuição e pouca então, gostariamos apenas de deixar algumas instruções para que tudo ocorra bem, primeiramente gostariamos que antes de tudo você entrasse em contato conosco seja via email ou git através das issues.
 
