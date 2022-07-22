@@ -31,6 +31,24 @@ Pronto basta esperar ou solicitar o feedback de um dos responsáveis pelo reposi
 
 Após enviar o pull request para avaliação basta esperar ou solicitar o feedback de um dos responsáveis pelo repositório.
 
+## Política de branches
+### Divisão de branches:
+A Divisão de branches visa a melhor organização do trabalho, de forma que evite problemas no código Master 
+
+A imagem a seguir ilustra como será esta divisão:
+
+![img exemplo 1](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/main/Docs/Imgs/Identidade/branche_simples.png)
+
+### Explicação de cada branch:
+
+#### master(main)
+
+Ela é a principal branch, é onde que vai estar o código estável em nível de produção, no caso as versões e as atualizações das branches feature. Toda branch feature que estiver concluída será juntada na master, seguindo a condição de estarem estáveis. 
+
+#### feature 
+
+São branches que serão criadas a partir da branch master para que possa ser desenvolvido novos recursos ao projeto. Quando uma feature for concluída deverá ser juntada na master seguindo a restrição de estar estável.
+
 ## Política de commits 
 As descrições das alterações devem ser feitas seguindo um padrão, indicando a issue resolvida e a funcionalidade (ou correção) adicionada.
 
