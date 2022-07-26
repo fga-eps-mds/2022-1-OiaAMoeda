@@ -21,6 +21,7 @@ const BITCOIN_NEWS = "https://newsapi.org/v2/everything?q=+bitcoin&language=pt&s
 const ETH_NEWS = "https://newsapi.org/v2/everything?q=+ethereum&language=pt&sortBy=relevance&apiKey=";
 const USDT_NEWS = "https://newsapi.org/v2/everything?q=+Tether USDT&language=pt&sortBy=relevance&apiKey=";
 const BNB_NEWS = "https://newsapi.org/v2/everything?q=+Binance BNB&language=pt&sortBy=relevance&apiKey=";
+const SEARCH_NEWS = "https://newsapi.org/v2/everything?q=";
 
 window.onload = function() {
     newsType.innerHTML="<h4>Bitcoin</h4>";
@@ -161,7 +162,7 @@ const fetchQueryNews = async () => {
     if(newsQuery.value == null)
         return;
 
-    const response = await fetch(SEARCH_NEWS+encodeURIComponent(newsQuery.value)+"&apiKey="+API_KEY);
+    const response = await fetch(SEARCH_NEWS+encodeURIComponent(newsQuery.value)+"&sortBy=popularity&apiKey="+API_KEY);
     newsDataArr = [];
     if(response.status >= 200 && response.status < 300) {
         const myJson = await response.json();
