@@ -42,7 +42,7 @@ Este documento está dividido em 6 grandes tópicos com subdivisões e tem como 
 
 ## 2: Representação Arquitetural
 
-O projeto consiste em realizar o scrapping, extração de informações de uma determinada database, por informações das criptomoedas selecionadas pelo usuário. O acesso às informações será realizado através do _metabase_ com uma interface gráfica. Com o usuário podendo selecionar as informações através de novos dashboards criados no _metabase_, com isso os dados poderão ser acessados pelo navegador.
+O projeto consiste em realizar uma integração de APIS disponibilizadas gratuitamente no mercado com o intuito de criar uma dashboard no qual ofereçca ao usuario a capacidade de observar graficos,noticias e dados de uma criptomoeda selecionada.
 
 ## 3: Metas e Restrições da arquitetura
 
@@ -52,6 +52,7 @@ Este projeto tem como principal intuito fazer um painel para disponibilizar aos 
 - Mostrar o preço atual das criptomoedas selecionadas pelo usuário
 - Mostrar para o usuário notícias relevantes sobre a cripto selecionada
 - Converter o valor das criptomoedas em outras moedas
+- Mostrar graficos referente a criptomoeda selecionada
 
 ### 3.2. Tecnologias utilizadas
 
@@ -82,9 +83,11 @@ Esta seção lista os casos de uso ou cenários do modelo de casos de uso quando
 
 ### 4.1. Visão Geral
 
-Esta subseção descreve toda a decomposição do modelo de design em termos de camadas e de hierarquia de pacotes.
+O sistema será desenvolvido utilizando o framework Bootstrap5 em relação ao Front-End da dashboard. Esse sistema comunicara com o usuario atraves do uso de 3 APIS principais da nossa aplicação NewsAPI,Coinmarket Cap API e Trading View API.
 
 ### 4.2. Diagrama de Pacotes
+
+Nesta seção iremos separar o nosso projeto em duas partes diferentes, o Front-End e o Back-End, no qual o Front ira utilizar fortemente o framework Bootstrap 5, uma vez que ele fornece atalhos para utilizarmos seja em HTML, CSS E JAVASCRIPT.Desse modo, interagindo com nosso Back-End decidimos utilizar 3 APIS principais uma referente a cada epico do nosso backlog, sendo NewsAPI (https://newsapi.org/) referente a noticias, Coinmarket Cap API(https://coinmarketcap.com/api/) referente aos dados das Criptos e Trading View API (https://br.tradingview.com/rest-api-spec/) de modo que todas interagem dentro do Back-End com nosso arquivo JSON e a partir desse ponto interage com o Front.
 
 ![Diagrama em branco](https://user-images.githubusercontent.com/56097889/179231221-9dd45c6d-e144-49b0-8c86-201147f3b18c.png)
 
@@ -104,4 +107,11 @@ O [backlog](Backlog_do_produto.md) representa uma lista de itens a se fazer ...
 
 ## 6: Visão de implementação
 
-Esta seção descreve a estrutura geral do modelo de implementação, a divisão do software em camadas e os subsistemas no modelo de implementação e todos os componentes significativos do ponto de vista da arquitetura.
+### 6.1: Front-End Dashboard
+ 
+Antes de tudo para a criação do nosso dashboard foram levantados documentos referentes a sua identidade visual desse modo buscando oferecer uma melhor experiencia ao usuario.Apos isso foram decidas as 3 principais ferramentas para sua implementação ou seja o HTML, CSS E JAVASCRIPT .
+
+### 6.2: Back-End Dashboard
+
+Apos definido as tecnologias do Front-End e a nossa identidade visual, buscamos fontes no qual pudessemos extrair dados referentes as criptomoedas, e chegamos a conclusão que o mais confiavel seria utilizarmos o serviço de APIS, uma vez que estão em constante atualizações.Desse modo decidimos utilizar 3 APIS, News API,Coinmarket Cap API e Trading view API.Entretanto compreendemos que a instabilidade dos servidores dessas empresas, podem ocasionalmente oferecer um risco ao nosso dashboard, e por isso decidimos utilizar a ferramenta do JSON para podermos sempre oferecer uma tela ao nosso usuario.
+
