@@ -87,7 +87,7 @@ O sistema será desenvolvido utilizando o framework Bootstrap5 em relação ao F
 
 ### 4.2. Diagrama de Pacotes
 
-Nesta seção iremos separar o nosso projeto em duas partes diferentes, o Front-End e o Back-End, no qual o Front ira utilizar fortemente o framework Bootstrap 5, uma vez que ele fornece atalhos para utilizarmos seja em HTML, CSS E JAVASCRIPT.Desse modo, interagindo com nosso Back-End decidimos utilizar 3 APIS principais uma referente a cada epico do nosso backlog, sendo NewsAPI (https://newsapi.org/) referente a noticias, Coinmarket Cap API(https://coinmarketcap.com/api/) referente aos dados das Criptos e Trading View API (https://br.tradingview.com/rest-api-spec/) de modo que todas interagem dentro do Back-End com nosso arquivo JSON e a partir desse ponto interage com o Front.
+Nesta seção iremos separar o nosso projeto em duas partes diferentes, o Front-End e o Back-End, no qual o Front ira utilizar fortemente o framework Bootstrap 5, uma vez que ele fornece atalhos para utilizarmos seja em HTML, CSS E JAVASCRIPT.Desse modo, interagindo com nosso Back-End decidimos utilizar 3 APIS principais uma referente a cada epico do nosso backlog, sendo [NewsAPI](https://newsapi.org/) referente a noticias, [Coinmarket Cap API](https://coinmarketcap.com/api/) referente aos dados das Criptos e [Trading View API](https://br.tradingview.com/rest-api-spec/) de modo que todas interagem dentro do Back-End com nosso arquivo JSON e a partir desse ponto interage com o Front.
 
 ![Diagrama em branco](https://user-images.githubusercontent.com/56097889/179231221-9dd45c6d-e144-49b0-8c86-201147f3b18c.png)
 
@@ -103,7 +103,7 @@ Nesta seção iremos separar o nosso projeto em duas partes diferentes, o Front-
 
 ## 5: Backlog 
 
-O [backlog](Backlog_do_produto.md) representa uma lista de itens a se fazer ...
+O [Backlog](Backlog_do_produto.md) representa uma lista de itens a se fazer, podendo ser acessada clicando em backlog.
 
 ## 6: Visão de implementação
 
