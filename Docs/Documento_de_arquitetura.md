@@ -77,6 +77,10 @@ O Live share e uma extensão que fornece a capacidade de editar e depurar de man
 ## <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=GOOGLEDRIVE&logoColor=white">
 Google drive é o serviço de armazenamento na nuvem do Google, oferecido tanto em modalidade gratuita como em planos por assinatura, no qual o objetivo no projeto e o arquivamento de documentos em versões iniciais
 
+## <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+
+O node e um software de codigo aberto no qual nos permite a execução de códigos JavaScript fora de um navegador web.
+
 ## 4: Visão Lógica 
 
 Esta seção lista os casos de uso ou cenários do modelo de casos de uso quando eles representam uma funcionalidade central e significativa do sistema final ou, quando têm uma grande cobertura arquitetural — eles experimentam muitos elementos arquiteturais ou quando enfatizam ou ilustram um ponto complexo e específico da arquitetura.
