@@ -42,7 +42,7 @@ Este documento está dividido em 6 grandes tópicos com subdivisões e tem como 
 
 ## 2: Representação Arquitetural
 
-O projeto consiste em realizar o scrapping, extração de informações de uma determinada database, por informações das criptomoedas selecionadas pelo usuário. O acesso às informações será realizado através do _metabase_ com uma interface gráfica. Com o usuário podendo selecionar as informações através de novos dashboards criados no _metabase_, com isso os dados poderão ser acessados pelo navegador.
+O projeto consiste em realizar uma integração de APIS disponibilizadas gratuitamente no mercado com o intuito de criar uma dashboard no qual ofereçca ao usuario a capacidade de observar graficos,noticias e dados de uma criptomoeda selecionada.
 
 ## 3: Metas e Restrições da arquitetura
 
@@ -52,6 +52,7 @@ Este projeto tem como principal intuito fazer um painel para disponibilizar aos 
 - Mostrar o preço atual das criptomoedas selecionadas pelo usuário
 - Mostrar para o usuário notícias relevantes sobre a cripto selecionada
 - Converter o valor das criptomoedas em outras moedas
+- Mostrar graficos referente a criptomoeda selecionada
 
 ### 3.2. Tecnologias utilizadas
 
@@ -76,15 +77,21 @@ O Live share e uma extensão que fornece a capacidade de editar e depurar de man
 ## <img src="https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=GOOGLEDRIVE&logoColor=white">
 Google drive é o serviço de armazenamento na nuvem do Google, oferecido tanto em modalidade gratuita como em planos por assinatura, no qual o objetivo no projeto e o arquivamento de documentos em versões iniciais
 
+## <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+
+O node e um software de codigo aberto no qual nos permite a execução de códigos JavaScript fora de um navegador web.
+
 ## 4: Visão Lógica 
 
 Esta seção lista os casos de uso ou cenários do modelo de casos de uso quando eles representam uma funcionalidade central e significativa do sistema final ou, quando têm uma grande cobertura arquitetural — eles experimentam muitos elementos arquiteturais ou quando enfatizam ou ilustram um ponto complexo e específico da arquitetura.
 
 ### 4.1. Visão Geral
 
-Esta subseção descreve toda a decomposição do modelo de design em termos de camadas e de hierarquia de pacotes.
+O sistema será desenvolvido utilizando o framework Bootstrap5 em relação ao Front-End da dashboard. Esse sistema comunicara com o usuario atraves do uso de 3 APIS principais da nossa aplicação NewsAPI,Coinmarket Cap API e Trading View API.
 
 ### 4.2. Diagrama de Pacotes
+
+Nesta seção iremos separar o nosso projeto em duas partes diferentes, o Front-End e o Back-End, no qual o Front ira utilizar fortemente o framework Bootstrap 5, uma vez que ele fornece atalhos para utilizarmos seja em HTML, CSS E JAVASCRIPT.Desse modo, interagindo com nosso Back-End decidimos utilizar 3 APIS principais uma referente a cada epico do nosso backlog, sendo [NewsAPI](https://newsapi.org/) referente a noticias, [Coinmarket Cap API](https://coinmarketcap.com/api/) referente aos dados das Criptos e [Trading View API](https://br.tradingview.com/rest-api-spec/) de modo que todas interagem dentro do Back-End com nosso arquivo JSON e a partir desse ponto interage com o Front.
 
 ![Diagrama em branco](https://user-images.githubusercontent.com/56097889/179231221-9dd45c6d-e144-49b0-8c86-201147f3b18c.png)
 
@@ -100,8 +107,14 @@ Esta subseção descreve toda a decomposição do modelo de design em termos de 
 
 ## 5: Backlog 
 
-O [backlog](Backlog_do_produto.md) representa uma lista de itens a se fazer ...
+O [Backlog](Backlog_do_produto.md) representa uma lista de itens a se fazer, podendo ser acessada clicando em backlog.
 
 ## 6: Visão de implementação
 
-Esta seção descreve a estrutura geral do modelo de implementação, a divisão do software em camadas e os subsistemas no modelo de implementação e todos os componentes significativos do ponto de vista da arquitetura.
+### 6.1: Front-End Dashboard
+ 
+Antes de tudo para a criação do nosso dashboard foram levantados documentos referentes a sua identidade visual desse modo buscando oferecer uma melhor experiencia ao usuario.Apos isso foram decidas as 3 principais ferramentas para sua implementação ou seja o HTML, CSS E JAVASCRIPT .
+
+### 6.2: Back-End Dashboard
+
+Após definido as tecnologias do Front-End e a nossa identidade visual, buscamos fontes no qual pudéssemos extrair dados referentes as criptomoedas, e chegamos a conclusão que o mais confiável seria utilizarmos o serviço de APIS, uma vez que estão em constante atualizações.Desse modo decidimos utilizar 3 APIS, News API, Coinmarket Cap API e Trading view API.Entretanto compreendemos que a instabilidade dos servidores dessas empresas, podem ocasionalmente oferecer um risco ao nosso dashboard, e por isso decidimos utilizar a ferramenta Node.js como servidor que fará o tratamento dos dados obtidos nas APIs, e emitirá um arquivos em formato JSON, os arquivos serão atualizados em cache para podermos sempre oferecer uma tela ao nosso usuario.
