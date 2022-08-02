@@ -12,10 +12,9 @@
 
 <body class="m-0 p-0">
 
-    <div class="container-fluid m-0 p-0">
-
+    <header>
         <!-- navbar -->
-        <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <nav class="navbar navbar-expand-lg navbar-dark">
             <div class="container-fluid">
                 <a class="navbar-brand text-warning" href="#">Oia a moeda</a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
@@ -25,7 +24,6 @@
                 </button>
                 <div class="collapse navbar-collapse" id="navbarSupportedContent">
                     <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                        
                         <div class="dropdown">
                             <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton1" data-bs-toggle="dropdown" aria-expanded="false">
                                 Cripto
@@ -39,7 +37,9 @@
                             </ul>
                         </div>
                     </ul>
-                    <h6>Notícias</h6>
+                
+                    <!-- <h6 class="navbar-text bg-warning">Notícias</h6> -->
+                    
                     <form class="d-flex">
                         <input class="form-control me-2" type="text" id="newsQuery" placeholder="Search news">
                         <button class="btn btn-outline-warning" type="button" id="searchBtn">Search</button>
@@ -47,25 +47,26 @@
                 </div>
             </div>
         </nav>
+    </header>
 
+    <main>
         <!-- News  -->
         <div>
             <div class="row m-3" id="newsType"></div>
             <div class="row me-2 ms-2" id="newsdetails"></div>
         </div>
+    </main>
 
+    <footer>
         <!-- footer -->
         <div class="mt-5">
-            <div>
-                <nav class="navbar navbar-expand-lg navbar-dark bg-dark mt-4">
-                  <div class="container-fluid m-0 p-0">
-                    <!-- <h5 class="text-white me-auto ms-auto">Code<span class="text-warning">Logic</span></h5> -->
-                  </div>
-                </nav>
-              </div>
+            <nav class="navbar navbar-expand-lg navbar-dark bg-dark mt-4">
+                <div class="container-fluid m-0 p-0">
+                <!-- <h5 class="text-white me-auto ms-auto">Code<span class="text-warning">Logic</span></h5> -->
+                </div>
+            </nav>
         </div>
-
-    </div>
+    </footer>
 
 
     <script src="./js/noticias.js"></script>
