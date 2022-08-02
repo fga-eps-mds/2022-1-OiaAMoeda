@@ -1,5 +1,5 @@
 # 2022-1-OiaAMoeda 
-(inserir logo)
+<p align="center">  <img alt="Oia a Moeda" src="Docs/Imgs/Logo/Oia_a_moeda.svg" width="400px"></p>
 
 ## 📝Sobre
 Este projeto tem como objetivo criar um site para uma melhor visualização de informações referentes ás cripto moedas presentes no mercado atualmente, em conjunto com noticias sobre as mesmas, com o objetivo de reduzir o tempo gasto por investidores e empresas ao realizar uma analise mais aprofundada, ou mais rasa, sobre a moeda desejada

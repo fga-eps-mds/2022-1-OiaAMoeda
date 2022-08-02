@@ -8,6 +8,7 @@ body {
 
 .cover {
     background: linear-gradient(143deg, #967d00, #966200) !important;
+    background-image: url('../_images/cover.svg') !important;
 }
 
 .col-lg-3 p img {
@@ -31,4 +32,28 @@ body {
 .fw-normal {
     text-align: center;
     color: #c8c8c8 !important;
+}
+
+.github-corner svg {
+    fill: #466d7e !important;
+}
+
+section.cover .cover-main>p:last-child a:hover {
+    color: #fff !important;
+}
+
+section.cover p img {
+    max-width: 55%;
+}
+
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4,
+.markdown-section strong {
+    color: #466d7e;
+}
+
+.sidebar>h1 a img {
+    max-width: 70%;
 }
