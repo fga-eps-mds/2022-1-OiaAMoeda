@@ -7,6 +7,7 @@
 | :-: | :-: | :-: | :-: | 
 | 01/07/2022 | 0.1 | Versão Inicial | Thiago Oliveira Cunha, Arthur Taylor |
 | 15/07/2022 | 0.2 | Adição dos tópicos 6,7 e 8 | Arthur Taylor |
+| 15/07/2022 | 0.3 | Adição do tópico "prazo e custos" | Arthur Taylor |
 
 ### Siglas
 
@@ -108,13 +109,25 @@ Dificuldade ao adaptar às tecnologias escolhidas | Compartilhamento de links ou
 * Atender às expectativas definidas pelo _**MVP**_.
 * Entrega de todos os itens necessários na _Release 2 da disciplina de MDS_.
 
+## 9. Prazo e custo
 
-## 9. Estratégias de comunicação
+O projeto deve ser desenvolvido durante os 90 dias letivos do semestre 2022 - 1 da universidade de brasilia, os custos calculados estão apresentados na tabela abaixo, sendo o custo do risco a média de salarios da equipe de desenvolvimento. 
+
+| Nome | Custo | Quantidade | Custo Mensal | Custo Total |
+| :--: | :---: | :--------: | :----------: | :---------: |
+| Desenvolvedores Júnior | 3.000,00 | 8 | 24.000,00 | 72.000,00|
+| ΔRisco  | 3.000,00 | - | 3.000,00 | 9.000,00 |
+| |||| 81.000,00|
+
+Os valores do salário foram calculados de acordo com a média salarial do mercado de trabalho.
+
+
+## 10. Estratégias de comunicação
 
 Para comunicação interna foram utilizadas as seguintes ferramentas: **Discord**,**Telegram** e **Whatsapp**.<br />
 Demais ferramentas à definir(como ferramentas de treinamento e etc)
 
-## 10. Referências
+## 11. Referências
 
 UNIVERSIDADE DE BRASÍLIA (Brasil). **INDICAA - Termo de abertura do projeto.** [S. l.], 2022. Disponível em: <https://github.com/fga-eps-mds/2021.2-INDICAA-Wiki/blob/main/docs/documentacao/termo_de_abertura.md>. Acesso em: 01 julho. 2022. <br />
 UNIVERSIDADE DE BRASÍLIA (Brasil). **Acácia - Termo de abertura do projeto.** [S. l.], 2019. Disponível em: <https://fga-eps-mds.github.io/2019.2-Acacia/#/project_charter>. Acesso em: 28 jan. 2022. <br />
