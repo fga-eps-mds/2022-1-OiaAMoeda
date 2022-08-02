@@ -7,7 +7,7 @@
   - [Protótipo de Baixa Fidelidade](Docs/Prototipo_de_baixa_fidelidade.md)
   - [Identidade Visual](Docs/Guia_de_estilo.md)
   - [Backlog do produto](Docs/Backlog_do_produto.md)
-  - [EAP](Docs/EAP.pdf)
+  - [EAP](Docs/Estrutura_Analitica_do_projeto.md)
 
 - Gerenciamento
   - [Sprint 0](#)
