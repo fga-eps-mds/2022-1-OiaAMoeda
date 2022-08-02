@@ -57,3 +57,11 @@ section.cover p img {
 .sidebar>h1 a img {
     max-width: 70%;
 }
+
+.markdown-section iframe {
+    border: none;
+}
+
+.contraste p img {
+    width: 200px;
+}
