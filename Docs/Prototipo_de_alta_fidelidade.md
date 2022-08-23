@@ -1,12 +1,12 @@
 # Tela inicial
 
-![image](https://user-images.githubusercontent.com/56097889/179360955-708bb3e4-b818-4b9a-96ba-56d0bca55aa6.png)
+![image](https://user-images.githubusercontent.com/56097889/186060328-9b012a1c-fc91-41d5-9a9b-177ee6005e93.png)
 
 # Tela noticias
 
-![image](https://user-images.githubusercontent.com/56097889/179361030-36c16189-1aa8-4bb5-8bae-92224211ab96.png)
+![image](https://user-images.githubusercontent.com/56097889/186060373-737ba237-2efc-4981-8187-a53059efd29d.png)
 
-# PDF do prototipo
+# Exemplo de noticia redirecionada
 
-[Oia a moeda.pdf](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/files/9126087/Oia.a.moeda.pdf)
+![image](https://user-images.githubusercontent.com/56097889/186060430-8e70c1b4-aab4-4134-8949-c554d405253a.png)
 
