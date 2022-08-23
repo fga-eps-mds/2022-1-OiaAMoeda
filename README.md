@@ -24,19 +24,20 @@ Cada Tag pode ser clicada e levará para o link de download da tecnologia ou de 
 [<img alt="tagTelegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://web.telegram.org/)
 
 ## 📜Como Contribuir
-Para contribuir com o projeto, é extremamente importante e recomendado que siga o [Guia de como contribuir com o projeto](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/main/Docs/CONTRIBUTING.md) onde será encontrado tudo necessario para se contribuir, como templates, codigo de conduta e politicas.              
-E tambem deverá estar atento ao nosso [Codigo de Conduta](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/develop/Docs/CODE_OF_CONDUCT.md).
+Para contribuir com o projeto, é extremamente importante e recomendado que siga o [Guia de como contribuir com o projeto](https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/main/Docs/Como_Contribuir.md) onde será encontrado tudo que vai ser necessário para se contribuir com o projeto. Como por exemplo templates, política de branches, política de commits e tutoriais de como criar uma issue e/ou um pull request.              
+O usuário que estiver disposto a contribuir com o projeto deverá deverá estar atento ao [Codigo de Conduta]( https://github.com/fga-eps-mds/2022-1-OiaAMoeda/blob/main/Docs/Codigo_de_conduta.md).
+
 
 ## 👨‍💻💪Instalação e execução do projeto
 
 ### 👨‍💻Instalação das tecnologias
 
 #### Visual Studio Code:
-É interessante que todos integrantes utilisem desse editor de código, para facilitar a padronização do grupo e a ediçao de código por pareamento.
+É interessante que todos contribuidores do projeto utilizem desse editor de código, para facilitar a padronização do grupo e a edição de código por pareamento.
 
 Download: https://code.visualstudio.com/download
 
-Seguem as extensões necessárias para o desenvolvimento do projeto e estar atualizado com o ambiente do resto do grupo:
+#### Seguem as extensões necessárias para o desenvolvimento do projeto:
 
 - Name: Live Server
 Id: ritwickdey.LiveServer
@@ -48,7 +49,7 @@ Essa extensão permite rodar as páginas no localhost do dev que estiver editand
 Id: ms-vsliveshare.vsliveshare
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
-Essa extensão permite que 2 ou mais devs editem uma mesma pasta compartilhada da máquina de um integrante do grupo. Facilitando assim o processo de desenvolvimento com piloto e copiloto.
+Essa extensão permite que dois ou mais devs editem uma mesma pasta compartilhada da máquina de um integrante do grupo. Facilitando assim o processo de desenvolvimento com piloto e copiloto.
 
 
 #### Bootstrap:
@@ -99,6 +100,5 @@ Clique com botão direito na página que está editando e selecione abrir com Li
 
 
 
-
-(completar de acordo com o andamento do projeto)
+> :warning: Completar de acordo com o andamento do projeto!
 
