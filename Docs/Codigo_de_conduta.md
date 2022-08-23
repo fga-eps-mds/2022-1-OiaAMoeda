@@ -4,7 +4,7 @@
 
 | Data | Versão | Descrição | Autor(es) |
 | :-: | :-: | :-: | :-: |
-| 06/07/2022 | 0.0 | Criação do Documento de Contribuição | João Pedro Anacleto |
+| 06/07/2022 | 0.0 | Criação do Documento de Contribuição | João Gabriel Elvas |
 | 12/07/2022 | 0.1 | Atualização do Documento de Contribuição | Renato Gabriel |
 
 ## Nosso Compromisso
