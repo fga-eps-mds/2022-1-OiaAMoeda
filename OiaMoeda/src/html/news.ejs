@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Node.js News</title>
+    <link rel="stylesheet" href="/src/css/styles.css">
+</head>
+<body>
+    <header class="header">
+        <div class="header__logo">Node.Js News</div>
+    </header>
+
+    <div class="wrapper">
+        <div class="news">
+            <% if(articles != null) { %>
+            <% articles.forEach(function(article, index) { %>
+                <a href="<%- article.url %>" class="news__card">
+                    <img src="<%- article.urlToImage %>" alt="<%- article.title %>">
+                    <h2><%- article.title %></h2>
+                    <p><%- article.description %></p>
+                </a>
+            <% }) %>
+            <% } else { %>
+                No posts found.
+            <% } %>
+        </div>
+    </div>  
+</body>
+</html>
