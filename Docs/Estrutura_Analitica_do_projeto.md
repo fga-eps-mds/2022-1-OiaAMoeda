@@ -4,10 +4,11 @@
 
 | Data | Versão | Descrição | Autor(es/as) |
 |------|--------|-----------|--------------|
-|05/02/2022|0.1|Criação do Documento|João Gabriel Elvas|
-|21/02/2022|0.2|Adição de Diagrama|João Gabriel Elvas|
-|21/02/2022|0.3|Adição de Diagrama Mais Detalhado|Thiago Oliveira Cunha|
-|21/02/2022|0.4|Passagem para Markdown|Thiago Oliveira Cunha|
+|13/07/2022|0.1|Criação do Documento|João Gabriel Elvas|
+|13/07/2022|0.2|Adição de Diagrama|João Gabriel Elvas|
+|31/07/2022|0.3|Adição de Diagrama Mais Detalhado|Thiago Oliveira Cunha|
+|01/08/2022|0.4|Passagem para Markdown|Thiago Oliveira Cunha|
+|18/08/2022|0.5|Adição de Novo Diagrama, Mostrando as prioridades de cada US|Thiago Oliveira Cunha|
 
 
 ## Siglas
@@ -22,4 +23,4 @@
 Este documento visa ilustrar, em formato de diagrama, as atividades necessárias para a entrega do _MVP_.
 
 ## 2. Diagrama
-![Diagrama da Estrutura Analítica do Projeto](https://user-images.githubusercontent.com/71983200/182041004-98c214b6-d110-493c-a3fd-2c6653f3b6e8.png)
+![Diagrama da Estrutura Analítica do Projeto](https://raw.githubusercontent.com/fga-eps-mds/2022-1-OiaAMoeda/Revis%C3%A3o_EAP/Docs/Imgs/Diagramas/EAP%20-%20%C3%93ia%20a%20Moeda.png)

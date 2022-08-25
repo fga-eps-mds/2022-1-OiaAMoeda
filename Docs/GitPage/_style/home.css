@@ -8,27 +8,60 @@ body {
 
 .cover {
     background: linear-gradient(143deg, #967d00, #966200) !important;
+    background-image: url('../_images/cover.svg') !important;
 }
 
-.col-lg-4 p img {
+.col-lg-3 p img {
     background-image: url('data:image/svg+xml,<svg xmlns="http://www.w3.org/2000/svg" width="160" height="160" fill="currentColor" class="bi bi-person-circle" viewBox="0 0 16 16"><path d="M11 6a3 3 0 1 1-6 0 3 3 0 0 1 6 0z"/><path fill-rule="evenodd" d="M0 8a8 8 0 1 1 16 0A8 8 0 0 1 0 8zm8-7a7 7 0 0 0-5.468 11.37C3.242 11.226 4.805 10 8 10s4.757 1.225 5.468 2.37A7 7 0 0 0 8 1z"/></svg>');
     border-radius: 50% !important;
     background-repeat: no-repeat;
     background-position: center;
     background-color: #c8c8c8;
-    width: 140px;
-    height: 140px;
-    min-width: 140px;
-    min-height: 140px;
+    width: 110px;
+    height: 110px;
+    min-width: 110px;
+    min-height: 110px;
     text-align: center;
     align-items: center;
 }
 
-.col-lg-4 p {
+.col-lg-3 p {
     text-align: center;
 }
 
 .fw-normal {
     text-align: center;
     color: #c8c8c8 !important;
+}
+
+.github-corner svg {
+    fill: #466d7e !important;
+}
+
+section.cover .cover-main>p:last-child a:hover {
+    color: #fff !important;
+}
+
+section.cover p img {
+    max-width: 55%;
+}
+
+.markdown-section h1,
+.markdown-section h2,
+.markdown-section h3,
+.markdown-section h4,
+.markdown-section strong {
+    color: #466d7e;
+}
+
+.sidebar>h1 a img {
+    max-width: 70%;
+}
+
+.markdown-section iframe {
+    border: none;
+}
+
+.contraste p img {
+    width: 200px;
 }
