@@ -14,7 +14,6 @@ const newsdetails = document.getElementById("newsdetails");
 var newsDataArr = [];
 
 // apis 
-const API_KEY = "188f514b04db4f2586a4700cb306a7b8";
 const HEADLINES_NEWS = "https://newsapi.org/v2/everything?q=+bitcoin&language=pt&sortBy=relevance&apiKey=";
 const DOGE_NEWS = "https://newsapi.org/v2/everything?q=+DOGE&language=pt&sortBy=relevance&apiKey=";
 const BITCOIN_NEWS = "https://newsapi.org/v2/everything?q=+bitcoin&language=pt&sortBy=relevance&apiKey=";
