@@ -16,7 +16,7 @@ Cada Tag pode ser clicada e levará para o link de download da tecnologia ou de 
 [<img alt="tagGitDesktop" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://desktop.github.com/)
 [<img alt="tagMetabase" src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff">](https://www.metabase.com/)
 [<img alt="tagMetabase" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">](https://docs.docker.com/desktop/install/windows-install/)
-[<img alt="tagNodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"](https://nodejs.org/en/)
+[<img alt="tagNodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">](https://nodejs.org/en/)
 
 
 ### 🗣️Comunicação
