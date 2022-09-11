@@ -16,6 +16,7 @@ Cada Tag pode ser clicada e levará para o link de download da tecnologia ou de 
 [<img alt="tagGitDesktop" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://desktop.github.com/)
 [<img alt="tagMetabase" src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff">](https://www.metabase.com/)
 [<img alt="tagMetabase" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">](https://docs.docker.com/desktop/install/windows-install/)
+[<img alt="tagNodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"](https://nodejs.org/en/)
 
 
 ### 🗣️Comunicação
@@ -88,7 +89,13 @@ Ou tudo isso pode ser feito mais facilmente por meio do GitHub Desktop:
 
 <img alt="demo GitDesk1" src="https://user-images.githubusercontent.com/73550220/181051698-1a448c42-c6e0-4568-8b0c-1be1397d4f32.jpg" width="400">   <img alt="demo GitDesk2" src="https://user-images.githubusercontent.com/73550220/181051635-2b98564a-a3b0-417e-a740-1a30f8d916bd.png" width="400">
 
-Agora que você tem o repositório na sua máquina, basta abrir ele no vscode:
+Agora que você tem o repositório na sua máquina, basta abrir ele no vscode utilizando o comando "code" seguido do endereço do repositório clonado como no exemplo:
+
+```sh
+code C:\Users\exemplo\Documentos\Github\2022-1-OiaAMoeda
+```
+
+Ou acessando o repositório no GiHhub Desktop como exemplificado:
 
 <img alt="demo GitDesk3" src="https://user-images.githubusercontent.com/73550220/181057249-6a78f391-f6f2-499d-96e5-fd11596142e7.png" width ="650">
 
