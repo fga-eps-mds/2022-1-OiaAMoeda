@@ -101,10 +101,6 @@ Nesta seção iremos separar o nosso projeto em duas partes diferentes, o Front-
 ![Diagrama de caso de uso](https://user-images.githubusercontent.com/56097889/178992553-4e5e9714-5aac-4641-a8bf-16d48e60fc47.png)
 
 
-### 4.4. Diagrama de Classes
-
-![Diagrama em branco](https://user-images.githubusercontent.com/56097889/178992916-0c7cfb73-f7d9-42aa-9798-12ed9a0533d0.png)
-
 ## 5: Backlog 
 
 O [Backlog](Backlog_do_produto.md) representa uma lista de itens a se fazer, podendo ser acessada clicando em backlog.
