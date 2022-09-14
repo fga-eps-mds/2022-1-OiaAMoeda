@@ -28,8 +28,8 @@
 |**Identificador**|**Requisito**|**Prioridade**|
 |:-:|:-:|:-:|
 | RNF01 | A aplicação deverá obter informações em tempo real | Alta |
-| RNF02 | O Back-End da aplicação será desenvolvido usando -,-,-. | Alta |
-| RNF03 | O Front-End da aplicação será desenvolvido usando -,-,-. | Alta |
+| RNF02 | O Back-End da aplicação será desenvolvido usando o framework Express.js da plataforma Node.js | Alta |
+| RNF03 | O Front-End da aplicação será desenvolvido usando html e css, em conjunto com o framework Bootstrap | Alta |
 | RNF04 | A aplicação deve possuir auta coesão e baixo acoplamento | Média |
 
 ## Referências:
