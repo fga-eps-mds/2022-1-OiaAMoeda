@@ -6,6 +6,7 @@
 | 02/07/2022 | 0.0 | Criação do Documento de Requisitos | Renato Gabriel M. Carvalho |
 | 07/07/2022 | 0.1 | Adição do Histórico de Revisão | Renato Gabriel M. Carvalho |
 | 12/07/2022 | 0.2 | Atualização do Documento | Renato Gabriel M. Carvalho |
+| 14/09/2022 | 0.3 | Adição das linguagens e plataformas utilizadas no projeto | Thiago O. Cunha |
 
 ## Categoria de Prioridades:
 
