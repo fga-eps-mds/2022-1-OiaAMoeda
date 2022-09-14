@@ -8,6 +8,7 @@
 | 30/06/2022 | 0.1    | Atualização do Documento de Visão  |   Renato Gabriel M. Carvalho |
 | 07/07/2022 | 0.2    | Adição do Histórico de Revisão  |   Renato Gabriel M. Carvalho |
 | 12/07/2022 | 0.3 | Correções ortográficas do Documento |   Renato Gabriel M. Carvalho |
+| 14/09/2022 | 0.4 | Adição de Oportunidades de negócio |  Thiago O. Cunha |
 
 
 ## 1: Introdução
@@ -38,11 +39,11 @@ No contexto econômico enfervecente atual, sendo diariamente inundado com novas 
 
 ### 2.2 Instrução de Posição de Produto
 
-A aplicação, será implementada como uma aplicação web que pode ser usada facilmente em navegadores mobile proporcionando uma experiência muito parecida a de um app nativo. Permitindo ao investidor checar notícias e gráficos detalhando a performance das moedas que estão mais em voga.
+A aplicação, será implementada como uma aplicação web que pode ser usada facilmente em navegadores web proporcionando uma experiência muito parecida a de um app nativo. Permitindo ao investidor checar notícias e gráficos detalhando a performance das moedas que estão mais em voga.
 
 ### 2.3 Oportunidade de Negócios
 
-Descreve brevemente a oportunidade de negócios que é tratada por este projeto.
+Nossa aplicação web tem como possiveis usuários interessados, investidores solos, bancos de crypto, grandes empresas ou até qualquer outro usuário ou instituição que tenha como intuito obter informações com uma fácil visualização, referentes á criptomoedas, visto que atualmente se encontra uma certa escassez desse tipo de infomração na web. O projeto foi criado sem um foco em um publico especifico, podendo atender a quem precisar, e podendo se beneficiarem de forma á ir de encontro com a expectativa e necessidade de cada usuário.
 
 ## 3: Descrição dos Usuários e Envolvidos
 
@@ -59,7 +60,7 @@ Descreve brevemente a oportunidade de negócios que é tratada por este projeto.
 
 |**Usuário**|**Necessidade**|**Solução Atual**|**Solução Proposta**|
 | :-: | :-: | :-: | :-: |
-| Investidores | Acessar informações sobre seus interesses de investimento | Pesquisar por informações sobre investimentos em portais online | Forcecer um hub com todas as informações pertinentes ao usuário de forma curada |
+| Investidores,Bancos de Crypto,Grandes Empresas e Outros | Acessar informações sobre seus interesses de investimento | Pesquisar por informações sobre investimentos em portais online | Forcecer um hub com todas as informações pertinentes ao usuário de forma curada |
 
 ### 3.3 Descrição dos Envolvidos
 
