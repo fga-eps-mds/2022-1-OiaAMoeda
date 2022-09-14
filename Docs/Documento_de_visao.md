@@ -9,6 +9,7 @@
 | 07/07/2022 | 0.2    | Adição do Histórico de Revisão  |   Renato Gabriel M. Carvalho |
 | 12/07/2022 | 0.3 | Correções ortográficas do Documento |   Renato Gabriel M. Carvalho |
 | 14/09/2022 | 0.4 | Adição de Oportunidades de negócio |  Thiago O. Cunha |
+| 14/09/2022 | 0.5 | Adição do Perfil dos Usuários |  Thiago O. Cunha |
 
 
 ## 1: Introdução
@@ -92,7 +93,9 @@ Nossa aplicação web tem como possiveis usuários interessados, investidores so
 
 ### 3.5 Perfis dos Usuários
 
-À definir
+|**Representantes**|**Descrição**|**Tipo**|**Responsabilidade**|**Critério de Sucesso**|**Envolvimento**|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Investidores,Bancos de Crypto,Grandes Empresas e Outros | Pessoas e/ou instituições que querem informações detalhadas e de fácil e flexivel visualização sobre a(s) criptomoeda(s) desejada(s) ou que querem ser alertadas sobre novidades relacionadas ao tema | Usuários Desinformados | Além de utilizar o programa e usufruir de suas funcionalidades, o usuário deve alertar sobre possíveis falhas ou informações faltantes | Satisfação dos usuários com as informações dadas pela aplicação web, aumento da circulação de informações e noticias sobre o tema e surgimento de mais aplicaões relacionadas á tal tema |Alto|
 
 ### 3.6 Alternativas e Concorrências
 
