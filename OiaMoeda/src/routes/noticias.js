@@ -234,4 +234,3 @@ function displayNews() {
     });
 
 }
-
