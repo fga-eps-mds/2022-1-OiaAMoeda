@@ -1,0 +1,17 @@
+.navbar{
+    background-color: #174444;
+}
+
+.cabecalho-barraDePesquisa {
+    background-image: url('https://cdn1.iconfinder.com/data/icons/hawcons/32/698627-icon-111-search-512.png');
+    background-repeat: no-repeat;
+    background-position: left center;
+    background-size: 20px;
+    border: none;
+    border-color: transparent;  
+    width: 15%;
+    font-size: 14px;
+    padding: 4px 40px 4px 40px;  
+    /* border: 1px solid #ddd; */
+    margin-bottom: 12px;
+  }
