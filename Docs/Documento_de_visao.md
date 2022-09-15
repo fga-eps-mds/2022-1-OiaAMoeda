@@ -8,6 +8,9 @@
 | 30/06/2022 | 0.1    | Atualização do Documento de Visão  |   Renato Gabriel M. Carvalho |
 | 07/07/2022 | 0.2    | Adição do Histórico de Revisão  |   Renato Gabriel M. Carvalho |
 | 12/07/2022 | 0.3 | Correções ortográficas do Documento |   Renato Gabriel M. Carvalho |
+| 14/09/2022 | 0.4 | Adição de Oportunidades de negócio |  Thiago O. Cunha |
+| 14/09/2022 | 0.5 | Adição do Perfil dos Usuários |  Thiago O. Cunha |
+| 14/09/2022 | 0.6 | Adição das Alternativas e Concorrentes |  Thiago O. Cunha |
 
 
 ## 1: Introdução
@@ -38,11 +41,11 @@ No contexto econômico enfervecente atual, sendo diariamente inundado com novas 
 
 ### 2.2 Instrução de Posição de Produto
 
-A aplicação, será implementada como uma aplicação web que pode ser usada facilmente em navegadores mobile proporcionando uma experiência muito parecida a de um app nativo. Permitindo ao investidor checar notícias e gráficos detalhando a performance das moedas que estão mais em voga.
+A aplicação, será implementada como uma aplicação web que pode ser usada facilmente em navegadores web proporcionando uma experiência muito parecida a de um app nativo. Permitindo ao investidor checar notícias e gráficos detalhando a performance das moedas que estão mais em voga.
 
 ### 2.3 Oportunidade de Negócios
 
-Descreve brevemente a oportunidade de negócios que é tratada por este projeto.
+Nossa aplicação web tem como possiveis usuários interessados, investidores solos, bancos de crypto, grandes empresas ou até qualquer outro usuário ou instituição que tenha como intuito obter informações com uma fácil visualização, referentes á criptomoedas, visto que atualmente se encontra uma certa escassez desse tipo de infomração na web. O projeto foi criado sem um foco em um publico especifico, podendo atender a quem precisar, e podendo se beneficiarem de forma á ir de encontro com a expectativa e necessidade de cada usuário.
 
 ## 3: Descrição dos Usuários e Envolvidos
 
@@ -59,7 +62,7 @@ Descreve brevemente a oportunidade de negócios que é tratada por este projeto.
 
 |**Usuário**|**Necessidade**|**Solução Atual**|**Solução Proposta**|
 | :-: | :-: | :-: | :-: |
-| Investidores | Acessar informações sobre seus interesses de investimento | Pesquisar por informações sobre investimentos em portais online | Forcecer um hub com todas as informações pertinentes ao usuário de forma curada |
+| Investidores,Bancos de Crypto,Grandes Empresas e Outros | Acessar informações sobre seus interesses de investimento | Pesquisar por informações sobre investimentos em portais online | Forcecer um hub com todas as informações pertinentes ao usuário de forma curada |
 
 ### 3.3 Descrição dos Envolvidos
 
@@ -91,11 +94,14 @@ Descreve brevemente a oportunidade de negócios que é tratada por este projeto.
 
 ### 3.5 Perfis dos Usuários
 
-À definir
+|**Representantes**|**Descrição**|**Tipo**|**Responsabilidade**|**Critério de Sucesso**|**Envolvimento**|
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| Investidores,Bancos de Crypto,Grandes Empresas e Outros | Pessoas e/ou instituições que querem informações detalhadas e de fácil e flexivel visualização sobre a(s) criptomoeda(s) desejada(s) ou que querem ser alertadas sobre novidades relacionadas ao tema | Usuários Desinformados | Além de utilizar o programa e usufruir de suas funcionalidades, o usuário deve alertar sobre possíveis falhas ou informações faltantes | Satisfação dos usuários com as informações dadas pela aplicação web, aumento da circulação de informações e noticias sobre o tema e surgimento de mais aplicaões relacionadas á tal tema |Alto|
 
 ### 3.6 Alternativas e Concorrências
 
-À definir
+#### 3.6.1 CoinMarketCap
+É, assim como nosso projeto, uma aplicação web com intuítos e funcionalidades parecidas com a nossa, mostrando informações e gráficos detalhados sobre a criptomoeda escolhida, porém sem a presença visivel de noticias publicadas por jornais ou plataforma de alta relevância.
 
 ## 4: Visão Geral do Produto
 

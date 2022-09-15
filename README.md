@@ -7,16 +7,14 @@ Este projeto tem como objetivo criar um site para uma melhor visualização de i
 
 ## 💻Tecnologias Utilizadas
 Cada Tag pode ser clicada e levará para o link de download da tecnologia ou de como utiliza-la em outra plataforma(como o VScode), para ser mais pratico de se contribuir  😊
+
 ### 👨‍💻Desenvolvimento
 [<img alt="tagVsCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=VISUALSTUDIOCODE&logoColor=white">](https://code.visualstudio.com/download)
 [<img alt="tagJS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [<img alt="tagHtml" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://code.visualstudio.com/docs/languages/html)
 [<img alt="tagCss" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://code.visualstudio.com/docs/languages/css)
 [<img alt="tagBootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
-[<img alt="tagGitDesktop" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://desktop.github.com/)
-[<img alt="tagMetabase" src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff">](https://www.metabase.com/)
-[<img alt="tagNodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">](https://nodejs.org/en/)
-
+[<img alt="tagGitDesktop" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://desktop.github.com/)   
 
 ### 🗣️Comunicação
 [<img alt="tagDiscord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://discord.com/download)
@@ -36,6 +34,20 @@ O usuário que estiver disposto a contribuir com o projeto deverá deverá estar
 É interessante que todos contribuidores do projeto utilizem desse editor de código, para facilitar a padronização do grupo e a edição de código por pareamento.
 
 Download: https://code.visualstudio.com/download
+
+Ou tudo isso pode ser feito mais facilmente por meio do GitHub Desktop:
+
+<img alt="demo GitDesk1" src="https://user-images.githubusercontent.com/73550220/181051698-1a448c42-c6e0-4568-8b0c-1be1397d4f32.jpg" width="400">   <img alt="demo GitDesk2" src="https://user-images.githubusercontent.com/73550220/181051635-2b98564a-a3b0-417e-a740-1a30f8d916bd.png" width="400">
+
+Agora que você tem o repositório na sua máquina, basta abrir ele no vscode utilizando o comando "code" seguido do endereço do repositório clonado como no exemplo:
+
+```sh
+code C:\Users\exemplo\Documentos\Github\2022-1-OiaAMoeda
+```
+
+Ou acessando o repositório no GiHhub Desktop como exemplificado:
+
+<img alt="demo GitDesk3" src="https://user-images.githubusercontent.com/73550220/181057249-6a78f391-f6f2-499d-96e5-fd11596142e7.png" width ="650">
 
 #### Seguem as extensões necessárias para o desenvolvimento do projeto:
 
@@ -67,32 +79,45 @@ Não é necessário instalar o bootstrap na máquina, mas todas as telas criadas
 </html>
 ````
 
+### 👨‍💻Requisitos
+#### Node
+É necessário ter instalado e configurado o node ^16.17.0.
+Download: https://nodejs.org/en/download/
+
+#### Apache2
+https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-22-04
 ### 💪Execução
+Execução no Ubuntu 22.04.1 LTS
 
-Clonar este repositório:
+1. Entre na pasta.
 ```sh
-git clone https://github.com/fga-eps-mds/2022-1-OiaAMoeda
-```
-Entrar na pasta em que o clone está localizado:
-```sh
-cd 2022-1-OiaAMoeda
-```
-Ou tudo isso pode ser feito mais facilmente por meio do GitHub Desktop:
-
-<img alt="demo GitDesk1" src="https://user-images.githubusercontent.com/73550220/181051698-1a448c42-c6e0-4568-8b0c-1be1397d4f32.jpg" width="400">   <img alt="demo GitDesk2" src="https://user-images.githubusercontent.com/73550220/181051635-2b98564a-a3b0-417e-a740-1a30f8d916bd.png" width="400">
-
-Agora que você tem o repositório na sua máquina, basta abrir ele no vscode utilizando o comando "code" seguido do endereço do repositório clonado como no exemplo:
-
-```sh
-code C:\Users\exemplo\Documentos\Github\2022-1-OiaAMoeda
+cd $HOME
 ```
 
-Ou acessando o repositório no GiHhub Desktop como exemplificado:
+2. Clone o repositório do projeto:
+```sh
+git clone https://github.com/fga-eps-mds/2022-1-OiaAMoeda.git
+```
 
-<img alt="demo GitDesk3" src="https://user-images.githubusercontent.com/73550220/181057249-6a78f391-f6f2-499d-96e5-fd11596142e7.png" width ="650">
+3. Remova verção antigas e copie o frontend para o servidor apache
+```sh
+sudo rm -r /var/www/html/UI | sudo cp -r $HOME/2022-1-OiaAMoeda/OiaMoeda/UI/ /var/www/html/
+```
+> Este comando deve ser executado á cada nova versão/alteração para que possam ser aplicadas.
 
+4. Entre na pasta do backend:
+```sh
+cd $HOME/2022-1-OiaAMoeda/OiaMoeda/server/
+```
 
+5. Instale as dependências:
+```sh
+npm i
+```
 
+6. Execute o server
+```sh
+ node server.js
+```
 
-> :warning: Completar de acordo com o andamento do projeto!
-
+> :warning: O frontend por padrão fica no localhost:80/UI e o backend está em localhost:3003

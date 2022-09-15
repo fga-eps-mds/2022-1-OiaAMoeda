@@ -93,17 +93,13 @@ O sistema será desenvolvido utilizando o framework Bootstrap5 em relação ao F
 
 Nesta seção iremos separar o nosso projeto em duas partes diferentes, o Front-End e o Back-End, no qual o Front ira utilizar fortemente o framework Bootstrap 5, uma vez que ele fornece atalhos para utilizarmos seja em HTML, CSS E JAVASCRIPT.Desse modo, interagindo com nosso Back-End decidimos utilizar 3 APIS principais uma referente a cada epico do nosso backlog, sendo [NewsAPI](https://newsapi.org/) referente a noticias, [Coinmarket Cap API](https://coinmarketcap.com/api/) referente aos dados das Criptos e [Trading View API](https://br.tradingview.com/rest-api-spec/) de modo que todas interagem dentro do Back-End com nosso arquivo JSON e a partir desse ponto interage com o Front.
 
-![Diagrama em branco](https://user-images.githubusercontent.com/56097889/179231221-9dd45c6d-e144-49b0-8c86-201147f3b18c.png)
+![Diagrama de Pacotes](https://raw.githubusercontent.com/fga-eps-mds/2022-1-OiaAMoeda/develop/Docs/Imgs/Diagramas/Diagrama%20de%20Pacotes.png)
 
 
 ### 4.3. Diagrama de Casos de Uso
 
 ![Diagrama de caso de uso](https://user-images.githubusercontent.com/56097889/178992553-4e5e9714-5aac-4641-a8bf-16d48e60fc47.png)
 
-
-### 4.4. Diagrama de Classes
-
-![Diagrama em branco](https://user-images.githubusercontent.com/56097889/178992916-0c7cfb73-f7d9-42aa-9798-12ed9a0533d0.png)
 
 ## 5: Backlog 
 
