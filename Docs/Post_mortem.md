@@ -49,4 +49,14 @@ realizado na etapa final, é de suma importância sua leitura, pois ele contém 
   
 </p>
 
+### Thiago Oliveira Cunha(Product Owner)
+<p align="justify"> Métodos de Desenvolvimento de Software(MDS) é uma disciplina muito conhecida dentro do curso de Engenharia de Software como “a disciplina transformadora” ou quaisquer outros adjetivos semelhantes a esse, no meu caso eu concordo sim, pois para que seja possível a conclusão do projeto que será definido por vocês, ou até mesmo a entrega do MVP é necessário muitos fatores, e muito tempo de todos os integrantes do grupo, salvo grupos onde se tem integrantes que já conhecem bastante da linguagem a ser trabalhada, caso contrário tudo será muito novo e muito assustador, todos os documentos, como fazer, onde procurar, onde aprender, a própria linguagem, onde se for necessário por exemplo utilizar HTML em conjunto com servidores e outras linguagens, será algo extremamente trabalhoso e difícil.
+<p align="justify"> Porém com uma boa comunicação entre TODOS os integrantes obrigatoriamente, creio ser bem possível de se fazer e de entregar um bom projeto e bem completo, tornando assim a comunicação e o planejamento os pilares para a matéria ao meu ver, apesar de tal responsabilidade em cima de todos e etc, que pode causar até bastante ansiedade em todos os integrantes, creio que seja uma experiência necessária de se passar no curso de Eng. De Software, pois assim você aprende a aprender e a lidar com problemas de diversos tipos e principalmente trabalhar em grupo.
+<p align="justify"> A matéria poderia ser dividida em duas? ao meu ver podia, porém não sei se tal mudança impactaria demais no que a disciplina se propõe, que seria de você realmente se ferrar muito e muito, em tudo, e está tudo bem, é assim mesmo felizmente ou infelizmente, só errando que se aprende, porém talvez deva ter um jeito de minimizar tal frustração que muitos passam ao fazer MDS, a qual eu considero que passei, mas enfim, foquem em principalmente comunicação e planejamento da disciplina, se possível vendo vários passos a frente, vai dar errado? Vai, e muito, mas dando errado você ira aprender como se fazer certo, por isso é extremamente importante também tentar botar a mão na massa desde cedo, se possível, confia que vai dar tudo certo, e certamente vocês sairão da matéria muito mais maduros no curso, com um vocabulário maior e sabendo se virar em praticamente todo tipo de situação, pois vocês sairão do nada e chegarão no tudo.
+  <p align="justify">Abaixo um gif de como foi minha experiência na matéria 😅:
+  <p align="center">
+  <img src="https://camo.githubusercontent.com/1b733793b67e0e2f2e5a0085dbabbf03d4ee459ce981126c8243a72bf22c7b4d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e54757237586c56445564714d2f67697068792e676966"  width="300"/>
+
+
+
 
