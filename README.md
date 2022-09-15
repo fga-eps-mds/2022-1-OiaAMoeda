@@ -15,7 +15,6 @@ Cada Tag pode ser clicada e levará para o link de download da tecnologia ou de 
 [<img alt="tagBootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">](https://getbootstrap.com/docs/5.2/getting-started/introduction/)
 [<img alt="tagGitDesktop" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://desktop.github.com/)
 [<img alt="tagMetabase" src="https://img.shields.io/badge/Metabase-509EE3?style=for-the-badge&logo=metabase&logoColor=fff">](https://www.metabase.com/)
-[<img alt="tagMetabase" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">](https://docs.docker.com/desktop/install/windows-install/)
 [<img alt="tagNodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">](https://nodejs.org/en/)
 
 
@@ -40,18 +39,11 @@ Download: https://code.visualstudio.com/download
 
 #### Seguem as extensões necessárias para o desenvolvimento do projeto:
 
-- Name: Live Server
-Id: ritwickdey.LiveServer
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-
-Essa extensão permite rodar as páginas no localhost do dev que estiver editando o código. Facilitando esse processo de implementação.
-
 - Name: Live Share
 Id: ms-vsliveshare.vsliveshare
 VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
 
 Essa extensão permite que dois ou mais devs editem uma mesma pasta compartilhada da máquina de um integrante do grupo. Facilitando assim o processo de desenvolvimento com piloto e copiloto.
-
 
 #### Bootstrap:
 
@@ -98,11 +90,6 @@ code C:\Users\exemplo\Documentos\Github\2022-1-OiaAMoeda
 Ou acessando o repositório no GiHhub Desktop como exemplificado:
 
 <img alt="demo GitDesk3" src="https://user-images.githubusercontent.com/73550220/181057249-6a78f391-f6f2-499d-96e5-fd11596142e7.png" width ="650">
-
-Quando estiver editando seu código e quiser ver as mudanças em tempo real, utilise a extensão que instalamos anteriormente:
-Clique com botão direito na página que está editando e selecione abrir com Live Server, como está exemplificado a seguir:
-
-<img alt="demo GitDesk4" src="https://user-images.githubusercontent.com/73550220/181057735-1caade5c-7acc-4fbb-bd76-a60457ec99f0.png" width = "650">
 
 
 
