@@ -1,16 +1,18 @@
 const express = require("express");
-const app = express();
+const server = express();
 
 const api = require('./api')
 
-app.use(express.static(__dirname + '/'))
+server.use(express.static(__dirname + '/'))
 
-app.use(api)
+server.use(api)
 
-app.get('/', function (req, res) {
+server.get('/', function (req, res) {
     res.render('./index')
 })
 
-app.listen(3000, function () {
+server.listen(3000, function () {
     console.log('Server iniciado...')
+    console.log("Servidor de pé em: http://localhost:3000")
+    console.log('Para desligar o servidor: ctrl + c')
 })
