@@ -4,14 +4,14 @@ pela equipe do software Acácia, estando disponíveis em:
 <https://github.com/fga-eps-mds/2019.2-Acacia/tree/develop/docs/sprints>.
 Tal layout é apenas um exemplo e pode vir a ser alterado a qualquer momento!
 -->
-# Sprint _6_
+# Sprint _7_
 ---
 ## Histórico de Revisão
 | Data | Versão | Modificação | Autor(a) |
 | --- | --- | --- | --- |
 | _15/09/2022_ | _0.1_ | _Criação da documentação_ | _Arthur Taylor_ |
 
-# Planning da Sprint _7_
+# Planning da Sprint _8_
 
 - **Período:** _30/07 a 06/08_
 - **Objetivo:** _Correção dos erros apontados pela professora durante a release 1._
