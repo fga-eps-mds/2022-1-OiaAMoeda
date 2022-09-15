@@ -28,76 +28,47 @@ E tambem deverá estar atento ao nosso [Codigo de Conduta](https://github.com/fg
 
 ## 👨‍💻💪Instalação e execução do projeto
 
-### 👨‍💻Instalação das tecnologias
+### 👨‍💻Requisitos
+Ter instalado e configurado na sua máquina o Apache2 e "node": "^16.16.0"
+#### Node
+É necessário ter instalado e configurado o node ^16.16.0.
 
-#### Visual Studio Code:
-É interessante que todos integrantes utilisem desse editor de código, para facilitar a padronização do grupo e a ediçao de código por pareamento.
+Download: https://nodejs.org/en/download/
 
-Download: https://code.visualstudio.com/download
-
-Seguem as extensões necessárias para o desenvolvimento do projeto e estar atualizado com o ambiente do resto do grupo:
-
-- Name: Live Server
-Id: ritwickdey.LiveServer
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
-
-Essa extensão permite rodar as páginas no localhost do dev que estiver editando o código. Facilitando esse processo de implementação.
-
-- Name: Live Share
-Id: ms-vsliveshare.vsliveshare
-VS Marketplace Link: https://marketplace.visualstudio.com/items?itemName=MS-vsliveshare.vsliveshare
-
-Essa extensão permite que 2 ou mais devs editem uma mesma pasta compartilhada da máquina de um integrante do grupo. Facilitando assim o processo de desenvolvimento com piloto e copiloto.
-
-
-#### Bootstrap:
-
-Não é necessário instalar o bootstrap na máquina, mas todas as telas criadas terão que importar duas dominâncias importantes do bootstrap. Faça como no exemplo a seguir de um arquivo .html:
-
-````html
-<!doctype html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap demo</title>
-    //PRIMEIRO IMPORT DO BOOTSTRAP
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-gH2yIJqKdNHPEq0n4Mqa/HGKIhSkIHeL5AyhkYV8i59U5AR6csBvApHHNl/vI1Bx" crossorigin="anonymous">
-  </head>
-  <body>
-    <h1>Hello, world!</h1>
-    //SEGUNTO IMPORT DO BOOTSTRAP
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-A3rJD856KowSb7dwlZdYEkO39Gagi7vIsF0jrRAoQmDKKtQBHUuLZ9AsSv4jD4Xa" crossorigin="anonymous"></script>
-  </body>
-</html>
-````
+#### Apache2
+https://www.digitalocean.com/community/tutorials/how-to-install-the-apache-web-server-on-ubuntu-22-04
 
 ### 💪Execução
+Execução no Ubuntu 22.04.1 LTS
 
-Clonar este repositório:
+1. Entre na pasta.
 ```sh
-git clone https://github.com/fga-eps-mds/2022-1-OiaAMoeda
+cd $HOME
 ```
-Entrar na pasta em que o clone está localizado:
+
+2. Clone o repositório do projeto:
 ```sh
-cd 2022-1-OiaAMoeda
+git clone https://github.com/fga-eps-mds/2022-1-OiaAMoeda.git
 ```
-Ou tudo isso pode ser feito mais facilmente por meio do GitHub Desktop:
 
-<img alt="demo GitDesk1" src="https://user-images.githubusercontent.com/73550220/181051698-1a448c42-c6e0-4568-8b0c-1be1397d4f32.jpg" width="400">   <img alt="demo GitDesk2" src="https://user-images.githubusercontent.com/73550220/181051635-2b98564a-a3b0-417e-a740-1a30f8d916bd.png" width="400">
+3. copie o frontend para o servidor apache
+```sh
+sudo cp -r $HOME/2022-1-OiaAMoeda/OiaMoeda/UI/ /var/www/html/
+```
 
-Agora que você tem o repositório na sua máquina, basta abrir ele no vscode:
+4. Entre na pasta do backend:
+```sh
+cd $HOME/2022-1-OiaAMoeda/OiaMoeda/server/
+```
 
-<img alt="demo GitDesk3" src="https://user-images.githubusercontent.com/73550220/181057249-6a78f391-f6f2-499d-96e5-fd11596142e7.png" width ="650">
+5. Instale as dependências:
+```sh
+npm i
+```
 
-Quando estiver editando seu código e quiser ver as mudanças em tempo real, utilise a extensão que instalamos anteriormente:
-Clique com botão direito na página que está editando e selecione abrir com Live Server, como está exemplificado a seguir:
+6. Execute o server
+```sh
+ node server.js
+```
 
-<img alt="demo GitDesk4" src="https://user-images.githubusercontent.com/73550220/181057735-1caade5c-7acc-4fbb-bd76-a60457ec99f0.png" width = "650">
-
-
-
-
-
-(completar de acordo com o andamento do projeto)
-
+> :warning: O frontend por padrão fica no localhost:80 e o backend está em localhost:3003
