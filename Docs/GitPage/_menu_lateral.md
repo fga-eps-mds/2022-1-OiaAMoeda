@@ -16,6 +16,7 @@
   - [Sprint 3](Sprints/Sprint%203/Sprint3.md)
   - [Sprint 4](Sprints/Sprint%204/Sprint%204.md)
   - [Sprint 5](Sprints/Sprint%205/Sprint%205.md)
+  - [Sprint 6](Sprints/Sprint%206/Sprint%206.md)
 
 - Contribuição
   - [Como contribuir](Docs/Como_Contribuir.md)
