@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 181,
+  "totalResults": 182,
   "articles": [
     {
       "source": {
@@ -14,6 +14,19 @@
       "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2022/08/shutterstock_1933394666.jpg",
       "publishedAt": "2022-08-26T16:19:55Z",
       "content": "O Ethereum Ã© uma das redes blockchains mais populares no mundo. As transaÃ§Ãµes sÃ£o feitas com a moeda Ether (ETH)Â e validadas em um banco de dados compartilhado publicamente que permite rastrear … [+1603 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tecmundo.com.br"
+      },
+      "author": "Jorge Marin",
+      "title": "Ethereum Merge: fusão da criptomoeda foi finalizada hoje (15)",
+      "description": "Planejada há pelo menos cinco anos, foi concluída na madrugada desta quinta-feira (15) a esperada atualização Merge (\"Fusão\", em português) da criptomoeda Ethereum para uma modalidade mais ecológica em termos de consumo de energia e cunhagem de novos tokens. …",
+      "url": "https://www.tecmundo.com.br/mercado/247745-ethereum-merge-fusao-criptomoeda-finalizada-15.htm",
+      "urlToImage": "https://tm.ibxk.com.br/2022/09/15/15095750226043.jpg",
+      "publishedAt": "2022-09-15T09:58:04Z",
+      "content": "Planejada há pelo menos cinco anos, foi concluída na madrugada desta quinta-feira (15) a esperada atualização Merge (\"Fusão\", em português) da criptomoeda Ethereumpara uma modalidade mais ecológica e… [+1910 chars]"
     },
     {
       "source": {
@@ -918,12 +931,12 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Bitcoin e ethereum sobem pelo 3º dia com política monetária no radar",
-      "description": "Bitcoin, ethereum e as principais criptomoedas sobem pela terceira sessão nesta quinta-feira, dia em que os mercados de risco se voltam para acompanhar a abertura do simpósio de Jackson Hole, em Wyoming, que contará na sexta-feira de manhã com discurso do pre…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/25/bitcoin-e-ethereum-sobem-pelo-3-dia-com-poltica-monetria-no-radar.ghtml",
-      "urlToImage": "https://s2.glbimg.com/57brsenBObDJb9Gn50SHKCMoqYU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/X/d/KUWXXGTs6WcAOrRzdgXQ/foto09opin-201-col-op3-a13.jpg",
-      "publishedAt": "2022-08-25T12:20:26Z",
-      "content": "Bitcoin, ethereum e as principais criptomoedas sobem pela terceira sessão nesta quinta-feira, dia em que os mercados de risco se voltam para acompanhar a abertura do simpósio de Jackson Hole, em Wyom… [+2699 chars]"
+      "title": "Compradores reaparecem, bitcoin fica acima de US$ 20 mil e criptomoedas retomam US$ 1 tri",
+      "description": "Valorização das criptomoedas ocorre na contramão de Wall Street, que mantém as perdas desde a abertura dos negócios, com destaque para queda de quase 1% da Nasdaq Numa semana que promete alta volatilidade para as criptmoedas, investidores atrás de oportunidad…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/29/compradores-reaparecem-bitcoin-fica-acima-de-us-20-mil-e-criptomoedas-retomam-us-1-tri.ghtml",
+      "urlToImage": "https://s2.glbimg.com/nJTzZhK3JtpmzL2aq3LbC_ToruM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/y/1/nnNi2ATFA00ta1AmwESA/gettyimages-1297465792-170667a.jpg",
+      "publishedAt": "2022-08-29T16:10:06Z",
+      "content": "Numa semana que promete alta volatilidade para as criptmoedas, investidores atrás de oportunidades de preço voltaram a comprar bitcoin e ethereum no final da manhã desta segunda-feira, levando a maio… [+1957 chars]"
     },
     {
       "source": {
@@ -931,12 +944,12 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Compradores reaparecem, bitcoin fica acima de US$ 20 mil e criptomoedas retomam US$ 1 tri",
-      "description": "Valorização das criptomoedas ocorre na contramão de Wall Street, que mantém as perdas desde a abertura dos negócios, com destaque para queda de quase 1% da Nasdaq Numa semana que promete alta volatilidade para as criptmoedas, investidores atrás de oportunidad…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/29/compradores-reaparecem-bitcoin-fica-acima-de-us-20-mil-e-criptomoedas-retomam-us-1-tri.ghtml",
-      "urlToImage": "https://s2.glbimg.com/nJTzZhK3JtpmzL2aq3LbC_ToruM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/y/1/nnNi2ATFA00ta1AmwESA/gettyimages-1297465792-170667a.jpg",
-      "publishedAt": "2022-08-29T16:10:06Z",
-      "content": "Numa semana que promete alta volatilidade para as criptmoedas, investidores atrás de oportunidades de preço voltaram a comprar bitcoin e ethereum no final da manhã desta segunda-feira, levando a maio… [+1957 chars]"
+      "title": "Bitcoin e ethereum sobem pelo 3º dia com política monetária no radar",
+      "description": "Bitcoin, ethereum e as principais criptomoedas sobem pela terceira sessão nesta quinta-feira, dia em que os mercados de risco se voltam para acompanhar a abertura do simpósio de Jackson Hole, em Wyoming, que contará na sexta-feira de manhã com discurso do pre…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/25/bitcoin-e-ethereum-sobem-pelo-3-dia-com-poltica-monetria-no-radar.ghtml",
+      "urlToImage": "https://s2.glbimg.com/57brsenBObDJb9Gn50SHKCMoqYU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/X/d/KUWXXGTs6WcAOrRzdgXQ/foto09opin-201-col-op3-a13.jpg",
+      "publishedAt": "2022-08-25T12:20:26Z",
+      "content": "Bitcoin, ethereum e as principais criptomoedas sobem pela terceira sessão nesta quinta-feira, dia em que os mercados de risco se voltam para acompanhar a abertura do simpósio de Jackson Hole, em Wyom… [+2699 chars]"
     },
     {
       "source": {
@@ -1288,19 +1301,6 @@
       "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2022/09/15/1344089870-125403964gettyimages-1241222435.jpg",
       "publishedAt": "2022-09-15T09:19:13Z",
       "content": "A segunda criptomoeda mais importante do mundo, o ether, mudou para um novo modelo operacional mais ecológico.\r\nAté agora, a \"mineração\" da criptomoeda (processo de criação ou transação de uma unidad… [+5679 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Bitcoin e ethereum caem na contramão de Wall Street após baterem US$ 25 mil e US$ 2 mil respectivamente",
-      "description": "Mercado cripto tem dia de correção após as fortes altas recentes O Bitcoin (BTC) e o Ethereum (ETH) operam em queda nesta segunda-feira (15) após chegarem a bater US$ 25 mil e US$ 2 mil respectivamente no domingo. O mundo cripto vai na contramão dos mercados …",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/15/bitcoin-e-ethereum-caem-na-contramo-de-wall-street-aps-baterem-us-25-mil-e-us-2-mil-respectivamente.ghtml",
-      "urlToImage": "https://s2.glbimg.com/1TTSvRtqxxGtttRRr77vly2uIGc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/n/A/KvrBUuSJug4GXViQCRHg/ethereum-e-bitcoin.jpg",
-      "publishedAt": "2022-08-15T22:11:26Z",
-      "content": "O Bitcoin (BTC) e o Ethereum (ETH) operam em queda nesta segunda-feira (15) após chegarem a bater US$ 25 mil e US$ 2 mil respectivamente no domingo. O mundo cripto vai na contramão dos mercados tradi… [+2596 chars]"
     }
   ]
 }

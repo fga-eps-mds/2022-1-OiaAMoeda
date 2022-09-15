@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 268,
+  "totalResults": 269,
   "articles": [
     {
       "source": {
@@ -105,6 +105,19 @@
       "urlToImage": "https://tm.ibxk.com.br/2022/09/01/01172750168433.jpg",
       "publishedAt": "2022-09-01T17:28:19Z",
       "content": "O grupo por trás do ransomware Everest está vendendo dados coletados em um ataque contra o governo brasileiro, que foi divulgado inicialmente nessa terça-feira (30). Agora, a equipe está disponibiliz… [+2026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tecmundo.com.br"
+      },
+      "author": "Jorge Marin",
+      "title": "Ethereum Merge: fusão da criptomoeda foi finalizada hoje (15)",
+      "description": "Planejada há pelo menos cinco anos, foi concluída na madrugada desta quinta-feira (15) a esperada atualização Merge (\"Fusão\", em português) da criptomoeda Ethereum para uma modalidade mais ecológica em termos de consumo de energia e cunhagem de novos tokens. …",
+      "url": "https://www.tecmundo.com.br/mercado/247745-ethereum-merge-fusao-criptomoeda-finalizada-15.htm",
+      "urlToImage": "https://tm.ibxk.com.br/2022/09/15/15095750226043.jpg",
+      "publishedAt": "2022-09-15T09:58:04Z",
+      "content": "Planejada há pelo menos cinco anos, foi concluída na madrugada desta quinta-feira (15) a esperada atualização Merge (\"Fusão\", em português) da criptomoeda Ethereumpara uma modalidade mais ecológica e… [+1910 chars]"
     },
     {
       "source": {
@@ -1288,19 +1301,6 @@
       "urlToImage": "https://s2.glbimg.com/fOwoTY9Wbg6_VZuXx9CecWTRawE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/u/o/vrP1nATIAiO1o8fiAIYA/bitcoins.jpg",
       "publishedAt": "2022-09-01T12:26:04Z",
       "content": "As principais criptomoedas iniciaram setembro com leve baixa, com os investidores atentos a indicadores macroeconômicos e à atualização do ethereum, que entra na reta final na próxima semana. Maior d… [+3275 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Bitcoin e ethereum sobem pelo 3º dia com política monetária no radar",
-      "description": "Bitcoin, ethereum e as principais criptomoedas sobem pela terceira sessão nesta quinta-feira, dia em que os mercados de risco se voltam para acompanhar a abertura do simpósio de Jackson Hole, em Wyoming, que contará na sexta-feira de manhã com discurso do pre…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/25/bitcoin-e-ethereum-sobem-pelo-3-dia-com-poltica-monetria-no-radar.ghtml",
-      "urlToImage": "https://s2.glbimg.com/57brsenBObDJb9Gn50SHKCMoqYU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/X/d/KUWXXGTs6WcAOrRzdgXQ/foto09opin-201-col-op3-a13.jpg",
-      "publishedAt": "2022-08-25T12:20:26Z",
-      "content": "Bitcoin, ethereum e as principais criptomoedas sobem pela terceira sessão nesta quinta-feira, dia em que os mercados de risco se voltam para acompanhar a abertura do simpósio de Jackson Hole, em Wyom… [+2699 chars]"
     }
   ]
 }
