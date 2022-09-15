@@ -20,15 +20,23 @@
                 <img src="https://fga-eps-mds.github.io/2022-1-OiaAMoeda/Docs/Imgs/Logo/Oia_a_moeda.svg" width="90"
                     height="30" class="d-inline-block align-top" alt="">
             </a>
-            <select></select>
+            <select onchange="LoadCharts();" id="pairs">
+                <option value="BTCUSDT">BTCUSDT</option>
+                <option value="ETHUSDT">ETHUSDT</option>
+            </select>
+
         </nav>
     </header>
 
     <main>
-        <div class="container ">
-            <script type="text/javascript" src="Components/noticias.js"></script>
+        <div class="container">
+
+            <div class="tradingview-widget-container" id="tvchart"></div>
+            <script type="text/javascript" src="Components/grafico.js"></script>
         </div>
     </main>
+
+
 </body>
 
 </html>

@@ -1,5 +1,5 @@
 (async () => {
-    const response = await fetch('./news.json')
+    const response = await fetch('.cache/news.json')
     const news = await response.json()
     var i = 0
 
