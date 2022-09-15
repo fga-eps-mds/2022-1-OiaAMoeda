@@ -69,4 +69,4 @@ npm i
  node server.js
 ```
 
-> :warning: O frontend por padrão fica no localhost:80 e o backend está em localhost:3003
+> :warning: O frontend por padrão fica no localhost:80/UI e o backend está em localhost:3003
