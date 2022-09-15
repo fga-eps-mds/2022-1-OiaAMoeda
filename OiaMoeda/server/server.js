@@ -27,7 +27,7 @@ server.get('/moedas', (req, res) => {
 let response = null;
 new Promise(async (resolve, reject) => {
   try {
-    response = await axios.get('https://sandbox-api.coinmarketcap.com/v1/cryptocurrency/listings/latest', {
+    response = await axios.get('https://sandbox-api.coinmarketcap.com/v1/cryptocurrency/map', {
       headers: {
         'X-CMC_PRO_API_KEY': 'ceee2386-050d-43e9-8369-ecbe2a2ef894',
       },
