@@ -1,16 +1,17 @@
-$.ajax({
-    url: "http://" + window.location.hostname + ":3003/noticias",
-    async: false,
-    method: "get",
-    cache: false,
-    dataType: "json",
-    error: function (data) {
-        console.log("Não foi possivel obter as noticias");
-        $("#noticias").append("<p>Não foi possivel obter as noticias</p>");
-    }
-}).done(function (data) {
-    data["articles"].forEach(function (noticia) {
-        $("#noticias").append(`
+function carrega_noticias(moeda) {
+    $.ajax({
+        url: "http://" + window.location.hostname + ":3003/noticias?moeda="+moeda,
+        async: false,
+        method: "get",
+        cache: false,
+        dataType: "json",
+        error: function (data) {
+            console.log("Não foi possivel obter as noticias");
+            $("#noticias").append("<p>Não foi possivel obter as noticias</p>");
+        }
+    }).done(function (data) {
+        data["articles"].forEach(function (noticia) {
+            $("#noticias").append(`
         <div class="col">
             <div class="card ml-auto mr-0 h-100">
                 <img class="card-img-top" src="${noticia["urlToImage"]}" alt="Card image cap">
@@ -21,5 +22,6 @@ $.ajax({
                 </div>
             </div>
         </div>`)
+        });
     });
-});
+};

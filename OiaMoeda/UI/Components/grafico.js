@@ -1,9 +1,5 @@
 
-LoadCharts();
-function LoadCharts() {
-    //render chart
-    let symbol = document.getElementById('pairs').value;
-
+function LoadCharts(symbol) {
     new TradingView.widget(
         {
             "autosize": true,
