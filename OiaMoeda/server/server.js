@@ -8,7 +8,7 @@ server.get('/noticias', (req, res) => {
     const news = (async () => {
         const { data } = await axios(`https://newsapi.org/v2/everything?q=+shakira&language=pt&sortBy=relevance&apiKey=188f514b04db4f2586a4700cb306a7b8`)
 
-        fs.writeFile('/home/anacleto/Documentos/Projetos/2022-1-OiaAMoeda/OiaMoeda/server/cache/news.json', JSON.stringify(data, null, 2), err => {
+        fs.writeFile('cache/news.json', JSON.stringify(data, null, 2), err => {
             if (err) throw new Error('algo está errado')
             console.log('tudo certo')
         })
