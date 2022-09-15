@@ -29,7 +29,7 @@
                     <div class="ms-4">Cripto Moeda</div>
                 </button>
                 <ul class="dropdown-menu">
-                    <li><a class="dropdown-item active" onclick="trocar_moeda('BitCoin','BTCUSDT')">BitCoin</a></li>
+                    <li><a class="dropdown-item" onclick="trocar_moeda('BitCoin','BTCUSDT')">BitCoin</a></li>
                     <li><a class="dropdown-item" onclick="trocar_moeda('Ethereum','ETHUSDT')">Ethereum</a></li>
                     <li><a class="dropdown-item" >Something else here</a></li>
                     <li><a class="dropdown-item" >Separated link</a></li>                
@@ -38,15 +38,56 @@
         </nav>
     </header>
 
-    <main>
-        <section></section>
-        <div class="container" style="padding: 75px;">
+    <main class="d-flex flex-row justify-content-around m-5 p-5" size="100%">
+    <!-- CADA SEÇÃO ESTÁ PERPENDICULAR NA VERTICAL COM  A OUTRA, COMO NO PROTÓTIPO DE ALTA, IMPLEMENTAR SABENDO DISSO. -->
 
+        <!-- SEÇÃO DO GRÁFICO -->
+        <section class="bg-dark m-2 p-5 rounded d-flex flex-column gap-5">
+            <h6 class="texto-claro">*NOME DA MOEDA* to USD Chart</h6>
+            <button type="button" class="btn btn-light">TESTE</button>
             <div class="tradingview-widget-container" id="tvchart"></div>
-            <div id="noticias" class="row row-cols-1 row-cols-md-2 g-4"></div>
-            
-        </div>
+        </section class="bg-alert">
+    
+        <!-- SEÇÃO DAS INFORMAÇÕES DA CRIPTO -->
+        <section class="mw-25">
+            <div class="bg-dark m-2 p-5 rounded d-flex flex-column gap-5">
+                <h2 class="texto-claro">NOME DA MOEDA AQUI</h2>
+
+                <h1 class="texto-claro">VALOR DA MOEDA AQUI</h1>
+                <div class="bg-light rounded">
+                    links de documentos aqui
+                </div>
+            </div>
+
+            <div class="bg-dark m-2 p-5 rounded d-flex flex-column gap-5">
+                <h2 class="texto-claro">Exchange</h2>
+                <div class="d-flex justify-content-center">
+                    <p class="texto-claro">qtd* moeda*</p>
+                    <ion-icon size="large" class="texto-claro" name="arrow-forward-outline"></ion-icon>
+                    <p class="texto-claro">qtd* USTD</p>
+                </div>
+                <div class="input-group">
+                    <input type="text" class="form-control rounded-pill" aria-label="Dollar amount (with dot and two decimal places)">
+                    <div class="input-group-append">
+                    <span class="input-group-text">coinICON*</span>
+                    </div>
+                </div>
+                <div class="input-group">
+                    <input type="text" class="form-control rounded-pill" aria-label="Dollar amount (with dot and two decimal places)">
+                    <div class="input-group-append">
+                    <span class="input-group-text">$</span>
+                    </div>
+                </div>
+                <button>refresh</button>                
+            </div>
+        </section>
+
+        <!-- SEÇÃO DAS NOTÍCIAS -->
+        <section id="noticias" class="row row-cols-1 row-cols-md-2 g-4 mw-25">
+
+        </section>
     </main>
+
     <script type="text/javascript" src="Components/grafico.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.11.6/dist/umd/popper.min.js"
         integrity="sha384-oBqDVmMz9ATKxIep9tiCxS/Z9fNfEXiDAYTujMAeBAsjFuCZSmKbSSUnQlmh/jp3"

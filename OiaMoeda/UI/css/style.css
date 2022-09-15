@@ -1,3 +1,8 @@
+.body{
+    width:100%;
+    background-color: antiquewhite;
+}
+
 .dropdowncoin{
     position: absolute;
     left: 50%;
@@ -24,4 +29,11 @@
 
 .dropdown-icone-seta{
     color:black;
+}
+
+.texto-claro{
+    color:antiquewhite;
+}
+.input[type="text"]{
+    background-color: #111111;
 }
