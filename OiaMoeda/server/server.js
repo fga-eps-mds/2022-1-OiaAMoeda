@@ -6,19 +6,17 @@ const fs = require('fs');
 
 server.use(cors());
 server.get('/noticias', (req, res) => {
+    var	moeda = req.query.moeda
+    const news = (async () => {                                                                                       //188f514b04db4f2586a4700cb306a7b8
+        const { data } = await axios(`https://newsapi.org/v2/everything?q=+${moeda}&language=pt&sortBy=relevance&apiKey=79b888884070453fa1607dbf2c81de7a`)
 
-    const news = (async () => {
-        const { data } = await axios(`https://newsapi.org/v2/everything?q=+shakira&language=pt&sortBy=relevance&apiKey=188f514b04db4f2586a4700cb306a7b8`)
-
-        fs.writeFile('cache/news.json', JSON.stringify(data, null, 2), err => {
+        fs.writeFile('cache/news'+moeda+'.json', JSON.stringify(data, null, 2), err => {
             if (err) throw new Error('algo está errado')
             console.log('tudo certo')
         })
 
         res.send(JSON.stringify(data, null, 2))
     })();
-
-
 })
 server.get('/moedas', (req, res) => {
 

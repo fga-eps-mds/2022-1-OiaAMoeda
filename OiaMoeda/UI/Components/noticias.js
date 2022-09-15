@@ -7,9 +7,10 @@ function carrega_noticias(moeda) {
         dataType: "json",
         error: function (data) {
             console.log("Não foi possivel obter as noticias");
-            $("#noticias").append("<p>Não foi possivel obter as noticias</p>");
+            $("#noticias").html("<p>Não foi possivel obter as noticias</p>");
         }
     }).done(function (data) {
+        //$("#noticias").html(" ");
         data["articles"].forEach(function (noticia) {
             $("#noticias").append(`
         <div class="col">

@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 267,
+  "totalResults": 268,
   "articles": [
     {
       "source": {
@@ -485,6 +485,19 @@
     },
     {
       "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Vale a pena investir no mercado cripto agora?",
+      "description": "Em live, especialistas comentam sobre o atual cenário para o Bitcoin e outras moedas digitais e o que esperar daqui para frente Os ativos financeiros digitais chamam cada vez mais a atenção dos investidores, no Brasil e no mundo. Mas o que esperar do mercado …",
+      "url": "https://valor.globo.com/conteudo-de-marca/titanium-asset/noticia/2022/08/17/vale-a-pena-investir-no-mercado-cripto-agora.ghtml",
+      "urlToImage": "https://s2.glbimg.com/knJGKDwHQXMc0JjqQdXQjZtW4Bc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/c/b/cvvAOeQ3OlPdK81osUyA/fotos-mkbank-baixa-res-173.jpg",
+      "publishedAt": "2022-08-17T11:01:11Z",
+      "content": "Os ativos financeiros digitais chamam cada vez mais a atenção dos investidores, no Brasil e no mundo. Mas o que esperar do mercado de cripto nos próximos meses, depois de uma sequência de quedas dess… [+8532 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Sapo.pt"
       },
@@ -511,19 +524,6 @@
     },
     {
       "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Vale a pena investir no mercado cripto agora?",
-      "description": "Em live, especialistas comentam sobre o atual cenário para o Bitcoin e outras moedas digitais e o que esperar daqui para frente Os ativos financeiros digitais chamam cada vez mais a atenção dos investidores, no Brasil e no mundo. Mas o que esperar do mercado …",
-      "url": "https://valor.globo.com/conteudo-de-marca/titanium-asset/noticia/2022/08/17/vale-a-pena-investir-no-mercado-cripto-agora.ghtml",
-      "urlToImage": "https://s2.glbimg.com/knJGKDwHQXMc0JjqQdXQjZtW4Bc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/c/b/cvvAOeQ3OlPdK81osUyA/fotos-mkbank-baixa-res-173.jpg",
-      "publishedAt": "2022-08-17T11:01:11Z",
-      "content": "Os ativos financeiros digitais chamam cada vez mais a atenção dos investidores, no Brasil e no mundo. Mas o que esperar do mercado de cripto nos próximos meses, depois de uma sequência de quedas dess… [+8532 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Sapo.pt"
       },
@@ -547,6 +547,19 @@
       "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2022/08/mmorc-promo-windows-office-plataforma-cupao-serial-barato-1.jpg",
       "publishedAt": "2022-08-16T16:30:49Z",
       "content": "Windows 11 Big Sale, assim estão as chaves na MMORC com grandes descontos associados, como pode ser um Windows 10 a 7.25 e Windows 11 a 13.93. Não importa se é um cliente novo ou antigo, todos vão be… [+2359 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Criptomoedas recuam em dia histórico após atualização do Ethereum",
+      "description": "Upgrade foi concluído às 3h43 (horário de Brasília) desta quinta, quando o último bloco foi adicionado à rede pelo sistema operacional anterior As principais criptomoedas recuam na manhã desta quinta-feira logo após a atualização do sistema operacional do Eth…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/15/criptomoedas-recuam-em-dia-histrico-aps-atualizao-do-ethereum.ghtml",
+      "urlToImage": "https://s2.glbimg.com/ZElFTgHtBgPCUjWhW0axpBTEz38=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/f/g/JTGryMRLAc9ZKzVA8vbw/pexels-olya-kobruseva-8358144-1-.jpg",
+      "publishedAt": "2022-09-15T11:34:21Z",
+      "content": "As principais criptomoedas recuam na manhã desta quinta-feira logo após a atualização do sistema operacional do Ethereum, que passou a ser uma rede blockchain sem a necessidade de validação de transa… [+2841 chars]"
     },
     {
       "source": {
@@ -586,6 +599,19 @@
       "urlToImage": "https://macmagazine.com.br/wp-content/uploads/2022/08/25-zip4me.jpg",
       "publishedAt": "2022-08-25T16:08:31Z",
       "content": "Um dos maiores diferenciais da Zip4Me em relação a muitos outros redirecionadores presentes no mercado é a Compra Assistida.\r\nDestinada a clientes que não querem se preocupar com o burocrático proces… [+7736 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Inteligenciafinanceira.com.br"
+      },
+      "author": null,
+      "title": "Criptomoedas: o que explica a valorização de 200% da Luna?",
+      "description": "Praticamente esquecida, a criptomoeda voltou a chamar a atenção de investidores Em maio deste ano, a criptomoeda Luna ficou mundialmente conhecida depois de entrar em colapso, despencando e vendo o seu valor chegar perto de zero. \nPraticamente esquecida, a cr…",
+      "url": "https://inteligenciafinanceira.com.br/siga/videos/o-que-explica-a-valorizacao-de-200-da-luna/",
+      "urlToImage": "https://s2.glbimg.com/u5nXLPJnQ8VrlzGY0SdPunGSVog=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/L/7/NbZ3lCRLGj7gEzPEvmvA/thumb-manhapilulas-yt-1509.jpeg",
+      "publishedAt": "2022-09-15T12:10:27Z",
+      "content": "Em maio deste ano, a criptomoeda Luna ficou mundialmente conhecida depois de entrar em colapso, despencando e vendo o seu valor chegar perto de zero. Praticamente esquecida, a criptomoeda voltou a ch… [+1046 chars]"
     },
     {
       "source": {
@@ -1275,32 +1301,6 @@
       "urlToImage": "https://s2.glbimg.com/57brsenBObDJb9Gn50SHKCMoqYU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/X/d/KUWXXGTs6WcAOrRzdgXQ/foto09opin-201-col-op3-a13.jpg",
       "publishedAt": "2022-08-25T12:20:26Z",
       "content": "Bitcoin, ethereum e as principais criptomoedas sobem pela terceira sessão nesta quinta-feira, dia em que os mercados de risco se voltam para acompanhar a abertura do simpósio de Jackson Hole, em Wyom… [+2699 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Fotos, nota de dólar e mais: os itens de Elon Musk que estão sendo leiloados pela ex-namorada do bilionário",
-      "description": "Jennifer Gwynne namorou o empresário na década de 1990 e listou 21 itens sobre ele em casa de leilões dos EUA, incluindo colar de esmeralda que recebeu de presente. Cartão de aniversário assinado por Musk atrai o maior interesse e já recebeu lance equivalente…",
-      "url": "https://g1.globo.com/tecnologia/noticia/2022/09/12/fotos-nota-de-dolar-e-mais-os-itens-de-elon-musk-que-estao-sendo-leiloados-pela-ex-namorada-do-bilionario.ghtml",
-      "urlToImage": "https://s2.glbimg.com/q7mm86Ad0xbSoAyl4m4KItlrdyo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/8/r/FWNFpNTCGMz73QoOlsAQ/cartao.jpg",
-      "publishedAt": "2022-09-12T20:11:24Z",
-      "content": "Fotos da juventude, nota de dólar assinada e outras recordações da juventude de Elon Musk estão sendo leiloadas nos Estados Unidos. Os itens foram anunciados por Jennifer Gwynne, ex-namorada do bilio… [+5185 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Conjur.com.br"
-      },
-      "author": "Luciano Buratto",
-      "title": "Luciano Buratto: Panorama da blockchain no Judiciário",
-      "description": "Desde que se tornou mais difundida a tecnologia da blockchain, em razão das suas principais características, segurança, criptografia, transparência, descentralização e imutabilidade, muito se tem falado a respeito das suas aplicações em outras áreas e mercado…",
-      "url": "https://www.conjur.com.br/2022-ago-20/luciano-buratto-panorama-blockchain-judiciario",
-      "urlToImage": "https://s.conjur.com.br/img/b/selo-opiniao-artigos-dentro.png",
-      "publishedAt": "2022-08-20T14:45:00Z",
-      "content": "Desde que se tornou mais difundida a tecnologia da blockchain, em razão das suas principais características, segurança, criptografia, transparência, descentralização e imutabilidade, muito se tem fal… [+7226 chars]"
     }
   ]
 }
