@@ -1,8 +1,10 @@
 const express = require('express')
 const server = express()
+var cors = require('cors');
 var axios = require("axios")
 const fs = require('fs');
 
+server.use(cors());
 server.get('/noticias', (req, res) => {
 
     const news = (async () => {

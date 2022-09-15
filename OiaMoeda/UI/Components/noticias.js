@@ -11,7 +11,7 @@ $.ajax({
     }
 }).done(function(data) {
     $('#noticias').html(data);
-    data.forEach(function(noticia) {});
+    //data.forEach(function(noticia) {});
 
     /*var n1 = 0;
     //passa por cada dados dentro do json
