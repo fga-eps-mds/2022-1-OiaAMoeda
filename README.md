@@ -29,10 +29,8 @@ E tambem deverá estar atento ao nosso [Codigo de Conduta](https://github.com/fg
 ## 👨‍💻💪Instalação e execução do projeto
 
 ### 👨‍💻Requisitos
-Ter instalado e configurado na sua máquina o Apache2 e "node": "^16.16.0"
 #### Node
-É necessário ter instalado e configurado o node ^16.16.0.
-
+É necessário ter instalado e configurado o node ^16.17.0.
 Download: https://nodejs.org/en/download/
 
 #### Apache2
