@@ -17,6 +17,12 @@
   - [Sprint 4](Sprints/Sprint%204/Sprint%204.md)
   - [Sprint 5](Sprints/Sprint%205/Sprint%205.md)
   - [Sprint 6](Sprints/Sprint%206/Sprint%206.md)
+  - [Sprint 7](Sprints/Sprint%207/Sprint%207.md)
+  - [Sprint 8](Sprints/Sprint%208/Sprint%208.md)
+  - [Sprint 9](Sprints/Sprint%209/Sprint%209.md)
+  - [Sprint 10](Sprints/Sprint%2010/Sprint%2010.md)
+  - [Sprint 11](Sprints/Sprint%2011/Sprint%2011.md)
+  - [Sprint 12](Sprints/Sprint%2012/Sprint%2012.md)
 
 - Contribuição
   - [Como contribuir](Docs/Como_Contribuir.md)
