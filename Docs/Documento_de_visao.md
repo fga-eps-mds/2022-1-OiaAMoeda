@@ -10,6 +10,7 @@
 | 12/07/2022 | 0.3 | Correções ortográficas do Documento |   Renato Gabriel M. Carvalho |
 | 14/09/2022 | 0.4 | Adição de Oportunidades de negócio |  Thiago O. Cunha |
 | 14/09/2022 | 0.5 | Adição do Perfil dos Usuários |  Thiago O. Cunha |
+| 14/09/2022 | 0.6 | Adição das Alternativas e Concorrentes |  Thiago O. Cunha |
 
 
 ## 1: Introdução
@@ -99,7 +100,8 @@ Nossa aplicação web tem como possiveis usuários interessados, investidores so
 
 ### 3.6 Alternativas e Concorrências
 
-À definir
+#### 3.6.1 CoinMarketCap
+É, assim como nosso projeto, uma aplicação web com intuítos e funcionalidades parecidas com a nossa, mostrando informações e gráficos detalhados sobre a criptomoeda escolhida, porém sem a presença visivel de noticias publicadas por jornais ou plataforma de alta relevância.
 
 ## 4: Visão Geral do Produto
 
