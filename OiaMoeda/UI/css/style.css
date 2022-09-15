@@ -1,0 +1,39 @@
+.body{
+    width:100%;
+    background-color: antiquewhite;
+}
+
+.dropdowncoin{
+    position: absolute;
+    left: 50%;
+    width: 240px;
+    margin-left: -120px;
+}
+.dropdown-menu.show {
+    width: 240px;
+}
+.cabecalho{
+    background-color: #3F3F3F;
+}
+.bg-dark {
+    background-color: #3F3F3F !important;
+}
+
+#moeda_selecionada{
+    color: black;
+}
+
+.dropdown-toggle::after {
+    display: none;
+}
+
+.dropdown-icone-seta{
+    color:black;
+}
+
+.texto-claro{
+    color:antiquewhite;
+}
+.input[type="text"]{
+    background-color: #111111;
+}
