@@ -1,0 +1,9 @@
+.dropdowncoin{
+    position: absolute;
+    left: 50%;
+    width: 240px;
+    margin-left: -120px;
+}
+.dropdown-menu.show {
+    width: 240px;
+}

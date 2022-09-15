@@ -10,7 +10,7 @@ $.ajax({
     }
 }).done(function(data) {
     data["articles"].forEach(function(noticia) {
-        $("#noticias").append(`<div class="card ml-auto mr-0" style="width: 25rem;">
+        $("#noticias").append(`<div class="card ml-auto mr-0" style="width: 18rem;">
 <img class="card-img-top" src="${noticia["urlToImage"]}" alt="Card image cap">
 <div class="card-body">
 <h5 class="card-title">${noticia["title"]}</h5>
