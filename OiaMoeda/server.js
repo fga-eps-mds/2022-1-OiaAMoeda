@@ -8,7 +8,7 @@ server.use(express.static(__dirname + '/'))
 server.use(api)
 
 server.get('/', function (req, res) {
-    res.render('./index')
+    res.render('./src/html/home')
 })
 
 server.listen(3000, function () {

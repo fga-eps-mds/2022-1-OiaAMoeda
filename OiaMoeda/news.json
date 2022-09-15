@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 306,
+  "totalResults": 261,
   "articles": [
     {
       "source": {
@@ -20,13 +20,13 @@
         "id": null,
         "name": "Olhardigital.com.br"
       },
-      "author": "William Schendes",
-      "title": "Bitcoin e Ethereum tiveram ganhos de 5%",
-      "description": "O final de semana foi positivo para as criptomoedas, que conseguiu manter o valor da última sexta-feira (5). Além disso, na manhã desta segunda-feira (8), o Bitcoin e o Ethereum tiveram aumento de 5%. O Bitcoin atingiu a marca de US$ 24 mil. Já o Ether teve a…",
-      "url": "https://olhardigital.com.br/2022/08/08/pro/bitcoin-ethereum-ganho-5/",
-      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2022/08/shutterstock_2067993272-1.jpg",
-      "publishedAt": "2022-08-08T17:19:41Z",
-      "content": "O final de semana foi positivo para as criptomoedas, que conseguiu manter o valor da Ãºltima sexta-feira (5). AlÃ©m disso, na manhÃ£ desta segunda-feira (8), o Bitcoin e o Ethereum tiveram aumento de… [+2154 chars]"
+      "author": "Gabrielly Bento",
+      "title": "Bitcoin cai para menos de 20 mil dólares",
+      "description": "A criptomoeda Bitcoin caiu para menos de 20.000 dólares no último final de semana e é uma queda crescente que a moeda digital vem passando\nO post Bitcoin cai para menos de 20 mil dólares apareceu primeiro em Olhar Digital.",
+      "url": "https://olhardigital.com.br/2022/08/30/pro/bitcoin-cai-para-menos-de-20-mil-dolares/",
+      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2022/08/shutterstock_2167643179-1.jpg",
+      "publishedAt": "2022-08-31T01:22:00Z",
+      "content": "A criptomoeda Bitcoin caiu para menos de 20 mil dÃ³lares no Ãºltimo final de semana. Essa Ã© uma queda crescente que a moeda digital vem passando e derrubou quase 60% em relaÃ§Ã£o Ã  mÃ¡xima do ano.\r… [+1499 chars]"
     },
     {
       "source": {
@@ -44,19 +44,6 @@
     {
       "source": {
         "id": null,
-        "name": "Olhardigital.com.br"
-      },
-      "author": "William Schendes",
-      "title": "Ações de empresa de Bitcoin de Jack Dorsey despencam",
-      "description": "As ações da Block, empresa de pagamentos digitais e bitcoin de Jack Dorsey, fundador do Twitter, caíram aproximadamente 7% nas negociações pré-mercado, nesta sexta-feira (5). A desvalorização vem após a companhia divulgar relatório com as perdas do trimestre …",
-      "url": "https://olhardigital.com.br/2022/08/05/pro/acoes-empresa-bitcoin-jack-dorsey-despencam/",
-      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2021/01/shutterstock_1892434726.jpg",
-      "publishedAt": "2022-08-05T17:26:48Z",
-      "content": "As aÃ§Ãµes da Block, empresa de pagamentos digitais e bitcoin de Jack Dorsey, fundador do Twitter, caÃ­ram aproximadamente 7% nas negociaÃ§Ãµes prÃ©-mercado, nesta sexta-feira (5). A desvalorizaÃ§Ã£o… [+1590 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Tecmundo.com.br"
       },
       "author": "Adriano Camacho",
@@ -70,45 +57,6 @@
     {
       "source": {
         "id": null,
-        "name": "Olhardigital.com.br"
-      },
-      "author": "John Blount",
-      "title": "O comportamento dos mineradores pode indicar o movimento das criptomoedas?",
-      "description": "Em artigo, John Blount discute se o comportamento dos mineradores pode indicar o movimento das criptomoedas\nO post O comportamento dos mineradores pode indicar o movimento das criptomoedas? apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2022/08/09/colunistas/comportamento-mineradores-criptomoedas/",
-      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2021/11/como-minerar-bitcoin-pelo-celular.jpg",
-      "publishedAt": "2022-08-09T10:02:00Z",
-      "content": "No finalzinho de outubro de 2021, os mineradores de Bitcoin (BTC) estavam eufÃ³ricos e muito confiantes na valorizaÃ§Ã£o da moeda. TambÃ©m pudera: poucos dias antes, em 20 de outubro, a criptomoeda h… [+3700 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sapo.pt"
-      },
-      "author": "Marisa Pinto",
-      "title": "Nigéria vai construir uma vila Bitcoin dado o interesse da população na criptomoeda",
-      "description": "Há pouco menos de um ano ficámos a saber que o Banco Central da Nigéria (CBN) também iria lançar a sua própria moeda digital, designada de eNaira. Esta iniciativa, de acordo com o governo,...",
-      "url": "https://pplware.sapo.pt/criptomoeda/nigeria-vai-construir-uma-vila-bitcoin-dado-o-interesse-da-populacao-na-criptomoeda/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2022/08/Bitcoin-Nigeria.jpg",
-      "publishedAt": "2022-08-11T11:45:59Z",
-      "content": "Há pouco menos de um ano ficámos a saber que o Banco Central da Nigéria (CBN) também iria lançar a sua própria moeda digital, designada de eNaira. Esta iniciativa, de acordo com o governo, iria torna… [+2455 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tecmundo.com.br"
-      },
-      "author": "Giovana Pignati",
-      "title": "Apple e Google devem responder por golpes em apps de criptomoedas",
-      "description": "Um senador norte-americano, Sherrod Brown, enviou duas cartas direcionadas ao CEO da Apple, Tim Cook, e para o CEO do Google, Sundar Pichai. O político pediu que os empresários explicassem os meios de revisão e aprovação de carteiras de exchange de criptomoed…",
-      "url": "https://www.tecmundo.com.br/mercado/242553-apple-google-devem-responder-golpes-apps-criptomoedas.htm",
-      "urlToImage": "https://tm.ibxk.com.br/2022/07/29/29140403691238.jpg",
-      "publishedAt": "2022-07-29T18:00:01Z",
-      "content": "Um senador norte-americano, Sherrod Brown, enviou duas cartas direcionadas ao CEO da Apple, Tim Cook, e para o CEO do Google, Sundar Pichai. O político pediu que os empresários explicassem os meios d… [+1769 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Tecmundo.com.br"
       },
       "author": "Eduardo Erlo",
@@ -118,19 +66,6 @@
       "urlToImage": "https://tm.ibxk.com.br/2022/08/22/22173945394410.jpg",
       "publishedAt": "2022-08-22T20:00:00Z",
       "content": "Segurança, autonomia financeira e transparência são alguns dos benefícios que os usuários das criptomoedas, desde a criação da primeira delas o Bitcoin , buscam. \r\nDe uns anos pra cá, muitos escolhem… [+4152 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Olhardigital.com.br"
-      },
-      "author": "Gabrielly Bento",
-      "title": "Irã realiza primeiro pedido de importação usando criptomoedas",
-      "description": "O Irã realizou seu primeiro pedido importação utilizando criptomoedas, contornando as sanções que afetaram a economia.\nO post Irã realiza primeiro pedido de importação usando criptomoedas apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2022/08/09/pro/ira-primeiro-pedido-importacao-criptomoedas/",
-      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2022/08/Ira-realiza-primeiro-pedido-de-importacao-usando-criptomoedas.jpg",
-      "publishedAt": "2022-08-09T17:33:37Z",
-      "content": "Segundo a agÃªncia semioficial Tasnim, o IrÃ£ realizou seu primeiro pedido oficial de importaÃ§Ã£o utilizando criptomoedas. Isso pode autorizar a RepÃºblica IslÃ¢mica a contornar as sanÃ§Ãµes dos Est… [+2428 chars]"
     },
     {
       "source": {
@@ -161,54 +96,54 @@
     {
       "source": {
         "id": null,
-        "name": "BBC News"
+        "name": "Tecmundo.com.br"
       },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Quem são os investidores 'camarão' e 'baleia' que tentam salvar o bitcoin do colapso",
-      "description": "Em meio à queda livre das criptomoedas, há investidores que acreditam que o mercado de moedas digitais vai se recuperar; otros acreditam que a bolha já estourou.",
-      "url": "https://www.bbc.com/portuguese/internacional-62401680",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/01B4/production/_126163400_gettyimages-1378079104.jpg",
-      "publishedAt": "2022-08-03T12:38:29Z",
-      "content": "<ul><li>Cecilia Barría</li><li>BBC News Mundo</li></ul>\r\nCrédito, Getty Images\r\nO mercado de criptomoedas está caindo. O preço do bitcoin caiu 67% de sua alta histórica em novembro do ano passado. \r\n… [+5457 chars]"
+      "author": "Mateus Mognon",
+      "title": "Hackers estão vendendo dados e acessos do Gov.br após ataque",
+      "description": "O grupo por trás do ransomware Everest está vendendo dados coletados em um ataque contra o governo brasileiro, que foi divulgado inicialmente nessa terça-feira (30). Agora, a equipe está disponibilizando na dark web um pacote de informações ligadas ao sistema…",
+      "url": "https://www.tecmundo.com.br/seguranca/245954-hackers-vendendo-dados-acessos-gov-br-ataque.htm",
+      "urlToImage": "https://tm.ibxk.com.br/2022/09/01/01172750168433.jpg",
+      "publishedAt": "2022-09-01T17:28:19Z",
+      "content": "O grupo por trás do ransomware Everest está vendendo dados coletados em um ataque contra o governo brasileiro, que foi divulgado inicialmente nessa terça-feira (30). Agora, a equipe está disponibiliz… [+2026 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Olhardigital.com.br"
+      },
+      "author": "Rodrigo Mozelli",
+      "title": "Dezenas de milhares assistem a vídeo falso da Apple; objetivo era golpe envolvendo criptomoedas",
+      "description": "Nesta quarta-feira (7), um usuário do YouTube ganhou a audiência de dezenas de milhares de pessoas com uma transmissão ao vivo de uma antiga entrevista de Tim Cook, presidente da Apple, para, aparentemente, atrair a atenção para um golpe de criptomoedas. Segu…",
+      "url": "https://olhardigital.com.br/2022/09/08/internet-e-redes-sociais/dezenas-de-milhares-assistem-a-video-falso-da-apple-objetivo-era-golpe-envolvendo-criptomoedas/",
+      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2022/09/golpe-de-criptomedas.jpg",
+      "publishedAt": "2022-09-08T07:22:36Z",
+      "content": "Nesta quarta-feira (7), um usuÃ¡rio do YouTube ganhou a audiÃªncia de dezenas de milhares de pessoas com uma transmissÃ£o ao vivo de uma antiga entrevista de Tim Cook, presidente da Apple, para, apar… [+2813 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Empresa de mineração de bitcoin suspende saques por falta de liquidez",
+      "description": "Poolin é o sexto maior pool de mineração de BTC por poder de computação O Poolin, um dos maiores provedores de serviços de pool de mineração de bitcoin (BTC), suspendeu todos os saques, negociações rápidas e transferências internas dentro do sistema da empres…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/06/empresa-de-mineracao-de-bitcoin-suspende-saques-por-falta-de-liquidez.ghtml",
+      "urlToImage": "https://s2.glbimg.com/YUhLBSPxqkoqcXSwJ3sIIF-9mPU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/Z/5/ln8UtzRAuoFZpfFKyhZw/pexels-ewan-kennedy-4808267.jpg",
+      "publishedAt": "2022-09-06T21:50:18Z",
+      "content": "O Poolin, um dos maiores provedores de serviços de pool de mineração de bitcoin (BTC), suspendeu todos os saques, negociações rápidas e transferências internas dentro do sistema da empresa, que tem s… [+2513 chars]"
     },
     {
       "source": {
         "id": null,
         "name": "Tecmundo.com.br"
       },
-      "author": "Carlos Palmeira",
-      "title": "Santander entrará no mercado de criptomoedas em breve, diz CEO",
-      "description": "O CEO do Santander Brasil, Mário Leão, afirmou ontem (28) que a instituição financeira deverá entrar em breve no mercado de criptomoedas. Com o movimento, a empresa seria um dos primeiros \"bancões” a entrar no setor de moedas digitais.\"A gente reconhece que é…",
-      "url": "https://www.tecmundo.com.br/mercado/242539-santander-entrara-mercado-criptomoedas-diz-ceo.htm",
-      "urlToImage": "https://tm.ibxk.com.br/2022/07/29/29123629396176.jpg",
-      "publishedAt": "2022-07-29T16:46:12Z",
-      "content": "O CEO do Santander Brasil, Mário Leão, afirmou ontem (28) que a instituição financeira deverá entrar em breve no mercado de criptomoedas. Com o movimento, a empresa seria um dos primeiros \"bancões a … [+1191 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "BBC News"
-      },
-      "author": "https://www.facebook.com/bbcnews",
-      "title": "Bitcoin: o homem que quer escavar aterro em busca de HD jogado no lixo com R$ 1,1 bilhão em criptomoeda",
-      "description": "Quase dez anos depois de jogar fora a memória do computador que continha carteira digital com bitcoins, o britânico James Howells quer escavar lixão em busca do objeto perdido.",
-      "url": "https://www.bbc.com/portuguese/curiosidades-62397663",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_portuguese/11518/production/_126163907_p0cqcd84.jpg",
-      "publishedAt": "2022-08-02T16:31:13Z",
-      "content": "<ul><li>Nick Hartley</li><li>BBC Wales News</li></ul>\r\n2 agosto 2022, 13:29 -03\r\nLegenda da foto, Howells jogou fora um HD e esqueceu que tinha criptomoedas no aparelho\r\nQuase dez anos atrás, o britâ… [+3663 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Tecnoblog.net"
-      },
-      "author": "Bruno Ignacio",
-      "title": "Queda das criptomoedas e inflação fazem Robinhood demitir 800 funcionários",
-      "description": "Corretora Robinhood expandiu muito sua equipe prevendo alta no mercado cripto, mas agora enfrenta quedas na receita e no número de usuários ativos\nQueda das criptomoedas e inflação fazem Robinhood demitir 800 funcionários",
-      "url": "https://tecnoblog.net/noticias/2022/08/03/queda-das-criptomoedas-e-inflacao-fazem-robinhood-demitir-800-funcionarios/",
-      "urlToImage": "https://files.tecnoblog.net/wp-content/uploads/2021/01/bitcoin-3270890_1280-e1616697100148.jpg",
-      "publishedAt": "2022-08-03T18:23:49Z",
-      "content": "A corretora online Robinhood demitiu recentemente cerca de 23% de seus funcionários em meio à queda das criptomoedas, crise no mercado financeiro e alta na inflação em todo o mundo. A empresa, que ti… [+3500 chars]"
+      "author": "Saori Antonioli Almeida",
+      "title": "Real Digital começará a ser testado ainda este mês, revela BC",
+      "description": "O Real Digital se tornou uma possibilidade dentro da estrutura econômica brasileira desde 2021. Nesta semana, o Banco Central \"deixou escapar\" que os primeiros testes dessa moeda tecnológica devem começar ainda em setembro deste ano.Nenhum comunicado oficial …",
+      "url": "https://www.tecmundo.com.br/mercado/245942-real-digital-comecara-testado-ainda-mes-revela-bc.htm",
+      "urlToImage": "https://tm.ibxk.com.br/2022/09/01/01150147340278.jpg",
+      "publishedAt": "2022-09-01T15:26:03Z",
+      "content": "O Real Digital se tornou uma possibilidade dentro da estrutura econômica brasileira desde 2021. Nesta semana, o Banco Central \"deixou escapar\" que os primeiros testes dessa moeda tecnológica devem co… [+1665 chars]"
     },
     {
       "source": {
@@ -229,19 +164,6 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Bitcoin e ether recuam após fortes ganhos na semana",
-      "description": "Movimento ocorre mesmo com a recuperação das bolsas na Europa e nos EUA após sinais de desaceleração nos índices de preços No último dia útil de uma semana de forte alta, o bitcoin e o ether, as duas maiores criptomoedas em valor de mercado, devolveram parte …",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/12/bitcoin-e-ether-recuam-aps-fortes-ganhos-na-semana.ghtml",
-      "urlToImage": "https://s2.glbimg.com/jbETRrEQaTgvu6XsApPBPAa43HA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/D/F/VHIWxuTCWTGdDR2YJvsQ/dmitry-demidko-og3a-ilg8ay-unsplash.jpg",
-      "publishedAt": "2022-08-12T12:05:22Z",
-      "content": "No último dia útil de uma semana de forte alta, o bitcoin e o ether, as duas maiores criptomoedas em valor de mercado, devolveram parte dos ganhos apesar se continuarem a oscilar próximo dos níveis a… [+2195 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
       "title": "Bitcoin está à beira de nova queda, indicam gráficos",
       "description": "Criptomoeda já recuou mais de 50% no ano e segue sob pressão da alta de juros O bitcoin pode estar prestes a iniciar outro movimento de queda, a julgar por uma série de gráficos técnicos. A principal criptomoeda caiu mais de 50% este ano e recentemente ficou …",
       "url": "https://valor.globo.com/financas/noticia/2022/08/25/bitcoin-esta-a-beira-de-nova-queda-indicam-graficos.ghtml",
@@ -255,12 +177,12 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Criptomoedas iniciam agosto em baixa após terminar melhor mês do ano",
-      "description": "Em julho, o bitcoin teve alta de 20%, enquanto o ether avançou 56% As principais criptomoedas iniciaram agosto em baixa após encerrar o melhor mês de 2022, marcado por uma forte recuperação nos preços depois da retomada do apetite a risco e apesar da crise de…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/01/criptomoedas-iniciam-agosto-em-baixa-aps-terminar-melhor-ms-do-ano.ghtml",
-      "urlToImage": "https://s2.glbimg.com/POXzi2B0JoXvnFwbR4m5k_RcqOQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/k/a/fyNtnBTLAP10Hju8HAgQ/pexels-rodnae-productions-8369831-1-.jpg",
-      "publishedAt": "2022-08-01T12:16:04Z",
-      "content": "As principais criptomoedas iniciaram agosto em baixa após encerrar o melhor mês de 2022, marcado por uma forte recuperação nos preços depois da retomada do apetite a risco e apesar da crise de liquid… [+1622 chars]"
+      "title": "El Salvador: Um ano após adotar bitcoin, país atrai turistas e empresas cripto, mas pagamento digital patina",
+      "description": "Nação centro-americana perdeu socorro do FMI e investidores veem piora na situação fiscal O presidente de El Salvador, Nayib Bukele, subiu ao palco no ano passado com fogos de artifício ao som do AC/DC anunciando para uma multidão de entusiastas de criptomoed…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/05/el-salvador-um-ano-apos-adotar-bitcoin-pais-atrai-turistas-e-empresas-cripto-mas-pagamento-digital-patina.ghtml",
+      "urlToImage": "https://s2.glbimg.com/kU1eQ9O50-QjgpWKpryh8DISItI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/o/S/9eX0C0Ts6thNNG1pxewg/ap21249499188362.jpg",
+      "publishedAt": "2022-09-05T13:02:13Z",
+      "content": "O presidente de El Salvador, Nayib Bukele, subiu ao palco no ano passado com fogos de artifício ao som do AC/DC anunciando para uma multidão de entusiastas de criptomoedas que o bitcoin revolucionari… [+7290 chars]"
     },
     {
       "source": {
@@ -277,16 +199,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Abril.com.br"
+        "id": "globo",
+        "name": "Globo"
       },
-      "author": "Victor Irajá",
-      "title": "PicPay lança corretora que permite comprar e vender criptomoedas",
-      "description": "Usuários poderão negociar Bitcoin, Ether e USDP pelo aplicativo, que oferecerá conteúdo aos clientes sobre os investimentos",
-      "url": "https://veja.abril.com.br/coluna/radar-economico/picpay-lanca-corretora-que-permite-comprar-e-vender-criptomoedas/",
-      "urlToImage": "https://veja.abril.com.br/wp-content/uploads/2020/11/01_EscritorioPicPay_SaoPaulo_Credito-RogérioCassimiro.jpg?quality=70&strip=info&w=680&h=453&crop=1",
-      "publishedAt": "2022-08-12T14:25:01Z",
-      "content": "O PicPay, maior aplicativo de pagamentos do país, agora permite comprar, vender e armazenar criptomoedas, na sua primeira investida no mercado. A empresa lançou, na última quarta-feira, 10, sua corre… [+682 chars]"
+      "author": null,
+      "title": "Mineradora de bitcoin CleanSpark compra planta da Mawson e amplia consolidação no setor",
+      "description": "CleanSpark está em uma maratona de compras para instalações e máquinas de mineração em grande escala A CleanSpark Inc., uma mineradora de bitcoin de capital aberto, concordou em adquirir uma instalação de mineração e máquinas da Mawson Infrastructure Group In…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/09/mineradora-de-bitcoin-cleanspark-compra-planta-da-mawson-e-amplia-consolidacao-no-setor.ghtml",
+      "urlToImage": "https://s2.glbimg.com/8iiKUvuXZJ4T-xvsifxXo2BYRXs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/F/1/1DxlSfSJyshzoaAmRgKg/analytics-3088958-1920.jpg",
+      "publishedAt": "2022-09-09T14:28:11Z",
+      "content": "A CleanSpark Inc., uma mineradora de bitcoin de capital aberto, concordou em adquirir uma instalação de mineração e máquinas da Mawson Infrastructure Group Inc. - um sinal provável de que mais consol… [+2489 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Bitcoin volta a disparar, atinge US$ 21 mil e ofusca protagonismo do ethereum",
+      "description": "Alta é atribuída ao aumento do apetite a risco com o enfraquecimento do dólar, que impulsiona também euro, iene, ações de tecnologia e commodities O bitcoin voltou a disparar nesta sexta-feira, atingindo até US$ 21.078, patamar perdido no final de agosto, e o…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/09/bitcoin-volta-a-disparar-atinge-us-21-mil-e-ofusca-protagonismo-do-ethereum.ghtml",
+      "urlToImage": "https://s2.glbimg.com/3POlaJzKjEXQr2c54y5l3YKcTE0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/6/h/CnKDfOQTS5P13NwacBKQ/kanchanara-5ixvd22x22o-unsplash.jpg",
+      "publishedAt": "2022-09-09T11:41:49Z",
+      "content": "O bitcoin voltou a disparar nesta sexta-feira, atingindo até US$ 21.078, patamar perdido no final de agosto, e ofuscando o protagonismo do ethereum, a segunda maior das criptomoedas que está a menos … [+1870 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Bitcoin segue queda em Wall Street e volta a perder os US$ 20 mil",
+      "description": "Criptomoedas registram desvalorização na esteira do mau humor com as sinalizações recentes do Fed O bitcoin e o ethereum passaram a cair nesta terça-feira (30) após um início de dia em alta. As criptomoedas seguem o desempenho negativo das bolsas dos Estados …",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/30/bitcoin-segue-queda-em-wall-street-e-volta-a-perder-os-us-20-mil.ghtml",
+      "urlToImage": "https://s2.glbimg.com/MkkNNu1SCjgGn8XKHIbXzLaDubs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/o/J/cyO0KdTKCBWlyqkra8kA/bitcoin-blockchain.jpg",
+      "publishedAt": "2022-08-30T16:16:02Z",
+      "content": "O bitcoin e o ethereum passaram a cair nesta terça-feira (30) após um início de dia em alta. As criptomoedas seguem o desempenho negativo das bolsas dos Estados Unidos. Nos mercados acionários dos EU… [+1957 chars]"
     },
     {
       "source": {
@@ -300,32 +248,6 @@
       "urlToImage": "https://s2.glbimg.com/2YAEQ4fYYex8sAvwn_KPrNoSL6c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/7/0/2cEqkvQ7q1hrnGEx9XiQ/ethereum.jpg",
       "publishedAt": "2022-08-24T12:19:16Z",
       "content": "O ethereum voltou a subir nesta quarta-feira, enquanto o bitcoin segue com pequenas oscilações antes do simpósio do Federal Reserve em Jackson Hole, quando os dirigentes do banco central americano po… [+2482 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Bitcoin a US$ 20 mil representa uma oportunidade aberta pelo inverno cripto, diz analista",
-      "description": "Analistas veem dados “on chain” mostrando ponto para comprar criptomoeda com base na demanda A desvalorização do bitcoin, que desabou de US$ 69 mil no final de 2021 para a casa de US$ 20 mil no mês passado, representa uma oportunidade de compra aberta pelo ch…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/03/bitcoin-a-us-20-mil-representa-uma-oportunidade-aberta-pelo-inverno-cripto-diz-analista.ghtml",
-      "urlToImage": "https://s2.glbimg.com/fOwoTY9Wbg6_VZuXx9CecWTRawE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/u/o/vrP1nATIAiO1o8fiAIYA/bitcoins.jpg",
-      "publishedAt": "2022-08-03T19:23:07Z",
-      "content": "A desvalorização do bitcoin, que desabou de US$ 69 mil no final de 2021 para a casa de US$ 20 mil no mês passado, representa uma oportunidade de compra aberta pelo chamado inverno cripto, disse Ferna… [+3695 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Bitcoin e S&P 500: Correlação volta a crescer com esperança de que 'pior já passou'",
-      "description": "O coeficiente de correlação de 90 dias do bitcoin e do S&P 500, depois de se enfraquecer ligeiramente em junho, agora está em torno de 0,65, uma das mais altas desde 2010 Após um período angustiante de turbulência, o mercado de ativos digitais se volta para a…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/08/bitcoin-e-sandp-500-correlacao-volta-a-crescer-com-esperanca-de-que-pior-ja-passou.ghtml",
-      "urlToImage": "https://s2.glbimg.com/o_cm5TZfhNMtWDzQHa98JeYa-Gc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/l/x/LE0w1WQsuzYUhtZMrVDg/ap22102465624150.jpg",
-      "publishedAt": "2022-08-08T12:32:53Z",
-      "content": "Após um período angustiante de turbulência, o mercado de ativos digitais se volta para as ações americanas em busca de sinais de que o pior já passou. As ações estão em alta nas últimas semanas e o b… [+2236 chars]"
     },
     {
       "source": {
@@ -356,28 +278,41 @@
     {
       "source": {
         "id": null,
-        "name": "Olhardigital.com.br"
+        "name": "Tecmundo.com.br"
       },
-      "author": "Gabrielly Bento",
-      "title": "Carteiras de criptomoedas são alvo de ataque hacker",
-      "description": "As carteiras de criptoativos foram invadidas nesta quarta-feira (03) por um grupo de hackers. Milhares de carteiras foram prejudicadas.\nO post Carteiras de criptomoedas são alvo de ataque hacker apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2022/08/03/seguranca/carteiras-de-criptoativos-sao-atacadas-novamente/",
-      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2022/08/criptoativos.png",
-      "publishedAt": "2022-08-03T22:34:00Z",
-      "content": "As carteiras de criptomoedas Solana foram invadidas nesta quarta-feira (3) por um grupo de hackers. Milhares de carteiras do ecossistema de criptoativos foram prejudicadas no cibercrime depois que o … [+1855 chars]"
+      "author": "Carlos Palmeira",
+      "title": "10 notícias de tecnologia para você começar o dia (30/08)",
+      "description": "Bom dia! Separamos as principais notícias do mundo da Ciência e Tecnologia para você saber tudo o que aconteceu na última segunda-feira (29). Para conferir cada notícia na íntegra, basta clicar nos links a seguir.1. Eleições 2022: veja lista com próximos deba…",
+      "url": "https://www.tecmundo.com.br/internet/245704-10-noticias-tecnologia-voce-comecar-dia-30-08.htm",
+      "urlToImage": "https://tm.ibxk.com.br/2022/08/29/29184632029496.jpg",
+      "publishedAt": "2022-08-30T06:00:00Z",
+      "content": "Bom dia! Separamos as principais notícias do mundo da Ciência e Tecnologia para você saber tudo o que aconteceu na última segunda-feira (29). Para conferir cada notícia na íntegra, basta clicar nos l… [+1802 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Bitcoin e ethereum derretem após surpresa com inflação resistente nos EUA",
+      "description": "Desde a semana passada aumentou a busca por hedge contra eventuais contratempos na atualização do Ethereum Bitcoin e ethereum inverteram o sinal nesta terça seguindo o mau humor nos mercados de risco após a divulgação dos dados de inflação de agosto, que indi…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/13/bitcoin-e-ethereum-derretem-aps-surpresa-com-inflao-resistente-nos-eua.ghtml",
+      "urlToImage": "https://s2.glbimg.com/wuX8S62XSkijMWOCJth01gHeA_U=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/O/Z/cEBDtKRIKgmXweQVuRGg/bitcoin-3.jpg",
+      "publishedAt": "2022-09-13T16:01:02Z",
+      "content": "Bitcoin e ethereum inverteram o sinal nesta terça seguindo o mau humor nos mercados de risco após a divulgação dos dados de inflação de agosto, que indicaram um aumento maior do que o esperado dos pr… [+2938 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Olhardigital.com.br"
+        "name": "Canaltech.com.br"
       },
-      "author": "Gabrielly Bento",
-      "title": "EUA oferece recompensa de US$ 10 milhões por dados de hackers da Coreia do Norte",
-      "description": "EUA está oferecendo recompensas de até US$ 10 milhões por qualquer informação ou ajuda que impulsione as investigações sobre hackers.\nO post EUA oferece recompensa de US$ 10 milhões por dados de hackers da Coreia do Norte apareceu primeiro em Olhar Digital.",
-      "url": "https://olhardigital.com.br/2022/07/28/seguranca/eua-oferecem-recompensa-de-us-10-milhoes-por-dados-de-hackers/",
-      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2022/07/EUA-oferecem-recompensa-por-informacoes-de-hackers.jpg",
-      "publishedAt": "2022-07-28T17:55:31Z",
-      "content": "O Departamento de Estado dos Estados Unidos estÃ¡ oferecendo recompensas de atÃ© US$ 10 milhÃµes por qualquer informaÃ§Ã£o ou ajuda que impulsione as investigaÃ§Ãµes sobre o roubo de criptomoedas, a … [+2450 chars]"
+      "author": "Canaltech",
+      "title": "O que é o wash trading, mercado de transações artificiais, em bitcoins?",
+      "description": "Reportagem da Forbes aponta que mais da metade das transações em bitcoin são artificias para inflar setor Ouça ao podcast.",
+      "url": "https://canaltech.com.br/podcast/podcast-canaltech/o-que-e-o-wash-trading-mercado-de-transacoes-artificiais-em-bitcoins-3988/",
+      "urlToImage": "https://t.ctcdn.com.br/TlmTFap1gqL8ioJrsrGW1K8Gap0=/1400x788/smart/i626748.jpeg",
+      "publishedAt": "2022-08-31T08:00:00Z",
+      "content": "Bem-vindos ao nosso \"jornal\" diário com o resumo das principais notícias sobre tecnologia. Com o Canaltech News, em pouco mais de 5 minutos você fica por dentro dos principais produtos lançados do me… [+1975 chars]"
     },
     {
       "source": {
@@ -398,32 +333,6 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Em julho, o bitcoin volta a liderar o ranking das aplicações",
-      "description": "Após quatro meses seguidos em queda, a criptomoeda mais famosa do mundo se recuperou e anotou alta de 16,05% no mês Depois de quatro meses seguidos em queda vertiginosa, o bitcoin voltou a ser a aplicação mais rentável neste mês de julho, com valorização de 1…",
-      "url": "https://valor.globo.com/financas/noticia/2022/07/29/em-julho-o-bitcoin-volta-a-liderar-o-ranking-das-aplicacoes.ghtml",
-      "urlToImage": "https://s2.glbimg.com/K9oRMiGQv9HoCuUEHu9I2ZFJHNA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/w/F/cerbtZSfGSF8lrdKtHAA/pexels-ivan-babydov-7788009.jpg",
-      "publishedAt": "2022-07-29T23:10:06Z",
-      "content": "Depois de quatro meses seguidos em queda vertiginosa, o bitcoin voltou a ser a aplicação mais rentável neste mês de julho, com valorização de 16,05%. A criptomoeda mais famosa do mundo se recuperou n… [+574 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Bitcoin sobe com boas notícias no mundo cripto e em meio a expectativa por dado dos EUA",
-      "description": "Semana começa positiva para criptoativos conforme atualização do ethereum avança e parceria da BlackRock com a Coinbase repercute O bitcoin segue em alta nesta segunda-feira (8) ainda refletindo as boas notícias da semana passada, em um dia de desempenho mist…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/08/bitcoin-sobe-com-boas-notcias-no-mundo-cripto-e-em-meio-a-expectativa-por-dado-dos-eua.ghtml",
-      "urlToImage": "https://s2.glbimg.com/jbETRrEQaTgvu6XsApPBPAa43HA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/D/F/VHIWxuTCWTGdDR2YJvsQ/dmitry-demidko-og3a-ilg8ay-unsplash.jpg",
-      "publishedAt": "2022-08-08T21:05:35Z",
-      "content": "O bitcoin segue em alta nesta segunda-feira (8) ainda refletindo as boas notícias da semana passada, em um dia de desempenho misto nos mercados tradicionais. Esta semana é marcada pela expectativa em… [+2213 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
       "title": "Criptomoedas seguem ativos de risco e recuam com preocupações macroeconômicas",
       "description": "Investidores dos ativos de risco seguem preocupados com o quadro de desaceleração na atividade econômica em meio ao aperto na política monetária As principais criptomoedas emendaram nesta quarta o terceiro dia seguido de queda, devolvendo parte dos ganhos rec…",
       "url": "https://valor.globo.com/financas/noticia/2022/08/17/criptomoedas-seguem-ativos-de-risco-e-recuam-com-preocupacoes-macroeconomicas.ghtml",
@@ -437,12 +346,12 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Bitcoin acumula alta de 18% em 30 dias e analistas enxergam mais ganho em agosto",
-      "description": "Investidores ficarão atentos ao Relatório de Emprego dos EUA e ao teste final do ethereum 2.0 na próxima semana O bitcoin opera em leve queda nesta sexta-feira (29), mas mantém-se em terreno positivo tanto na semana quanto em 30 dias. A recuperação da criptom…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/07/29/bitcoin-acumula-alta-de-18-pontos-percentuais-em-30-dias-e-analistas-enxergam-mais-ganho-em-agosto.ghtml",
-      "urlToImage": "https://s2.glbimg.com/czGwr9QINQmNkO5YbikvNxp5cqU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/s/3/JiXqL8THmAFTKBma2nlg/bitcoin-mineracao-de-criptomoeda-pixabay.jpg",
-      "publishedAt": "2022-07-29T22:16:56Z",
-      "content": "O bitcoin opera em leve queda nesta sexta-feira (29), mas mantém-se em terreno positivo tanto na semana quanto em 30 dias. A recuperação da criptomoeda seguiu em larga medida o que ocorreu também no … [+3522 chars]"
+      "title": "Bitcoin caminha para queda de 13% em agosto e ethereum recua 6% no mês",
+      "description": "Criptomoedas tiveram uma correção relevante depois do otimismo que marcou julho O bitcoin e o ethereum caminham para fechar o mês de agosto com quedas após o forte desempenho das criptomoedas em julho. O mês foi marcado pela melhora de alguns indicadores de i…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/31/bitcoin-caminha-para-queda-de-13-pontos-percentuais-em-agosto-e-ethereum-recua-6-no-ms.ghtml",
+      "urlToImage": "https://s2.glbimg.com/wuX8S62XSkijMWOCJth01gHeA_U=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/O/Z/cEBDtKRIKgmXweQVuRGg/bitcoin-3.jpg",
+      "publishedAt": "2022-08-31T22:12:36Z",
+      "content": "O bitcoin e o ethereum caminham para fechar o mês de agosto com quedas após o forte desempenho das criptomoedas em julho. O mês foi marcado pela melhora de alguns indicadores de inflação nos Estados … [+3222 chars]"
     },
     {
       "source": {
@@ -450,51 +359,12 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Bitcoin sobe a US$ 24 mil apesar de surpresa negativa com PIB dos EUA",
-      "description": "Otimismo com sinalizações do Federal Reserve continua a ser a força preponderante nos mercados de criptoativos O bitcoin segue em alta nesta quinta-feira (28) apesar da recessão nos Estados Unidos ter se confirmado com a queda de 0,9% registrada pelo Produto …",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/07/28/bitcoin-sobe-a-us-24-mil-apesar-de-surpresa-negativa-com-pib-dos-eua.ghtml",
-      "urlToImage": "https://s2.glbimg.com/LCCAyW6ncvMaIY-kpDdn9JV2P20=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/n/i/k5Kx30TSStWfs17gfy5A/criptomoedas-unsplash.jpg",
-      "publishedAt": "2022-07-28T21:42:18Z",
-      "content": "O bitcoin segue em alta nesta quinta-feira (28) apesar da recessão nos Estados Unidos ter se confirmado com a queda de 0,9% registrada pelo Produto Interno Bruto (PIB) do país no segundo trimestre de… [+3298 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Bitcoin retoma US$ 24 mil e especialistas esperam aumento de volume nos próximos dias",
-      "description": "Desaceleração da inflação nos EUA e parceria entre BlackRock e Coinbase animaram investidores nesta semana O bitcoin reduziu o ritmo de perdas nesta sexta-feira (12) e as expectativas são positivas para os próximos dias graças ao recuo da inflação nos Estados…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/12/bitcoin-retoma-us-24-mil-e-especialistas-esperam-aumento-de-volume-nos-prximos-dias.ghtml",
-      "urlToImage": "https://s2.glbimg.com/3POlaJzKjEXQr2c54y5l3YKcTE0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/6/h/CnKDfOQTS5P13NwacBKQ/kanchanara-5ixvd22x22o-unsplash.jpg",
-      "publishedAt": "2022-08-12T21:26:01Z",
-      "content": "O bitcoin reduziu o ritmo de perdas nesta sexta-feira (12) e as expectativas são positivas para os próximos dias graças ao recuo da inflação nos Estados Unidos divulgado esta semana. A melhora no amb… [+2543 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "PF deflagra nova fase de operação envolvendo criptomoedas com 'Faraó do Bitcoin' como alvo",
-      "description": "Iniciativas visam desarticular uma suposta organização criminosa responsável por fraudes bilionárias envolvendo criptomoedas no Brasil e no exterior A Polícia Federal (PF) deu início hoje à quarta fase da Operação Kryptos, chamada Flyer One, em parceria com o…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/11/pf-deflagra-nova-fase-de-operacao-envolvendo-criptomoedas-com-farao-do-bitcoin-como-alvo.ghtml",
-      "urlToImage": "https://s2.glbimg.com/f3sH7n6eetI1wNaesLpjVG0zd54=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/N/G/jYLCXMSHWL4Cc5ZXo5FA/pf-kryptos.jpg",
-      "publishedAt": "2022-08-11T11:38:46Z",
-      "content": "A Polícia Federal (PF) deu início hoje à quarta fase da Operação Kryptos, chamada Flyer One, em parceria com o Grupo de Atuação Especial de Combate ao Crime Organizado (Gaeco) do Ministério Público F… [+3121 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Bitcoin sobe antes de semana de expectativa por desaceleração na inflação dos EUA",
-      "description": "CPI de julho é o indicador mais esperado dos próximos dias e pode indicar que o pico da inflação foi deixado em junho O bitcoin manteve a valorização nesta sexta-feira (5), mas não apagou a queda de 3,7% em sete dias, em uma semana marcada por correção e muit…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/05/bitcoin-sobe-antes-de-semana-de-expectativa-por-desacelerao-na-inflao-dos-eua.ghtml",
-      "urlToImage": "https://s2.glbimg.com/3POlaJzKjEXQr2c54y5l3YKcTE0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/6/h/CnKDfOQTS5P13NwacBKQ/kanchanara-5ixvd22x22o-unsplash.jpg",
-      "publishedAt": "2022-08-05T21:24:15Z",
-      "content": "O bitcoin manteve a valorização nesta sexta-feira (5), mas não apagou a queda de 3,7% em sete dias, em uma semana marcada por correção e muita expectativa por novos indicadores macroeconômicos dos Es… [+3731 chars]"
+      "title": "Bitcoin e ether chegam enfraquecidos a ‘Merge’ e ampliam ceticismo no inverno cripto",
+      "description": "Poucos analistas esperam contratempos relevantes com as aplicações hospedadas na blockchain do ethereum O bitcoin e o ether, as duas maiores criptomoedas em capitalização de mercado, chegam enfraquecidos nesta quarta ao momento mais aguardado nos últimos anos…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/14/bitcoin-e-ether-chegam-enfraquecidos-a-merge-e-ampliam-ceticismo-no-inverno-cripto.ghtml",
+      "urlToImage": "https://s2.glbimg.com/rYBAKpH8tkD43NfHpWAnxxL9ACs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/k/y/kByMBJTKeEcwy9rBhJBg/pexels-bram-van-oosterhout-6478886.jpg",
+      "publishedAt": "2022-09-14T12:16:05Z",
+      "content": "O bitcoin e o ether, as duas maiores criptomoedas em capitalização de mercado, chegam enfraquecidos nesta quarta ao momento mais aguardado nos últimos anos pelo mercado de ativos digitais, a atualiza… [+3076 chars]"
     },
     {
       "source": {
@@ -511,29 +381,42 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Www.jn.pt"
+        "id": "globo",
+        "name": "Globo"
       },
-      "author": "JN/Agências",
-      "title": "China encerra 12 mil contas nas redes sociais que promoviam criptomoedas",
-      "description": "A Administração do Ciberespaço da China encerrou 12.000 contas nas redes sociais chinesas que promoviam investimentos em criptomoedas, cujas atividades foram declaradas ilegais pelas autoridades do país.",
-      "url": "https://www.jn.pt/mundo/china-encerra-12-mil-contas-nas-redes-sociais-que-promoviam-criptomoedas-15079996.html",
-      "urlToImage": "https://static.globalnoticias.pt/jn/image.jpg?brand=JN&type=generate&guid=e610146c-74ef-4d06-b274-92597f1865ed&w=800&h=420&watermark=true&t=20220809092400",
-      "publishedAt": "2022-08-09T09:07:14Z",
-      "content": "A Administração do Ciberespaço da China encerrou 12.000 contas nas redes sociais chinesas que promoviam investimentos em criptomoedas, cujas atividades foram declaradas ilegais pelas autoridades do p… [+1649 chars]"
+      "author": null,
+      "title": "Valor de mercado somado das criptomoedas cai abaixo de US$ 1 tri e ether corrige alta da manhã",
+      "description": "Cenário macro derruba criptomoedas mais uma vez e bitcoin volta a operar nos US$ 18 mil O ethereum (ETH) opera em baixa após subir forte pela manhã. Hoje foi concluída a primeira fase da atualização do protocolo, conhecida como “Bellatrix”, e que deixa a Beac…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/06/valor-de-mercado-somado-das-criptomoedas-cai-abaixo-de-us-1-tri-e-ether-corrige-alta-da-manh.ghtml",
+      "urlToImage": "https://s2.glbimg.com/MkkNNu1SCjgGn8XKHIbXzLaDubs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/o/J/cyO0KdTKCBWlyqkra8kA/bitcoin-blockchain.jpg",
+      "publishedAt": "2022-09-06T20:59:01Z",
+      "content": "O ethereum (ETH) opera em baixa após subir forte pela manhã. Hoje foi concluída a primeira fase da atualização do protocolo, conhecida como Bellatrix, e que deixa a Beacon Chain preparada para o cham… [+1825 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Casa Branca vê mineração cripto ameaçar esforços climáticos dos EUA",
+      "description": "Americanos agora fazem 38% da mineração mundial de bitcoin, em comparação com 3,5% em 2020 A Casa Branca acredita que o impacto ambiental da mineração de criptomoedas como o bitcoin pode impedir os esforços dos EUA para combater as mudanças climáticas.\nA conc…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/09/casa-branca-ve-mineracao-cripto-ameacar-esforcos-climaticos-dos-eua.ghtml",
+      "urlToImage": "https://s2.glbimg.com/VWrhqljsdXcweLm0j1UhnnflXII=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/p/N/mKY59BRXWh1OHm5SxQgg/ap22145439633900.jpg",
+      "publishedAt": "2022-09-09T12:35:32Z",
+      "content": "A Casa Branca acredita que o impacto ambiental da mineração de criptomoedas como o bitcoin pode impedir os esforços dos EUA para combater as mudanças climáticas. A conclusão coloca o governo Biden no… [+3302 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "Sapo.pt"
+        "name": "Uol.com.br"
       },
-      "author": "Marisa Pinto",
-      "title": "Binance diz que está a ganhar clientes de criptomoedas graças à inflação",
-      "description": "Depois da pandemia da COVID-19, a guerra da Rússia contra a Ucrânia veio trazer novos problemas económicos que estão a deixar vários países e famílias em situações complicadas. Para além disso, os especialistas neste...",
-      "url": "https://pplware.sapo.pt/criptomoeda/binance-diz-que-esta-a-ganhar-clientes-de-criptomoedas-gracas-a-inflacao/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2022/05/binance_2.jpg",
-      "publishedAt": "2022-08-12T09:50:43Z",
-      "content": "Depois da pandemia da COVID-19, a guerra da Rússia contra a Ucrânia veio trazer novos problemas económicos que estão a deixar vários países e famílias em situações complicadas. Para além disso, os es… [+1717 chars]"
+      "author": "Nicolas Meireles Nogueira",
+      "title": null,
+      "description": "A mineração de bitcoin é uma das atividades mais criticadas no universo dos criptoativos. Alguns grupos e pessoas a acusam de ser extremamente prejudicial ao meio ambiente.Para os críticos, as máquinas de mineração gastam energia demais, e a produção e o",
+      "url": "https://economia.uol.com.br/mais/pagbank/2022/08/31/mineracao-de-bitcoin.htm",
+      "urlToImage": "https://conteudo.imguol.com.br/c/noticias/a9/2018/01/31/bitcoin-mineracao-1517422442817_v2_615x300.jpg",
+      "publishedAt": "2022-08-31T19:39:46Z",
+      "content": "A mineração de bitcoin é uma das atividades mais criticadas no universo dos criptoativos. Alguns grupos e pessoas a acusam de ser extremamente prejudicial ao meio ambiente.\r\nPara os críticos, as máqu… [+5445 chars]"
     },
     {
       "source": {
@@ -541,38 +424,12 @@
         "name": "Jornaldenegocios.pt"
       },
       "author": "jng@negocios.pt (Jornal de Negócios)",
-      "title": "BlackRock faz parceria com a Coinbase para expandir no setor cripto",
-      "description": "Os clientes da maior gestora de ativos do mundo passam assim a ter acesso direto a criptoativos (começando pela bitcoin) através da Coinbase Prime. Após o anúncio, a Coinbase chegou a disparar quase 44% em Wall Street.",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/blackrock-faz-parceria-com-a-coinbase-para-expandir-no-setor-cripto",
-      "urlToImage": "https://cdn.jornaldenegocios.pt/images/2021-04/img_1200x676$2021_04_15_07_34_23_400408.jpg",
-      "publishedAt": "2022-08-04T15:20:51Z",
-      "content": "A BlackRock quer expandir o negócio no segmento cripto, tendo criado uma parceria com a maior exchange nos EUA, a Coinbase. A gestora de ativos justifica a decisão com o maior interesse dos clientes … [+1559 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Inteligenciafinanceira.com.br"
-      },
-      "author": null,
-      "title": "Quando vai acabar o inverno das criptomoedas?",
-      "description": "Isabella Carvalho conversa com André Franco, do Mercado Bitcoin, sobre o inverno cripto e as expectativas para o mercado Inverno cripto: você certamente ouviu esse termo nos últimos meses. A expressão se refere a queda generalizada das criptomoedas, que gerou…",
-      "url": "https://inteligenciafinanceira.com.br/siga/videos/criptomoedas-vao-se-valorizar-novamente/",
-      "urlToImage": "https://s2.glbimg.com/gl0v0uXmpH4_jSac4RwtOmzcEhw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/x/U/sTnmOOS9WGl3PNf6iFrg/thumb-manhapilulas-yt-0408.jpeg",
-      "publishedAt": "2022-08-05T14:15:30Z",
-      "content": "Inverno cripto: você certamente ouviu esse termo nos últimos meses. A expressão se refere a queda generalizada das criptomoedas, que gerou tensão em muitos investidores. Acontece que esse inverno é c… [+1011 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Observador.pt"
-      },
-      "author": "Alexandra Machado",
-      "title": "Há 5 anos dizia que a bitcoin era um índice de lavagem de dinheiro, agora BlackRock rendeu-se",
-      "description": "Há cinco anos, o presidente da gestora de ativos atacava a bitcoin. Agora rendeu-se e anuncia o lançamento de um fundo de investimentos indexado à moeda virtual.",
-      "url": "https://observador.pt/2022/08/12/ha-5-anos-dizia-que-a-bitcoin-era-um-indice-de-lavagem-de-dinheiro-agora-blackrock-rendeu-se/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A104%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2015%2F11%2F460319920.jpg",
-      "publishedAt": "2022-08-12T17:20:48Z",
-      "content": "Tem acesso livre a todos os artigos do Observador por ser nosso assinante.\r\nEm 2017, Larry Fink, presidente da gestora de ativos BlackRock, dizia que a bitcoin era um “índice de lavagem de dinheiro”.… [+2774 chars]"
+      "title": "Sob críticas ambientais, ethereum quer gastar menos 99% de energia",
+      "description": "A rede ethereum está prestes a concluir um processo que pretende reduzir de forma drástica o consumo de energia. A nova fase pode dar vantagem competitiva face à bitcoin, a \"rainha\" da computação, alvo de críticas pelo gasto de eletricidade.",
+      "url": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/sob-criticas-ambientais-ethereum-quer-gastar-menos-99-de-energia",
+      "urlToImage": "https://cdn.jornaldenegocios.pt/images/2022-09/img_1200x676$2022_09_13_21_19_15_435978.jpg",
+      "publishedAt": "2022-09-14T09:00:00Z",
+      "content": "A rede ethereum conclui esta quinta-feira o seu “merge” (fusão), deixando para trás o protocolo “prova de trabalho” – um método de validação das operações que exige um grande poder de computação (e c… [+167 chars]"
     },
     {
       "source": {
@@ -602,16 +459,29 @@
     },
     {
       "source": {
-        "id": "globo",
-        "name": "Globo"
+        "id": null,
+        "name": "Sapo.pt"
       },
-      "author": null,
-      "title": "Bitcoin cai e oscila na casa dos US$ 23 mil com espera por novidades no cenário macro",
-      "description": "Vendidos voltaram a ganhar nas criptomoedas após um mês de julho de forte alta para esses ativos O bitcoin opera em queda nesta segunda-feira (1) com uma nova entrada dos vendidos após a forte recuperação de julho. \nPerto das 17h35 (horário de Brasília) o bit…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/01/bitcoin-cai-e-oscila-na-casa-dos-us-23-mil-com-espera-por-novidades-no-cenario-macro.ghtml",
-      "urlToImage": "https://s2.glbimg.com/Nhsc8QvTn5m8mEjPeqa-2M1JRQk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/F/t/Z2VOlQR3mKdqNMLt3u0Q/bitcoin-2007769-1920.jpg",
-      "publishedAt": "2022-08-01T23:04:07Z",
-      "content": "O bitcoin opera em queda nesta segunda-feira (1) com uma nova entrada dos vendidos após a forte recuperação de julho. Perto das 17h35 (horário de Brasília) o bitcoin caía 3,5% a US$ 22.999 e o ether,… [+2647 chars]"
+      "author": "Mário Sousa",
+      "title": "Antivírus barato & Software de segurança e Windows 10 a €7.25 ou Windows 11 a €13.93",
+      "description": "Antivírus & Software de segurança barato mas também o Windows 10 a €7.25 ou Windows 11 a €13.93 na Big Sale, da MMORC e respetivos descontos associados. Não importa se é um cliente novo...",
+      "url": "https://pplware.sapo.pt/zzpublicidade/antivirus-barato-software-de-seguranca-windows-10-windows-11/",
+      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2022/08/mmorc-8.23.2022-1.jpg",
+      "publishedAt": "2022-08-23T17:30:43Z",
+      "content": "Antivírus &amp; Software de segurança barato mas também o Windows 10 a 7.25 ou Windows 11 a 13.93 na Big Sale, da MMORC e respetivos descontos associados. Não importa se é um cliente novo ou antigo, … [+2423 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Sapo.pt"
+      },
+      "author": "Mário Sousa",
+      "title": "Segurança? Antivirus? Windows? Office? MMorc tem tudo e mais além, na Back to school",
+      "description": "Segurança? Antivirus? Windows? Office? A MMorc todas as chaves digitais e muito mais na sua Back to school sale. Tudo começa com um Windows 10 a €7.25 ou um  Windows 11 a €13.93, para...",
+      "url": "https://pplware.sapo.pt/software/seguranca-antivirus-windows-office-mmorc/",
+      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2022/09/pplware.com-9.13.2022-1.jpg",
+      "publishedAt": "2022-09-13T16:30:53Z",
+      "content": "Segurança? Antivirus? Windows? Office? A MMorc todas as chaves digitais e muito mais na sua Back to school sale. Tudo começa com um Windows 10 a 7.25 ou um  Windows 11 a 13.93, para nem falar em toda… [+2311 chars]"
     },
     {
       "source": {
@@ -632,90 +502,12 @@
         "name": "Sapo.pt"
       },
       "author": "Mário Sousa",
-      "title": "Antivírus barato & Software de segurança e Windows 10 a €7.25 ou Windows 11 a €13.93",
-      "description": "Antivírus & Software de segurança barato mas também o Windows 10 a €7.25 ou Windows 11 a €13.93 na Big Sale, da MMORC e respetivos descontos associados. Não importa se é um cliente novo...",
-      "url": "https://pplware.sapo.pt/zzpublicidade/antivirus-barato-software-de-seguranca-windows-10-windows-11/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2022/08/mmorc-8.23.2022-1.jpg",
-      "publishedAt": "2022-08-23T17:30:43Z",
-      "content": "Antivírus &amp; Software de segurança barato mas também o Windows 10 a 7.25 ou Windows 11 a 13.93 na Big Sale, da MMORC e respetivos descontos associados. Não importa se é um cliente novo ou antigo, … [+2423 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sapo.pt"
-      },
-      "author": "Mário Sousa",
-      "title": "Descontos para TODOS: Windows 10 a €7.25 e Windows 11 Keys a €13.93 mas hás mais!",
-      "description": "Na edição de hoje há descontos para TODOS, sejam utilizadores novos ou antigos com o Windows 10 a €7.25 e Windows 11 Keys a €13.93. Claro que a MMORC não se esqueceu dos antivírus...",
-      "url": "https://pplware.sapo.pt/zzpublicidade/descontos-todos-mmorc-windows-office-antivirus/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2022/08/pplware.com-8.2.2022-1.jpg",
-      "publishedAt": "2022-08-02T17:30:20Z",
-      "content": "Na edição de hoje há descontos para TODOS, sejam utilizadores novos ou antigos com o Windows 10 a 7.25 e Windows 11 Keys a 13.93. Claro que a MMORC não se esqueceu dos antivírus e ferramentas de segu… [+2368 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sapo.pt"
-      },
-      "author": "Marisa Pinto",
-      "title": "Robôs vão ser usados para recuperar um disco rígido com 7.500 Bitcoins",
-      "description": "Certamente que a maioria das pessoas só começaram a ouvir falar de criptomoedas e Bitcoins há relativamente pouco tempo. Nesse sentido, possivelmente que há alguns anos esta tecnologia não era tão tida em consideração...",
-      "url": "https://pplware.sapo.pt/criptomoeda/robos-vao-ser-usados-para-recuperar-um-disco-rigido-com-7-500-bitcoins/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2021/12/queda_bitcoin00.jpg",
-      "publishedAt": "2022-08-04T19:00:33Z",
-      "content": "Certamente que a maioria das pessoas só começaram a ouvir falar de criptomoedas e Bitcoins há relativamente pouco tempo. Nesse sentido, possivelmente que há alguns anos esta tecnologia não era tão ti… [+2141 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sapo.pt"
-      },
-      "author": "Mário Sousa",
-      "title": "MMORC conquista: Windows 10 a 7,25€, Windows 11 a 13,93€ e Antivírus em promoção",
-      "description": "MMORC está cada vez mais forte e conquista com as chaves digitais do Windows 10 a 7,25€, Windows 11 a 13,93€ e Antivírus em promoção. Grande variedade, software e entretenimento nunca comprometidos. Em segundo,...",
-      "url": "https://pplware.sapo.pt/zzpublicidade/mmorc-conquista-windows-10-windows-11-antivirus/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2022/07/mmorc-plataforma-chave-windows-10-office-windows-11-ativar-promo-comprar-digital-antivirus-seguro-kaspersky-eset-micro-trend-mcafee-1.jpg",
-      "publishedAt": "2022-07-28T18:30:40Z",
-      "content": "MMORC está cada vez mais forte e conquista com as chaves digitais do Windows 10 a 7,25, Windows 11 a 13,93 e Antivírus em promoção. Grande variedade, software e entretenimento nunca comprometidos.\r\nE… [+2069 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sapo.pt"
-      },
-      "author": "Marisa Pinto",
-      "title": "Mineração de Bitcoins consome mais energia do que a Bélgica e a Finlândia",
-      "description": "O tema da mineração de criptomoedas já não é uma novidade para grande parte dos internautas. Já muito se tem escrito sobre este assunto, especialmente sobre os sistemas, caseiros ou profissionais, que se dedicam...",
-      "url": "https://pplware.sapo.pt/criptomoeda/mineracao-de-bitcoins-consome-mais-energia-do-que-a-belgica-e-a-finlandia/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2021/09/bitcoin-criptomoedas.jpeg",
-      "publishedAt": "2022-08-09T10:45:44Z",
-      "content": "O tema da mineração de criptomoedas já não é uma novidade para grande parte dos internautas. Já muito se tem escrito sobre este assunto, especialmente sobre os sistemas, caseiros ou profissionais, qu… [+2255 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Sapo.pt"
-      },
-      "author": "Mário Sousa",
-      "title": "Todos têm descontos: Windows 10 a €7.25 e Windows 11 Keys a €13.93, mas não fica aqui..",
-      "description": "Neste artigo todos vão ter descontos: Windows 10 a €7.25 e Windows 11 Keys a €13.93, mas não fica aqui…Quer se tratem de utilizadores acabados de chegar ou antigos a MMORC mostra que não...",
-      "url": "https://pplware.sapo.pt/software/todos-tem-descontos-windows-10-a-e7-25-e-windows-11-keys-a-e13-93-mas-nao-fica-aqui/",
-      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2022/08/pplware.com-8.9.2022-1.jpg",
-      "publishedAt": "2022-08-10T16:30:41Z",
-      "content": "Neste artigo todos vão ter descontos: Windows 10 a 7.25 e Windows 11 Keys a 13.93, mas não fica aqui...Quer se tratem de utilizadores acabados de chegar ou antigos a MMORC mostra que não se esqueceu … [+2482 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "\"Metaverso chapadão\" leva educação e inclusão financeira a comunidades com apoio do MB",
-      "description": "Com a popularização dos NFTs, o Mercado Bitcoin promove transformação social para populações menos favorecidas Jogos de blockchain, NFTs e DeFi atraem um grupo de crianças de 7 e 11 anos que mora no Complexo do Chapadão, no Rio de Janeiro (RJ), para frequenta…",
-      "url": "https://valor.globo.com/patrocinado/mercado-bitcoin/noticia/2022/08/11/metaverso-chapadao-leva-educacao-e-inclusao-financeira-a-comunidades-com-apoio-do-mb.ghtml",
-      "urlToImage": "https://s2.glbimg.com/w_s4CESpN61jHvdbeU4jgFrnXbo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/D/S/VxAmFLS92AGVflB7ka0w/mercado-biticoin-nft.png",
-      "publishedAt": "2022-08-12T01:16:36Z",
-      "content": "Jogos de blockchain, NFTs e DeFi atraem um grupo de crianças de 7 e 11 anos que mora no Complexo do Chapadão, no Rio de Janeiro (RJ), para frequentarem as aulas da Blockchain Academy, uma iniciativa … [+6653 chars]"
+      "title": "Windows 10 a €7.25 mas Windows 11 a €13.93 com Antivírus a preços ainda melhores!",
+      "description": "Windows 10 a €7.25 mas Windows 11 a €13.93 com Antivírus também a excelentes preços, estão certamente presentes na Windos 11 Big Sale, da MMORC. Por outro lado, destacam-se outras promos importantes que merecem...",
+      "url": "https://pplware.sapo.pt/zzpublicidade/windows-10-windows-11-antivirus-mmorc/",
+      "urlToImage": "https://pplware.sapo.pt/wp-content/uploads/2022/09/pplware.com-9.6.2022-1.jpg",
+      "publishedAt": "2022-09-06T16:30:35Z",
+      "content": "Windows 10 a 7.25 mas Windows 11 a 13.93 com Antivírus também a excelentes preços, estão certamente presentes na Windos 11 Big Sale, da MMORC.\r\nPor outro lado, destacam-se outras promos importantes q… [+2223 chars]"
     },
     {
       "source": {
@@ -736,103 +528,12 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Como funcionam os NFTs e como investir no ativo digital",
-      "description": "Os tokens não-fungíveis podem ser uma opção para quem quer diversificar, mas é preciso estudar antes de investir Você sabe o que são as NFTs? Essa é a sigla em inglês para token não-fungível. Simplificando: um NFT é um certificado de propriedade que não pode …",
-      "url": "https://valor.globo.com/patrocinado/inteligencia-financeira/noticia/2022/08/12/como-funcionam-os-nfts-e-como-investir-no-ativo-digital.ghtml",
-      "urlToImage": "https://s2.glbimg.com/e1y9gbcGLHelbmrzMDEDVGrFYtw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/F/g/fVGWRQR9mMKFwsZM9EAA/if-nft-final-3200.jpeg",
-      "publishedAt": "2022-08-12T18:03:07Z",
-      "content": "Você sabe o que são as NFTs? Essa é a sigla em inglês para token não-fungível. Simplificando: um NFT é um certificado de propriedade que não pode ser substituído ou compartilhado. Por mais que esse s… [+3491 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Hashdex aposta em gestão ativa com ‘quantitativo cripto’",
-      "description": "O produto, chamado Top Performers, será um fundo de ETFs de criptomoedas, que funcionará na prática como um fundo de fundos Maior gestora de fundos passivos voltados a criptomoedas do país, a Hashdex decidiu entrar no segmento quantitativo com um veículo de g…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/01/hashdex-aposta-em-gestao-ativa-com-quantitativo-cripto.ghtml",
-      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
-      "publishedAt": "2022-08-01T08:02:39Z",
-      "content": "Maior gestora de fundos passivos voltados a criptomoedas do país, a Hashdex decidiu entrar no segmento quantitativo com um veículo de gestão ativa para driblar a fase ruim que assola o universo cript… [+2834 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Canaltech.com.br"
-      },
-      "author": "Diego Marques",
-      "title": "Coinbase e BlackRock se unem para levar Bitcoin para grandes investidores",
-      "description": "Uma das principais corretoras cripto do mundo, a Coinbase, anunciou hoje uma parceria com a BlackRock, a maior empresa de gestão de ativos do planeta, responsável por gerenciar cerca de US$ 8,5 trilhões (R$ 44 trilhões). A informação foi divulgada nesta quint…",
-      "url": "https://canaltech.com.br/criptomoedas/coinbase-e-blackrock-se-unem-para-levar-bitcoin-para-grandes-investidores-222383/",
-      "urlToImage": "https://t.ctcdn.com.br/B2TSgmCItbFg0nmhcRmdKFmVufw=/1400x788/smart/i619104.jpeg",
-      "publishedAt": "2022-08-05T01:40:00Z",
-      "content": "Uma das principais corretoras cripto do mundo, a Coinbase, anunciou hoje uma parceria com a BlackRock, a maior empresa de gestão de ativos do planeta, responsável por gerenciar cerca de US$ 8,5 trilh… [+2906 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
       "title": "FT: Gestores de ativos apostam alto em criptomoedas, apesar de queda do mercado",
       "description": "Movimentação de casas tradicionais em investimentos, como Abrdn, BlackRock, Schroders e Charles Schwab, sinaliza maior aceitação de ativos digitais Gestores de recursos de renome estão correndo para os ativos digitais, encontrando novas maneiras de monetizar …",
       "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/14/ft-gestores-de-ativos-apostam-alto-em-criptomoedas-apesar-de-queda-do-mercado.ghtml",
       "urlToImage": "https://s2.glbimg.com/lWXIYKf345xsMV9pNO6vZtQgMGA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/V/e/ieEgKlTjG4XXxOLRiLxQ/kanchanara-ybivvafnwju-unsplash.jpg",
       "publishedAt": "2022-08-14T12:44:52Z",
       "content": "Por Laurence Fletcher, Scott Chipolina e Brooke Masters, Financial Times \r\n 14/08/2022 09h44 Atualizado 14/08/2022"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Canaltech.com.br"
-      },
-      "author": "Diego Marques",
-      "title": "PicPay lança corretora de criptomoedas e vai vender Bitcoin a partir de R$ 1",
-      "description": "O PicPay, um dos maiores aplicativos de pagamentos do país com mais de 30 milhões de usuários ativos, lançou uma corretora para negociação de criptomoedas. A iniciativa será disponibilizada aos poucos para todos os clientes. As negociações podem ser feitas a …",
-      "url": "https://canaltech.com.br/criptomoedas/picpay-lanca-corretora-de-criptomoedas-e-vai-vender-bitcoin-a-partir-de-r-1-222825/",
-      "urlToImage": "https://t.ctcdn.com.br/aSyfp7mRRnF2NfIgw2IahSo1Abs=/1244x700/smart/i620980.png",
-      "publishedAt": "2022-08-11T01:20:00Z",
-      "content": "O PicPay, um dos maiores aplicativos de pagamentos do país com mais de 30 milhões de usuários ativos, lançou uma corretora para negociação de criptomoedas. A iniciativa será disponibilizada aos pouco… [+1940 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Canaltech.com.br"
-      },
-      "author": "Diego Marques",
-      "title": "XP vai lançar plataforma de negociação de Bitcoin e Ethereum em agosto",
-      "description": "A XP, uma das maiores corretora de investimentos do Brasil, pretende estrear em agosto sua própria plataforma de criptomoedas. A XTAGE será lançada numa parceria com Nasdaq. Inicialmente os usuários poderão negociar Bitcoin e Ethereum, contudo, até o final do…",
-      "url": "https://canaltech.com.br/criptomoedas/xp-vai-lancar-plataforma-de-negociacao-de-bitcoin-e-ethereum-em-agosto-221883/",
-      "urlToImage": "https://t.ctcdn.com.br/Pd_RNww9pNbqa61JxpO9Jjxpunc=/1244x700/smart/i617038.png",
-      "publishedAt": "2022-07-29T15:25:00Z",
-      "content": "A XP, uma das maiores corretora de investimentos do Brasil, pretende estrear em agosto sua própria plataforma de criptomoedas. A XTAGE será lançada numa parceria com Nasdaq. Inicialmente os usuários … [+2658 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Uol.com.br"
-      },
-      "author": "Nicolas Nogueira",
-      "title": null,
-      "description": "O bitcoin e os demais criptoativos permitem que pessoas de todo o mundo enviem e recebam dinheiro de forma rápida, barata e sem precisar passar pelos bancos. Porém, muitos ainda acreditam que as criptos são a mais nova forma de pirâmide financeira, ou que",
-      "url": "https://economia.uol.com.br/mais/pagbank/2022/08/12/potencial-dos-criptoativos-investimentos.htm",
-      "urlToImage": "https://conteudo.imguol.com.br/c/noticias/0f/2022/06/15/grafico-economia-queda-criptomoedas-bitcoin-1655321849815_v2_615x300.jpg",
-      "publishedAt": "2022-08-12T22:37:19Z",
-      "content": "O bitcoin e os demais criptoativos permitem que pessoas de todo o mundo enviem e recebam dinheiro de forma rápida, barata e sem precisar passar pelos bancos. Porém, muitos ainda acreditam que as crip… [+3134 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jornaldenegocios.pt"
-      },
-      "author": "jng@negocios.pt (Jornal de Negócios)",
-      "title": "China encerra 12 mil contas nas redes sociais que promoviam criptomoedas",
-      "description": "O órgão regulador da Internet na China \"continua a realizar uma campanha de alta pressão contra a especulação em criptomoedas\", indicam os meios de comunicação locais.",
-      "url": "https://www.jornaldenegocios.pt/mercados/detalhe/china-encerra-12-mil-contas-nas-redes-sociais-que-promoviam-criptomoedas",
-      "urlToImage": "https://cdn.jornaldenegocios.pt/images/2017-09/img_1200x676$2017_09_06_11_04_00_316755.jpg",
-      "publishedAt": "2022-08-09T08:42:30Z",
-      "content": "A Administração do Ciberespaço da China encerrou 12.000 contas nas redes sociais chinesas que promoviam investimentos em criptomoedas, cujas atividades foram declaradas ilegais pelas autoridades do p… [+1689 chars]"
     },
     {
       "source": {
@@ -850,19 +551,6 @@
     {
       "source": {
         "id": null,
-        "name": "Www.tsf.pt"
-      },
-      "author": "Lusa",
-      "title": "China encerra 12 mil contas nas redes sociais que promoviam criptomoedas",
-      "description": "Mais de 51 mil mensagens que continham \"informações ilegais\" sobre como \"investir em Bitcoin para ganhar dinheiro facilmente\" foram também apagadas.",
-      "url": "https://www.tsf.pt/mundo/china-encerra-12-mil-contas-nas-redes-sociais-que-promoviam-criptomoedas-15079977.html",
-      "urlToImage": "https://static.globalnoticias.pt/tsf/image.jpg?brand=TSF&type=generate&guid=adbaaa50-3bc4-4a4d-afdf-55b8252de1f0&w=800&h=420&watermark=true&t=20220809095600",
-      "publishedAt": "2022-08-09T08:56:00Z",
-      "content": "© Photo by André François McKenzie on Unsplash\r\nA Administração do Ciberespaço da China encerrou 12 mil contas nas redes sociais chinesas que promoviam investimentos em criptomoedas, cujas atividades… [+1772 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Macmagazine.com.br"
       },
       "author": "Douglas Nascimento",
@@ -872,6 +560,32 @@
       "urlToImage": "https://macmagazine.com.br/wp-content/uploads/2022/08/25-zip4me.jpg",
       "publishedAt": "2022-08-25T16:08:31Z",
       "content": "Um dos maiores diferenciais da Zip4Me em relação a muitos outros redirecionadores presentes no mercado é a Compra Assistida.\r\nDestinada a clientes que não querem se preocupar com o burocrático proces… [+7736 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Inteligenciafinanceira.com.br"
+      },
+      "author": null,
+      "title": "Startups: como investir usando tokens",
+      "description": "Equity crowdfunding também foi para a blockchain e está sendo impulsionada no mercado de tokenização de ativos. Entenda como Investir em startups e projetos inovadores não é uma prática tão nova. Hoje, é possível apostar na inovação de diversas formas. Uma de…",
+      "url": "https://inteligenciafinanceira.com.br/siga/videos/como-investir-em-startups-usando-tokens/",
+      "urlToImage": "https://s2.glbimg.com/df40SIz58DaYxyKUlfyTZtSsl0U=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/q/Y/8Pbz1WTmqpSZnaXVszQg/thumb-manhapilulas-yt-0809.jpeg",
+      "publishedAt": "2022-09-08T14:51:50Z",
+      "content": "Investir em startups e projetos inovadores não é uma prática tão nova. Hoje, é possível apostar na inovação de diversas formas. Uma delas é a equity crowdfunding, que permite que investidores partici… [+947 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Brasil se torna o 7º maior mercado cripto",
+      "description": "Estudo da Chainalysis mostra forte crescimento nos emergentes e em países com câmbio instável Na contramão do chamado inverno dos criptoativos, o Brasil subiu sete posições e se tornou neste ano o sétimo maior mercado de criptomoedas do mundo, segundo um estu…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/14/brasil-se-torna-o-7o-maior-mercado-cripto.ghtml",
+      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
+      "publishedAt": "2022-09-14T08:03:01Z",
+      "content": "Na contramão do chamado inverno dos criptoativos, o Brasil subiu sete posições e se tornou neste ano o sétimo maior mercado de criptomoedas do mundo, segundo um estudo da Chainalysis, consultoria esp… [+3430 chars]"
     },
     {
       "source": {
@@ -889,32 +603,6 @@
     {
       "source": {
         "id": null,
-        "name": "Observador.pt"
-      },
-      "author": "Ricardo Evangelista",
-      "title": "Qual o futuro das criptomoedas?",
-      "description": "Para aqueles que estão dispostos a continuar a apostar em ganhos futuros de criptomoeda, uma estratégia equilibrada exigirá uma diversificação da carteira e uma gestão cuidadosa do dinheiro.",
-      "url": "https://observador.pt/opiniao/qual-o-futuro-das-criptomoedas/",
-      "urlToImage": "https://wm.observador.pt/wm-op/wide-circle/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A900%2Fc%3A467%3A467%3Anowe%3A0%3A0%2Fq%3A86%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2020%2F06%2F10144140%2Fricardo-evangelista-activtrades_467x467_acf_cropped.jpg",
-      "publishedAt": "2022-08-02T23:00:47Z",
-      "content": "Tem acesso livre a todos os artigos do Observador por ser nosso assinante.\r\nÀ medida que a era do dinheiro barato chega ao fim, o mesmo acontece com as condições que impulsionaram o preço da bitcoin … [+3877 chars]"
-    },
-    {
-      "source": {
-        "id": "info-money",
-        "name": "InfoMoney"
-      },
-      "author": "yeskacoelho",
-      "title": "Como é definido o valor do Bitcoin",
-      "description": "Quando o BTC muda drasticamente de preço, investidores iniciantes geralmente começam a questionar a forma como o valor da criptomoeda é calculado. Neste guia, explicamos brevemente o assunto\nThe post Como é definido o valor do Bitcoin appeared first on InfoMo…",
-      "url": "https://www.infomoney.com.br/guias/valor-do-bitcoin/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2022/08/valor-do-bitcoin.jpg?fit=2121%2C1414&quality=70&strip=all",
-      "publishedAt": "2022-08-12T17:00:00Z",
-      "content": "Toda vez que o valor do Bitcoin (BTC) sobe de forma meteórica ou cai drasticamente, o debate sobre o valor real da criptomoeda ganha espaço nas redes sociais e no noticiário. É muito provável que, em… [+5340 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Conjur.com.br"
       },
       "author": "Vladimir Passos de Freitas",
@@ -928,28 +616,15 @@
     {
       "source": {
         "id": null,
-        "name": "Jornaldenegocios.pt"
+        "name": "Canaltech.com.br"
       },
-      "author": "jng@negocios.pt (Jornal de Negócios)",
-      "title": "\"Inverno cripto\" leva Coinbase a prejuízo de 1.100 milhões de dólares",
-      "description": "A maior plataforma cripto dos EUA registou perdas trimestrais muito acima do esperado pelos analistas. Desempenho foi pressionado pela queda para menos de metade nos volumes transacionados em criptoativos.",
-      "url": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/inverno-cripto-leva-coinbase-a-prejuizo-de-1100-milhoes-de-dolares",
-      "urlToImage": "https://cdn.jornaldenegocios.pt/images/2021-04/img_1200x676$2021_04_15_07_34_23_400408.jpg",
-      "publishedAt": "2022-08-10T14:23:52Z",
-      "content": "A Coinbase fechou o segundo trimestre com 1,1 mil milhões de dólares de prejuízos, um valor que quase duplica as perdas estimadas pelos analistas, que apontavam para cerca de 612 milhões de dólares n… [+674 chars]"
-    },
-    {
-      "source": {
-        "id": "info-money",
-        "name": "InfoMoney"
-      },
-      "author": "yeskacoelho",
-      "title": "Quem é Michael Saylor, ex-CEO da MicroStrategy e maximalista do Bitcoin",
-      "description": "Empresário que fundou a empresa de software perdeu muito dinheiro na bolha das empresas ponto com e com queda do Bitcoin em 2022\nThe post Quem é Michael Saylor, ex-CEO da MicroStrategy e maximalista do Bitcoin appeared first on InfoMoney.",
-      "url": "https://www.infomoney.com.br/perfil/michael-saylor/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2022/06/GettyImages-1239809387.jpg?fit=594%2C396&quality=70&strip=all",
-      "publishedAt": "2022-08-06T12:01:00Z",
-      "content": "<table><tr><td>Nome Completo:</td><td>Michael J. Saylor</td></tr><tr><td>Data de nascimento:</td><td>4 de fevereiro de 1965</td></tr><tr><td>Local de nascimento:</td><td>Lincoln, Nebraska, Estados Un… [+6336 chars]"
+      "author": "Alveni Lisboa",
+      "title": "Golpe de criptomoedas no YouTube usou CEO da Apple como isca",
+      "description": "Uma entrevista antiga do CEO da Apple, Tim Cook, foi usada como isca para um golpe envolvendo criptomoedas. Um usuário fez uma transmissão ao vivo e conseguiu reunir milhares de espectadores graças ao uso de palavras-chave relacionadas à Maçã no título e na d…",
+      "url": "https://canaltech.com.br/internet/golpe-de-criptomoedas-no-youtube-usou-ceo-da-apple-como-isca-224901/",
+      "urlToImage": "https://t.ctcdn.com.br/UsRdQehzaAs0M29o6mds9MOJFqA=/870x489/smart/i545291.jpeg",
+      "publishedAt": "2022-09-09T14:33:45Z",
+      "content": "Uma entrevista antiga do CEO da Apple, Tim Cook, foi usada como isca para um golpe envolvendo criptomoedas. Um usuário fez uma transmissão ao vivo e conseguiu reunir milhares de espectadores graças a… [+2409 chars]"
     },
     {
       "source": {
@@ -966,42 +641,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Uol.com.br"
-      },
-      "author": "Nick Hartley",
-      "title": null,
-      "description": "Quase dez anos atrás, o britânico James Howells jogou fora um HD (hard drive, disco rígido que guarda a memória de um computador) durante uma limpeza de sua casa, se esquecendo de que havia uma carteira digital com criptomoedas gravada no aparelho.Agora,",
-      "url": "https://economia.uol.com.br/noticias/bbc/2022/08/02/bitcoin-o-homem-que-quer-escavar-aterro-em-busca-de-hd-jogado-no-lixo-com-r-11-bilhao-em-criptomoeda.htm",
-      "urlToImage": "https://conteudo.imguol.com.br/c/noticias/ff/2022/08/02/howells-jogou-fora-um-hd-e-esqueceu-que-tinha-criptomoedas-no-aparelho-1659458760860_v2_615x300.jpg",
-      "publishedAt": "2022-08-02T18:51:31Z",
-      "content": "Quase dez anos atrás, o britânico James Howells jogou fora um HD (hard drive, disco rígido que guarda a memória de um computador) durante uma limpeza de sua casa, se esquecendo de que havia uma carte… [+3269 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Conjur.com.br"
+        "id": "globo",
+        "name": "Globo"
       },
       "author": null,
-      "title": "Ibmec promove evento sobre realidade tributária no metaverso",
-      "description": "O Ibmec promoverá nesta quinta-feira (11/8), a partir das 18h, o evento \"Horizontes da tributação no metaverso e NTFs\" para discutir a realidade tributária no metaverso. O encontro será virtual e gratuito.\nPixabayEvento é virtual e conta com\nespecialistas do …",
-      "url": "https://www.conjur.com.br/2022-ago-11/ibmec-promove-evento-realidade-tributaria-metaverso",
-      "urlToImage": "https://s.conjur.com.br/img/b/metaverso1.jpeg",
-      "publishedAt": "2022-08-11T13:47:00Z",
-      "content": "O Ibmec promoverá nesta quinta-feira (11/8), a partir das 18h, o evento \"Horizontes da tributação no metaverso e NTFs\" para discutir a realidade tributária no metaverso. O encontro será virtual e gra… [+465 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Uol.com.br"
-      },
-      "author": null,
-      "title": null,
-      "description": "Nos últimos anos, você com certeza ouviu falar em pelo menos um desses três termos: NFT, bitcoin e metaverso. O que eles têm em comum? Representam parte do universo dos criptoativos, que têm movimentado a internet e as negociações digitais.",
-      "url": "https://economia.uol.com.br/guia-de-economia/entenda-o-que-e-nft-onde-comprar-e-como-criar.htm",
-      "urlToImage": "https://conteudo.imguol.com.br/c/noticias/74/2022/06/06/bored-ape-nft-que-integra-a-colecao-do-bored-ape-yacht-club-1654521934017_v2_615x300.jpg",
-      "publishedAt": "2022-07-30T09:10:11Z",
-      "content": "Nos últimos anos, você com certeza ouviu falar em pelo menos um desses três termos: NFT, bitcoin e metaverso. O que eles têm em comum? Representam parte do universo dos criptoativos, que têm moviment… [+8873 chars]"
+      "title": "Hodlnaut adverte para riscos com forte volatilidade vinda da atualização do Ethereum",
+      "description": "Movimentos acentuados nos preços dos tokens podem fazer com que contratos inteligentes liquidem automaticamente os ativos, segundo empresa A Hodlnaut, empresa em dificuldade que atua com empréstimo por meio de criptomoedas, alertou sobre os riscos para seus a…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/12/hodlnaut-adverte-para-riscos-com-forte-volatilidade-vinda-da-atualizacao-do-ethereum.ghtml",
+      "urlToImage": "https://s2.glbimg.com/6Fdfq45KgAaojmZPAXrjNk89JDA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/G/j/FGv1McTMesUmj9poTD1w/ethereum-pixabay.jpg",
+      "publishedAt": "2022-09-12T11:23:46Z",
+      "content": "A Hodlnaut, empresa em dificuldade que atua com empréstimo por meio de criptomoedas, alertou sobre os riscos para seus ativos se uma atualização iminente da blockchain do Ethereum, conhecida como Mer… [+1739 chars]"
     },
     {
       "source": {
@@ -1035,6 +684,19 @@
         "name": "Globo"
       },
       "author": null,
+      "title": "Equity crowdfunding ganha impulso com nova regra",
+      "description": "Resolução abre espaço para tokenização e aumenta o limite de captação; Mercado Bitcoin explora esse mercado por meio da MB Tokens Equity No começo de julho, a Comissão de Valores Mobiliários (CVM) anunciou novas regras para captação de recursos por financiame…",
+      "url": "https://valor.globo.com/patrocinado/mercado-bitcoin/noticia/2022/08/31/equity-crowdfunding-ganha-impulso-com-nova-regra.ghtml",
+      "urlToImage": "https://s2.glbimg.com/S39vUXh1I5utQpvwG0p6JTHbSDs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/K/p/ufk2YISyGsteSGB1fK4Q/79fb53eb-fbf6-454a-b3e3-c1b05a0a01d8.jpg",
+      "publishedAt": "2022-08-31T19:22:15Z",
+      "content": "No começo de julho, a Comissão de Valores Mobiliários (CVM) anunciou novas regras para captação de recursos por financiamento coletivo o equity crowdfunding. Prática que já existe há alguns anos, ess… [+4437 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
       "title": "Renda fixa digital se torna boa opção durante ciclo de alta dos juros",
       "description": "Ao contrário da renda fixa convencional, ativo é “tokenizado” e usa a criptografia para democratizar novos investimentos Em tempos de ciclo de alta dos juros, investidores têm a oportunidade de investir de forma mais segura, com maior rentabilidade e sem vola…",
       "url": "https://valor.globo.com/patrocinado/mercado-bitcoin/noticia/2022/08/16/renda-fixa-digital-se-torna-boa-opcao-durante-ciclo-de-alta-dos-juros.ghtml",
@@ -1057,16 +719,16 @@
     },
     {
       "source": {
-        "id": null,
-        "name": "Tudocelular.com"
+        "id": "globo",
+        "name": "Globo"
       },
-      "author": "Tudocelular.com",
-      "title": "Após testes bem-sucedidos, Ethereum será atualizado para modelo mais sustentável",
-      "description": "A chamada 'fusão' deve acontecer ainda em setembro.",
-      "url": "https://www.tudocelular.com/mercado/noticias/n194137/apos-testes-bem-sucedidos-ethereum-deve-ser-atualizado-para-modelo-mais-sustentavel.html",
-      "urlToImage": "https://t2.tudocdn.net/306601?w=1920",
-      "publishedAt": "2022-08-11T15:38:00Z",
-      "content": "O Ethereum enfim está mais próximo do que nunca de mudar para o chamado modelo POS —ou proof-of-stake— em sua nova versão, que deve deixando de lado um dos maiores problemas relacionados às moedas di… [+2160 chars]"
+      "author": null,
+      "title": "Com Fed agressivo, é hora de vender cripto e comprar ação barata, diz gestor do JP Morgan",
+      "description": "David Kelly, do JPMorgan Asset, sugere que os investidores esqueçam a direção de curto prazo e concentrem-se nos valuations David Kelly, do JPMorgan Asset Management, tem alguns conselhos para investidores abalados por um Federal Reserve agressivo: esqueça a …",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/30/com-fed-agressivo-e-hora-de-vender-cripto-e-comprar-acao-barata-diz-gestor-do-jp-morgan.ghtml",
+      "urlToImage": "https://s2.glbimg.com/DmTH-5afY5uZibiPH7xeEKEiVCc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2020/W/h/RbW3B2SBehT5YzyftYFA/jp-ny.jpg",
+      "publishedAt": "2022-08-30T12:56:50Z",
+      "content": "David Kelly, do JPMorgan Asset Management, tem alguns conselhos para investidores abalados por um Federal Reserve agressivo: esqueça a direção de curto prazo e concentre-se nos valuations. O presiden… [+2079 chars]"
     },
     {
       "source": {
@@ -1097,32 +759,6 @@
     {
       "source": {
         "id": null,
-        "name": "Terra.com.br"
-      },
-      "author": "Reuters",
-      "title": "Coinbase tem prejuízo trimestral com queda no volume de negociação",
-      "description": "A Coinbase Global teve um prejuízo trimestral maior do que o esperado, à medida que a liquidação em ativos de risco neste ano afastou investidores de...",
-      "url": "https://www.terra.com.br/byte/coinbase-tem-prejuizo-trimestral-com-queda-no-volume-de-negociacao,98441fa6e53bd180c16e9d778e2ed9025ywzgrdg.html",
-      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2022-08-10T13:48:57Z",
-      "content": "A Coinbase Global teve um prejuízo trimestral maior do que o esperado, à medida que a liquidação em ativos de risco neste ano afastou investidores de negócios com criptomoedas. \r\nAs ações da companhi… [+1923 chars]"
-    },
-    {
-      "source": {
-        "id": "info-money",
-        "name": "InfoMoney"
-      },
-      "author": "lucasgmarins",
-      "title": "Exchange cripto Zipmex irá liberar saques de Ethereum e Bitcoin nos próximos dias",
-      "description": "A corretora havia interrompido retiradas em julho em meio à crise do setor cripto \nThe post Exchange cripto Zipmex irá liberar saques de Ethereum e Bitcoin nos próximos dias appeared first on InfoMoney.",
-      "url": "https://www.infomoney.com.br/mercados/exchange-cripto-zipmex-ira-liberar-saques-de-ethereum-e-bitcoin-nos-proximos-dias/",
-      "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2022/06/investindo-bitcoin-criptomoedas.jpg?fit=2177%2C1377&quality=70&strip=all",
-      "publishedAt": "2022-08-09T17:31:11Z",
-      "content": "© 2000-2022 InfoMoney. Todos os direitos reservados.\r\nO InfoMoney preza a qualidade da informação e atesta a apuração de todo o conteúdo produzido por sua equipe, ressaltando, no entanto, que não faz… [+1194 chars]"
-    },
-    {
-      "source": {
-        "id": null,
         "name": "Expresso.pt"
       },
       "author": "Expresso",
@@ -1148,45 +784,6 @@
     },
     {
       "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Bitcoin: o homem que quer escavar aterro em busca de HD jogado no lixo com R$ 1,1 bilhão em criptomoeda",
-      "description": "Quase dez anos depois de jogar fora a memória do computador que continha carteira digital com bitcoins, o britânico James Howells quer escavar lixão em busca do objeto perdido. Howells jogou fora um HD e esqueceu que tinha criptomoedas no aparelho\nBBC\nQuase d…",
-      "url": "https://g1.globo.com/tecnologia/noticia/2022/08/02/bitcoin-o-homem-que-quer-escavar-aterro-em-busca-de-hd-jogado-no-lixo-com-r-11-bilhao-em-criptomoeda.ghtml",
-      "urlToImage": "https://s2.glbimg.com/_X07TeefbKopQYw1ceBs49_cJaI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/p/q/RPQWEUQ2yVxfgL2HB3Mw/thumbnail-image001.jpg",
-      "publishedAt": "2022-08-02T17:09:22Z",
-      "content": "Quase dez anos atrás, o britânico James Howells jogou fora um HD (hard drive, disco rígido que guarda a memória de um computador) durante uma limpeza de sua casa, se esquecendo de que havia uma carte… [+3291 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jornaldenegocios.pt"
-      },
-      "author": "jng@negocios.pt (Jornal de Negócios)",
-      "title": "Anchorage assina parceria que permite financiamento de startups com \"stablecoins\"",
-      "description": "A empresa cofundada pelo Português Diogo Mónica assinou uma parceira com a AngelList que permite que as empresas - mesmo que fora da rede blockchain - possam financiar-se a USD Coin, uma stablecoin correlacionada com o dólar.",
-      "url": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/anchorage-assina-parceria-que-permite-financiamento-de-startups-com-stablecoins",
-      "urlToImage": "https://cdn.jornaldenegocios.pt/images/2021-12/img_1200x676$2021_12_15_21_22_20_418478.jpg",
-      "publishedAt": "2022-08-11T14:01:23Z",
-      "content": "Em pleno \"inverno cripto\", onde as stablecoins estão no epicentro da crise, a Anchorage Digital assinou uma parceria com a AngelList uma plataforma de recursos humanos e de financiamento de startups,… [+2186 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Jornaldenegocios.pt"
-      },
-      "author": "jng@negocios.pt (Jornal de Negócios)",
-      "title": "Acionistas brasileiros da Criptoloja criticam \"reservas\" da banca portuguesa",
-      "description": "A 2TM, acionista maioritária da portuguesa Criptoloja, avança que pretende atuar \"de forma construtiva\" para superar restrições \"genéricas e sem critérios\", de forma a acelerar o desenvolvimento do ecossistema cripto em Portugal.",
-      "url": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/acionistas-brasileiros-da-criptoloja-criticam-reservas-da-banca-portuguesa",
-      "urlToImage": "https://cdn.jornaldenegocios.pt/images/2022-06/img_1200x676$2022_06_06_13_06_00_430440.jpg",
-      "publishedAt": "2022-08-04T17:45:39Z",
-      "content": "O grupo brasileiro 2TM, dono da maior bolsa de criptomoedas da América Latina, a Mercado Bitcoin, e investidor em Portugal critica os bancos portugueses que estão a encerrar contas às plataformas cri… [+2650 chars]"
-    },
-    {
-      "source": {
         "id": null,
         "name": "Jornaldenegocios.pt"
       },
@@ -1200,16 +797,16 @@
     },
     {
       "source": {
-        "id": "globo",
-        "name": "Globo"
+        "id": null,
+        "name": "Tecmundo.com.br"
       },
-      "author": null,
-      "title": "Dá para aprender sobre criptomoeda e metaverso num bar? O g1 foi conferir; assista",
-      "description": "Bar na Zona Norte de São Paulo é dedicado ao conceito de moedas digitais, realidade virtual e NFTs. Frequentadores investem em mais de 30 criptoativos e contam experiências. Dá pra aprender sobre criptomoeda e metaverso num bar?\nAs criptomoedas vivem um momen…",
-      "url": "https://g1.globo.com/economia/noticia/2022/07/30/da-para-aprender-sobre-criptomoeda-e-metaverso-num-bar-o-g1-foi-conferir-assista.ghtml",
-      "urlToImage": "https://s2.glbimg.com/SL87dpd-X7SEDw6L41t-_5jW_k4=/1200x/smart/filters:cover():strip_icc()/s03.video.glbimg.com/x720/10787246.jpg",
-      "publishedAt": "2022-07-30T12:52:34Z",
-      "content": "De olho nesse mercado, o empresário Natan Lima, da Zona Norte de São Paulo, resolveu abrir um bar dedicado ao conceito de criptomoedas, metaverso e NFTs (Tokens Não Fungíveis). Por trás dos muitos Le… [+3009 chars]"
+      "author": "Felipe Vidal",
+      "title": "Comprar placa de vídeo agora ou depois? Esse pode ser o melhor momento",
+      "description": "O mercado de placas de vídeo finalmente está voltando a uma estabilidade após pouco mais de um ano de absoluto caos na indústria. Com a normalidade batendo na porta e o retorno de preços competitivos em muitos segmentos, fica aquela dúvida: compro uma nova pl…",
+      "url": "https://www.tecmundo.com.br/voxel/246385-comprar-placa-video-melhor-momento.htm",
+      "urlToImage": "https://tm.ibxk.com.br/2022/09/08/08191405061002.jpg",
+      "publishedAt": "2022-09-10T15:00:00Z",
+      "content": "O mercado de placas de vídeo finalmente está voltando a uma estabilidade após pouco mais de um ano de absoluto caos na indústria. Com a normalidade batendo na porta e o retorno de preços competitivos… [+7896 chars]"
     },
     {
       "source": {
@@ -1230,64 +827,38 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Coinbase tem prejuízo recorde e decepciona com perda de receita e previsão menor de usuários",
-      "description": "Corretora atribui perdas a mudança de cenário \"rápida e furiosa\"; ações caem 6% na bolsa A Coinbase Global Inc. registrou um prejuízo recorde de US$ 1,1 bilhão no segundo trimestre e receita abaixo do esperado, movimento que foi atribuído à baixa nos preços d…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/10/coinbase-tem-prejuizo-recorde-e-decepciona-com-perda-de-receita-e-previsao-menor-de-usuarios.ghtml",
-      "urlToImage": "https://s2.glbimg.com/3wZeqEjsexDwutxv0JAPxqOH49s=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/2/I/4PhHypT4OoDcLRXEj3lg/brian-armstrong-ceo-da-coinbase.jpg",
-      "publishedAt": "2022-08-10T11:37:26Z",
-      "content": "A Coinbase Global Inc. registrou um prejuízo recorde de US$ 1,1 bilhão no segundo trimestre e receita abaixo do esperado, movimento que foi atribuído à baixa nos preços dos ativos digitais. As ações … [+2794 chars]"
+      "title": "Juro alto ameaça 'crédito cripto' e negócios de finanças descentralizadas nos EUA",
+      "description": "Segmento tem retornos guiados pelos volumes de negociação e não pela percepção de risco O mercado de criptomoedas enfrenta uma nova ameaça: o apelo dos títulos do Tesouro dos Estados Unidos, que oferecem rendimento semelhante por um risco muito menor.\nEm uma …",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/14/juro-alto-ameaca-credito-cripto-e-negocios-de-financas-descentralizadas-nos-eua.ghtml",
+      "urlToImage": "https://s2.glbimg.com/bsOQTb43JXTi1MgBOvhgdm8sUos=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/q/o/bOSFvbS8SFmpzb1VBBRw/criptomoedas.jpg",
+      "publishedAt": "2022-09-14T13:09:28Z",
+      "content": "O mercado de criptomoedas enfrenta uma nova ameaça: o apelo dos títulos do Tesouro dos Estados Unidos, que oferecem rendimento semelhante por um risco muito menor. Em uma rara virada, os retornos das… [+3698 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Canaltech.com.br"
+        "id": "globo",
+        "name": "Globo"
       },
-      "author": "Diego Marques",
-      "title": "Por que a fusão do Ethereum pode causar uma \"guerra civil\" no mercado?",
-      "description": "A “The Merge “ ou Ethereum 2.0, é uma atualização que busca melhorar a velocidade, a eficiência e escalabilidade da criptomoeda. Ela está programada para ser ativada em 19 de setembro. Especialistas acreditam que mudança pode levar a uma \"guerra civil\" entre …",
-      "url": "https://canaltech.com.br/criptomoedas/por-que-a-fusao-do-ethereum-pode-causar-uma-guerra-civil-no-mercado-222726/",
-      "urlToImage": "https://t.ctcdn.com.br/btzVTpksKzKJT0K38TzpKUV2Cgs=/1244x700/smart/i620505.jpeg",
-      "publishedAt": "2022-08-10T19:20:00Z",
-      "content": "A The Merge ou Ethereum 2.0, é uma atualização que busca melhorar a velocidade, a eficiência e escalabilidade da criptomoeda. Ela está programada para ser ativada em 19 de setembro. Especialistas acr… [+4059 chars]"
+      "author": null,
+      "title": "Plataforma descentralizada Nodle entra no Brasil com promessa de privacidade e parceria com MB",
+      "description": "Aplicativo promete fornecer carteira baseada em conexões sem necessidade do usuário ceder seus dados pessoais A plataforma de rede de conexões descentralizadas e carteira digital Nodle anunciou nesta sexta-feira (2) sua expansão para o Brasil em parceria com …",
+      "url": "https://valor.globo.com/empresas/criptomoedas/noticia/2022/09/02/plataforma-descentralizada-nodle-entra-no-brasil-com-promessa-de-privacidade-e-parceria-com-mb.ghtml",
+      "urlToImage": "https://s2.glbimg.com/2W36eMJVXxPFmFtu-IVzBGPy3Ew=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/S/J/op8vyZTp6M0mRBOFN1bQ/nodle-app.jpg",
+      "publishedAt": "2022-09-02T20:41:14Z",
+      "content": "A plataforma de rede de conexões descentralizadas e carteira digital Nodle anunciou nesta sexta-feira (2) sua expansão para o Brasil em parceria com o MB (antigo Mercado Bitcoin). A Nodle faz 1,4 mil… [+2548 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "Tudocelular.com"
+        "id": "globo",
+        "name": "Globo"
       },
-      "author": "Tudocelular.com",
-      "title": "18% dos brasileiros das classes ABC não sabem o que são criptomoedas, diz pesquisa",
-      "description": "Entre os entrevistados, 24% relatam que nunca investiram, mas consideram escolher essa opção no futuro e 19% dizem que nunca investiram e não confiam no produto.",
-      "url": "https://www.tudocelular.com/mercado/noticias/n193559/pesquisa-mostra-popularidade-das-criptomoedas.html",
-      "urlToImage": "https://t2.tudocdn.net/605228?w=1920",
-      "publishedAt": "2022-07-29T13:17:00Z",
-      "content": "O mercado das criptos se mostrou aquecido nos últimos anos com a alta de moedas digitais como Bitcoin e Ethereum, período em que mais pessoas passaram a investir nesse segmento aumentando sua popular… [+1710 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Observador.pt"
-      },
-      "author": "Alexandra Machado",
-      "title": "Lavagem de criptomoedas obtidas em ciberataques leva EUA a banir Tornado Cash",
-      "description": "Os Estados Unidos da América bloquearam a Tornado Cash, por alegado branqueamento com criptomoedas.",
-      "url": "https://observador.pt/2022/08/08/lavagem-de-criptomoedas-obtidas-em-ciberataque-leva-eua-a-banir-tornado-cash/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A2000%3A1124%3Anowe%3A0%3A105%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F04%2F21142628%2F34398502.jpg",
-      "publishedAt": "2022-08-08T18:34:04Z",
-      "content": "Tem acesso livre a todos os artigos do Observador por ser nosso assinante.\r\nO Departamento do Tesouro dos Estados Unidos da América sancionou a Tornado Cash, por alegadamente ajudar no branqueamento … [+2127 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Observador.pt"
-      },
-      "author": "Agência Lusa",
-      "title": "Álbum NFT dos Muse será o primeiro deste genéro a figurar nos “tops” de vendas",
-      "description": "\"Will of the People\", mais recente trabalho dos Muse, que será lançado em 26 de agosto, vai ser vendido através da NFT sendo o primeiro deste formato nas tabelas oficiais desde as vendas de \"stream\".",
-      "url": "https://observador.pt/2022/08/02/album-nft-dos-muse-sera-o-primeiro-deste-genero-a-figurar-nos-tops-de-vendas/",
-      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A3457%3A1944%3Anowe%3A0%3A180%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F08%2F02064354%2FGettyImages-1241107515-1.jpg",
-      "publishedAt": "2022-08-02T09:25:34Z",
-      "content": "A edição NFT do nono álbum de estúdio dos britânicos Muse vai ser a primeira do género a figurar nos “tops” de vendas do Reino Unido e da Austrália, anunciou esta terça-feira a Official Charts Compan… [+2191 chars]"
+      "author": null,
+      "title": "Xtage aperfeiçoa aplicativo para trazer investidor de corretoras criptonativas, diz novo CEO",
+      "description": "Executivo afirma em entrevista que tokenização virou tema de análise multidisciplinar dentro da XP Recém-chegada ao universo cripto, a Xtage anunciou nesta terça o executivo Marcos Horie como seu CEO. Horie, que tem 18 anos no mercado financeiro e três anos d…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/13/xtage-aperfeioa-aplicativo-para-trazer-investidor-de-corretoras-criptonativas-diz-novo-ceo.ghtml",
+      "urlToImage": "https://s2.glbimg.com/LXQDeotnzwrFx2tB_CF-Jqs8d0E=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/P/I/9rXdyDQz6ZZTlBYeugsw/marcos-horie-ceo-da-xtage.jpg",
+      "publishedAt": "2022-09-13T12:42:32Z",
+      "content": "Recém-chegada ao universo cripto, a Xtage anunciou nesta terça o executivo Marcos Horie como seu CEO. Horie, que tem 18 anos no mercado financeiro e três anos de XP, já estava à frente do projeto de … [+2768 chars]"
     },
     {
       "source": {
@@ -1301,6 +872,435 @@
       "urlToImage": "https://www.infomoney.com.br/wp-content/uploads/2022/08/o-que-sao-forks.jpg?quality=70",
       "publishedAt": "2022-08-16T17:32:15Z",
       "content": "Quando o sócio de uma empresa não concorda com uma mudança no negócio, ele pode deixar a sociedade e fundar uma nova firma, que pode ser semelhante à anterior ou diferente. O fork (bifurcação) de blo… [+4596 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Uol.com.br"
+      },
+      "author": null,
+      "title": null,
+      "description": "Empresa Atlas Quantum é acusada de manter 15 mil bitcoins e 34,8 mil criptodólares de forma irregular",
+      "url": "https://www1.folha.uol.com.br/mercado/2022/08/vitimas-de-golpe-do-bitcoin-pedem-r-7-bi-em-acao-na-justica.shtml",
+      "urlToImage": "https://f.i.uol.com.br/fotografia/2022/08/15/166060303062faca9666441_1660603030_3x2_rt.jpg",
+      "publishedAt": "2022-08-17T08:35:14Z",
+      "content": "Um grupo de investidores vítimas de golpe envolvendo bitcoin busca, na Justiça, o ressarcimento de R$ 7 bilhões da empresa Atlas Quantum, conforme ação civil pública proposta pelo IPGE (Instituto de … [+6046 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Uol.com.br"
+      },
+      "author": "Renato Jakitas",
+      "title": null,
+      "description": "A Polícia Civil de São Paulo realiza, desde as 5h desta terça-feira, 23, uma operação de busca e apreensão em um condomínio de luxo em Santana de Parnaíba, cidade localizada na Grande São Paulo. Os alvos são dois influenciadores digitais e empresários do",
+      "url": "https://economia.uol.com.br/noticias/estadao-conteudo/2022/08/23/suspeitos-de-piramide-com-criptomoedas-sao-alvo-de-operacao-em-sp.htm",
+      "urlToImage": "https://conteudo.imguol.com.br/c/noticias/32/2019/12/10/10dez2019---carro-da-policia-civil-chega-a-sede-da-corregedoria-geral-da-policia-civil-na-rua-da-consolacao-em-sao-paulo-denuncia-de-corrupcao-derrubou-cupula-do-orgao-em-2014-1576006697729_v2_615x300.jpg",
+      "publishedAt": "2022-08-23T22:35:09Z",
+      "content": "A Polícia Civil de São Paulo realiza, desde as 5h desta terça-feira, 23, uma operação de busca e apreensão em um condomínio de luxo em Santana de Parnaíba, cidade localizada na Grande São Paulo. Os a… [+3610 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Startupi.com.br"
+      },
+      "author": "Startupi",
+      "title": "Mercado Livre lança criptomoeda como recompensa na plataforma",
+      "description": "Startupi\n\nMercado Livre lança criptomoeda como recompensa na plataforma\nO Mercado Livre, anunciou hoje, em evento realizado para a imprensa, o lançamento de uma nova ferramenta dentro da plataforma: Mercado Coin, uma cripto que está integrada ao seu ecossiste…",
+      "url": "https://startupi.com.br/mercado-livre-lanca-criptomoeda/",
+      "urlToImage": "https://startupi.com.br/wp-content/uploads/2022/08/mercado-livre.jpg",
+      "publishedAt": "2022-08-18T15:04:04Z",
+      "content": "O Mercado Livre, anunciou hoje, em evento realizado para a imprensa, o lançamento de uma nova ferramenta dentro da plataforma: Mercado Coin, uma cripto que está integrada ao seu ecossistema e que, a … [+2724 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tudocelular.com"
+      },
+      "author": "Tudocelular.com",
+      "title": "Apple Crypto Event 2022? Falso evento sobre criptomoedas atrai 70 mil de espectadores no YouTube",
+      "description": "Transmissão \"pegou carona\" com o lançamento do iPhone 14 para atrair quase 70 mil espectadores.",
+      "url": "https://www.tudocelular.com/seguranca/noticias/n195442/apple-crypto-event-2022-falso-evento-youtube.html",
+      "urlToImage": "https://t2.tudocdn.net/614933?w=1920",
+      "publishedAt": "2022-09-09T15:01:00Z",
+      "content": "Um usuário não identificado do YouTube criou a transmissão ao vivo de um falso evento da Apple na última quarta-feira (07). A conferência mostrava uma entrevista do CEO Tim Cook falando em criptomoed… [+1895 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Canaltech.com.br"
+      },
+      "author": "Kaique Lima",
+      "title": "Ethereum: o que significa a atualização The Merge para a criptomoeda",
+      "description": "Para muitas pessoas, criptomoedas é sinônimo de bitcoins, mesmo que esse ativo seja apenas uma das milhões que existem no mundo atualmente. Uma delas é o Ethereum, que promete entrar para história em breve com uma novidade. Chamada de \"The Merge” (ou a fusão)…",
+      "url": "https://canaltech.com.br/criptomoedas/ethereum-o-que-significa-a-atualizacao-the-merge-para-a-criptomoeda-225205/",
+      "urlToImage": "https://t.ctcdn.com.br/tBNHiJYOQG3IHU2LQq3DDVtF1Cc=/1244x700/smart/i596520.jpeg",
+      "publishedAt": "2022-09-13T22:20:00Z",
+      "content": "Para muitas pessoas, criptomoedas é sinônimo de bitcoins, mesmo que esse ativo seja apenas uma das milhões que existem no mundo atualmente. Uma delas é o Ethereum, que promete entrar para história em… [+2747 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Cointimes.com.br"
+      },
+      "author": "Cointimes",
+      "title": "Praia “Bitcoin Beach” ganhará mais de US$ 200 mi para investimentos",
+      "description": "O projeto inclui a construção de ciclovias, um novo sistema de drenagem, travessias para pedestres e 14 pontes. Local fica em El Salvador\nO post Praia “Bitcoin Beach” ganhará mais de US$ 200 mi para investimentos apareceu primeiro em Metrópoles.",
+      "url": "https://cointimes.com.br/bitcoin-beach-de-el-salvador-recebera-mais-de-us-200-milhoes-para-investimentos-em-infraestrutura/",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/08/31160758/Bitcoin-Beach.jpg",
+      "publishedAt": "2022-08-31T19:21:49Z",
+      "content": "El Zonte, uma praia em El Salvador que foi renomeada como Bitcoin Beach”, resultado de sua aceitação da criptomoeda, receberá melhorias na infraestrutura como parte de um plano estratégico que será i… [+460 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Conjur.com.br"
+      },
+      "author": "Maria Luiza Prado Faria",
+      "title": "Maria Luiza Prado: Moedas virtuais e tributação",
+      "description": "Em 2008, o ambiente de desconfiança por parte de investidores e agentes econômicos, causado pela crise econômica mundial, propiciou o debate acerca de práticas adotadas por instituições financeiras e o estímulo a projetos de intervenção estatal mínima na econ…",
+      "url": "https://www.conjur.com.br/2022-set-14/maria-luiza-prado-moedas-virtuais-tributacao",
+      "urlToImage": "https://s.conjur.com.br/img/b/selo-opiniao-artigos-dentro.png",
+      "publishedAt": "2022-09-14T22:27:00Z",
+      "content": "Em 2008, o ambiente de desconfiança por parte de investidores e agentes econômicos, causado pela crise econômica mundial, propiciou o debate acerca de práticas adotadas por instituições financeiras e… [+17114 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Uol.com.br"
+      },
+      "author": "Felipe Oliveira",
+      "title": null,
+      "description": "O crescente interesse das pessoas em investir em criptomoedas tem criado situações propícias para a aplicação de supostos golpes. No Brasil, inúmeras histórias já viralizaram, algumas delas envolvendo famosos que alegaram ter caído em fraudes.As operações",
+      "url": "https://economia.uol.com.br/noticias/redacao/2022/08/17/jatinhos-iates-e-mansoes-conheca-os-maiores-golpistas-das-criptomoedas.htm",
+      "urlToImage": "https://conteudo.imguol.com.br/c/noticias/18/2022/08/15/golpistas-de-criptomoedas-1660597626536_v2_615x300.jpg",
+      "publishedAt": "2022-08-17T20:51:14Z",
+      "content": "O crescente interesse das pessoas em investir em criptomoedas tem criado situações propícias para a aplicação de supostos golpes. No Brasil, inúmeras histórias já viralizaram, algumas delas envolvend… [+6961 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Diariodocentrodomundo.com.br"
+      },
+      "author": "Diario do Centro do Mundo",
+      "title": "O Que São os Crypto Cassinos e Como Funcionam",
+      "description": "A nova modalidade de jogos de cassino online vem crescendo consideravelmente entre os jogadores que desejam experimentar pagamentos com criptomoedas, visto que é uma forma mais segura e confiável de se efetuar pagamentos online. Afinal, o que é o crypto cassi…",
+      "url": "https://www.diariodocentrodomundo.com.br/o-que-sao-os-crypto-cassinos-e-como-funcionam/",
+      "urlToImage": "https://www.diariodocentrodomundo.com.br/wp-content/uploads/2022/08/cards-1066386_960_720.jpg",
+      "publishedAt": "2022-08-17T13:13:56Z",
+      "content": "A nova modalidade de jogos de cassino online vem crescendo consideravelmente entre os jogadores que desejam experimentar pagamentos com criptomoedas, visto que é uma forma mais segura e confiável de … [+2270 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Publico.pt"
+      },
+      "author": "publico@publico.pt",
+      "title": "O problema da tributação das criptomoedas e suas implicações",
+      "description": "Ao considerar as criptomoedas como forma de pagamento, a Autoridade Tributária e Aduaneira isenta de IRS as mais-valias obtidas com a venda de moedas como a bitcoin. Quando a venda de criptomoedas constitui uma actividade empresarial ou profissional, há lugar…",
+      "url": "https://www.publico.pt/2022/08/14/opiniao/opiniao/problema-tributacao-criptomoedas-implicacoes-2017190",
+      "urlToImage": "https://imagens.publico.pt/imagens.aspx/1724355?tp=UH&db=IMAGENS&type=JPG&share=1&o=BarraFacebook_Publico.png",
+      "publishedAt": "2022-08-14T12:31:00Z",
+      "content": "O mercado dos criptoactivos implica avultadas aplicações monetárias e a ausência de regulação ou insuficiente regulação criam inúmeros problemas. A situação tem-se intensificado com a guerra na Ucrân… [+4362 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tudocelular.com"
+      },
+      "author": "Tudocelular.com",
+      "title": "Mercado Livre lança nova criptomoeda no Brasil para desconto em compras e mais",
+      "description": "Os clientes receberão essa criptomoeda como uma espécie de cashback em cada compra.",
+      "url": "https://www.tudocelular.com/mercado/noticias/n194432/mercado-livre-lanca-nova-criptomoeda-brasil.html",
+      "urlToImage": "https://t2.tudocdn.net/602353?w=1920",
+      "publishedAt": "2022-08-18T09:02:00Z",
+      "content": "Em evento realizado na manhã desta quinta-feira (18), o Mercado Livre anunciou uma nova criptomoeda para ser usada como solução de compra e venda na plataforma. A partir desta data, cerca de 500 mil … [+2724 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Reuters",
+      "title": "Bitcoin não é mais a criptomoeda preferida das corretoras",
+      "description": "O bitcoin está estranhamente há dias em cerca de 20 mil dólares e não se aventurou muito além disso desde junho. Isso significa problemas para os traders e...",
+      "url": "https://www.terra.com.br/byte/bitcoin-nao-e-mais-a-criptomoeda-preferida-das-corretoras,5e6b8278865f33cb11152cd43ce80c28yecb8fi4.html",
+      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2022-09-06T19:54:51Z",
+      "content": "O bitcoin está estranhamente há dias em cerca de 20 mil dólares e não se aventurou muito além disso desde junho. \r\nIsso significa problemas para os traders e corretoras que lucram com as oscilações d… [+2643 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Canaltech.com.br"
+      },
+      "author": "Canaltech",
+      "title": "Falha em caixas eletrônicos de Bitcoin permite furto de criptomoedas",
+      "description": "Vulnerabilidade estava no servidor de aplicações dos equipamentos e permitia inserção de carteiras de criptomoedas para fraudar compras dos usuários",
+      "url": "https://canaltech.com.br/seguranca/falha-em-caixas-eletronicos-de-bitcoin-permite-furto-de-criptomoedas-223621/",
+      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2022/08/23/1360554868-i624181.jpeg",
+      "publishedAt": "2022-08-23T20:21:12Z",
+      "content": "Uma vulnerabilidade de dia zero estava permitindo o furto de criptomoedas a partir de caixas eletrônicos de Bitcoins. As máquinas, fabricadas pela General Bytes, possuíam uma brecha em seu servidor d… [+3034 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Canaltech.com.br"
+      },
+      "author": "Giovana Pignati",
+      "title": "O que é o real digital?",
+      "description": "Nesta segunda-feira (5), o Banco Central inicia os testes do Laboratório de Inovações Financeiras e Tecnológicas do real digital: o LIFT Challenge. Nesta etapa, serão levantadas questões relativas à implantação da moeda digital, visando desenvolver um produto…",
+      "url": "https://canaltech.com.br/mercado/o-que-e-o-real-digital-224655/",
+      "urlToImage": "https://t.ctcdn.com.br/MRah2s0MeY7uIszffG-McEI7EX8=/434x341:1676x1040/1242x699/smart/i609292.jpeg",
+      "publishedAt": "2022-09-05T18:46:00Z",
+      "content": "Nesta segunda-feira (5), o Banco Central inicia os testes do Laboratório de Inovações Financeiras e Tecnológicas do real digital: o LIFT Challenge. Nesta etapa, serão levantadas questões relativas à … [+4115 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Manualdousuario.net"
+      },
+      "author": "Rodrigo Ghedin",
+      "title": "A promessa quebrada do bitcoin em El Salvador",
+      "description": "A promessa quebrada do bitcoin em El Salvador, por Jacob Silverman e Ben McKenzie no The Intercept Brasil: Apesar do talento ocasional do governo salvadorenho para o marketing, o país enfrenta enormes desafios econômicos, uma crise da dívida, lutas constantes…",
+      "url": "https://manualdousuario.net/link-bitcoin-el-salvador/",
+      "urlToImage": "https://manualdousuario.net/wp-content/uploads/2019/03/mdudefault.jpg",
+      "publishedAt": "2022-08-24T13:56:47Z",
+      "content": "Apesar do talento ocasional do governo salvadorenho para o marketing, o país enfrenta enormes desafios econômicos, uma crise da dívida, lutas constantes com o crime e a violência, uma disputa diplomá… [+2538 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Abertoatedemadrugada.com"
+      },
+      "author": "Carlos Martins",
+      "title": "Notícias do dia",
+      "description": "Morreu Peter Eckersley - criador do Let's Encrypt; Google marca evento Pixel para 6 de Outubro; Poolin suspende levantamentos; Rings of Power com 25M",
+      "url": "https://abertoatedemadrugada.com/2022/09/noticias-do-dia_6.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiIjgjKUw-YNjmQCtzjzNzyun3w1xf1DAKGYbiZP68RyKinUUEmL564l1EnwvAJ_widqQN_nG7t1hd5IERBh5k9TM2vpI6LRB1e8gvsGEESHcvW4B2Z_qlAwCjSbs64zwi_AE5eH798tD--4Z2rWFl6BG1rDCSs0_9MyWWiNtvqviBLl8c2z4EvfcSXqg/w1200-h630-p-k-no-nu/peter.jpg",
+      "publishedAt": "2022-09-06T16:30:00Z",
+      "content": "Brasil proíbe venda de iPhones sem carregador; pais apostam nos smartwatches para os filhos para não os viciarem nos smartphones; novo Apple Watch Pro poderá ser acompanhado por relógio mais barato; … [+4347 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Bitcoin sobe e ether dispara após desaceleração no mercado de trabalho nos EUA",
+      "description": "O bitcoin, que oscilava perto dos US$ 20 mil, se aproximou de US$ 20.500 seguindo o bom desempenho da Nasdaq Bitcoin, ether e as principais criptomoedas aceleraram os ganhos nesta sexta feira após a divulgação do relatório do payroll nos EUA, que indicou uma …",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/02/bitcoin-sobe-e-ether-dispara-aps-desacelerao-no-mercado-de-trabalho-nos-eua.ghtml",
+      "urlToImage": "https://s2.glbimg.com/bsOQTb43JXTi1MgBOvhgdm8sUos=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/q/o/bOSFvbS8SFmpzb1VBBRw/criptomoedas.jpg",
+      "publishedAt": "2022-09-02T15:10:36Z",
+      "content": "Bitcoin, ether e as principais criptomoedas aceleraram os ganhos nesta sexta feira após a divulgação do relatório do payroll nos EUA, que indicou uma desaceleração significativa na criação de vagas d… [+82 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Reuters",
+      "title": "Bitcoin cai abaixo de US$20 mil com foco em Jackson Hole",
+      "description": "O bitcoin caiu abaixo dos 20.000 dólares neste sábado, mantendo movimento de queda que derrubou a moeda digital em quase 60% em relação ao patamar mais alto...",
+      "url": "https://www.terra.com.br/economia/bitcoin-cai-abaixo-de-us20-mil-com-foco-em-jackson-hole,196b36e38af108410c39c5684c236e5b147le7pt.html",
+      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2022-08-27T18:36:23Z",
+      "content": "O bitcoin caiu abaixo dos 20.000 dólares neste sábado, mantendo movimento de queda que derrubou a moeda digital em quase 60% em relação ao patamar mais alto deste ano. \r\nO bitcoin, maior e mais conhe… [+1280 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Reuters",
+      "title": "Bitcoin salta acima de US$21.000 e pode ter melhor sessão desde fevereiro",
+      "description": "O bitcoin ultrapassou a barreira dos 21 mil dólares e caminhava nesta sexta-feira para seu melhor dia desde 28 fevereiro, à medida que o dólar caia e os...",
+      "url": "https://www.terra.com.br/byte/bitcoin-salta-acima-de-us21000-e-pode-ter-melhor-sessao-desde-fevereiro,ab7dc8c93fbab074553524ef9026c7c5q3c8pjfb.html",
+      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2022-09-09T14:07:04Z",
+      "content": "O bitcoin ultrapassou a barreira dos 21 mil dólares e caminhava nesta sexta-feira para seu melhor dia desde 28 fevereiro, à medida que o dólar caia e os mercados acionários avançavam. \r\nPor volta de … [+477 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Reuters",
+      "title": "Ethereum passará por atualização para reduzir uso de energia",
+      "description": "Uma atualização de software há muito aguardada para a blockchain Ethereum com o objetivo de reduzir seu enorme consumo de energia é esperada para esta...",
+      "url": "https://www.terra.com.br/byte/ethereum-passara-por-atualizacao-para-reduzir-uso-de-energia,0182131bbc5a0694a7c38747dcd955baz3dakfq0.html",
+      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2022-09-12T15:57:20Z",
+      "content": "Uma atualização de software há muito aguardada para a blockchain Ethereum com o objetivo de reduzir seu enorme consumo de energia é esperada para esta semana, movimento que pode ampliar o uso da tecn… [+1317 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Terra.com.br"
+      },
+      "author": "Reuters",
+      "title": "Plataforma de criptoativos da XP estreia com meta de 200 mil clientes ativos até final do ano",
+      "description": "A Xtage, nova plataforma de negociação de ativos digitais da XP Inc, começa suas operações oficialmente nesta segunda-feira, com a meta de encerrar o ano...",
+      "url": "https://www.terra.com.br/byte/plataforma-de-criptoativos-da-xp-estreia-com-meta-de-200-mil-clientes-ativos-ate-final-do-ano,3b61f3788bd919a40f25f16e90285051ueuyonxc.html",
+      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
+      "publishedAt": "2022-08-15T12:51:18Z",
+      "content": "A Xtage, nova plataforma de negociação de ativos digitais da XP Inc, começa suas operações oficialmente nesta segunda-feira, com a meta de encerrar o ano com 200 mil clientes ativos. \r\nDisponível no … [+2105 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Publico.pt"
+      },
+      "author": "publico@publico.pt",
+      "title": "Tecnologia das criptomoedas entra na luta contra a fome",
+      "description": "A tecnologia por detrás das criptomoedas – a <i>blockchain</i> – já está a ser usada em campos de refugiados, quintas, fábricas e supermercados para diminuir a percentagem de alimentos que se estragam. Só que a atenção negativa em torno da <i>bitcoin</i> e ou…",
+      "url": "https://www.publico.pt/2022/08/27/azul/noticia/tecnologia-criptomoedas-entra-luta-fome-2017700",
+      "urlToImage": "https://imagens.publico.pt/imagens.aspx/1725615?tp=UH&db=IMAGENS&type=PNG&share=1&o=BarraFacebook_Azul.png",
+      "publishedAt": "2022-08-27T10:32:00Z",
+      "content": "Enquanto o valor das criptomoedas continua a subir ou a cair a pique e a motivar fervorosos debates entre críticos e fãs, a tecnologia por detrás das moedas digitais começa a ser usada para lutar con… [+13010 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Metropoles.com"
+      },
+      "author": "Caroline Kalil",
+      "title": "Saiba o que é o the Merge, a nova atualização da rede Ethereum",
+      "description": "Um novo evento pode impactar de forma significativa o portfólio dos investidores em criptomoedas \nO post Saiba o que é o the Merge, a nova atualização da rede Ethereum apareceu primeiro em Metrópoles.",
+      "url": "https://www.metropoles.com/colunas/claudia-meireles/saiba-o-que-e-o-the-merge-a-nova-atualizacao-da-rede-ethereum",
+      "urlToImage": "https://uploads.metropoles.com/wp-content/uploads/2022/09/09155243/Antes-3-2.jpg",
+      "publishedAt": "2022-09-09T20:03:47Z",
+      "content": "A blockchain Ethereum começou, na última quarta-feira (7/9), o upgrade chamado de Bellatrix, que vai dar início ao The Merge e deve ser finalizado nas próximas semanas, entre os dias 13 e 15 de setem… [+3136 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Ethereum testa US$ 2 mil e bitcoin bate em US$ 25 mil antes de recuarem",
+      "description": "Criptomoedas devolveram os ganhos seguindo cautela nos negócios com ações na Ásia, Europa e EUA Após novos ganhos no final de semana, bitcoin, ethereum e as principais criptomoedas iniciaram a semana com cotações mais comedidas e as atenções voltadas para ind…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/15/ethereum-testa-us-2-mil-e-bitcoin-bate-em-us-25-mil-antes-de-recuarem.ghtml",
+      "urlToImage": "https://s2.glbimg.com/SacdIm_MdIfryq3HqaE-FxRIDQg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/h/5/s4dHJTTAKbELFRrSoafQ/pexels-rodnae-productions-8369687.jpg",
+      "publishedAt": "2022-08-15T12:18:01Z",
+      "content": "Após novos ganhos no final de semana, bitcoin, ethereum e as principais criptomoedas iniciaram a semana com cotações mais comedidas e as atenções voltadas para indicadores macroeconômicos, além de in… [+1798 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Bitcoin e ethereum sobem depois de baterem mínimas em mais de um mês",
+      "description": "Criptomoedas foram na contramão do desempenho negativo registrado pelas bolsas de valores dos EUA O bitcoin e o ethereum operam em alta nesta segunda-feira (29) depois de caírem forte no fim de semana até as mínimas em mais de um mês. O bitcoin chegou a ating…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/29/bitcoin-e-ethereum-sobem-depois-de-baterem-mnimas-em-mais-de-um-ms.ghtml",
+      "urlToImage": "https://s2.glbimg.com/Z84bJVfFxgwXgvh_6j_pw3ivvTw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/g/B/2iyQXQQWCx7dyMOw8GvA/bitcoin-blockchain.jpg",
+      "publishedAt": "2022-08-29T21:45:49Z",
+      "content": "O bitcoin e o ethereum operam em alta nesta segunda-feira (29) depois de caírem forte no fim de semana até as mínimas em mais de um mês. O bitcoin chegou a atingir o patamar de US$ 19.540 no domingo,… [+2339 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Bitcoin atinge maior cotação em três semanas antes de dado de inflação e atualização do ethereum",
+      "description": "É o sexto dia seguido de alta, o que levou o valor somado das criptomoedas a retomar os US$ 1,12 trilhão O bitcoin manteve os ganhos recentes e atingiu a maior cotação em três semanas antes da divulgação da inflação ao consumidor de agosto e da atualização de…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/12/bitcoin-atinge-maior-cotao-em-trs-semanas-antes-de-dado-de-inflao-e-atualizao-do-ethereum.ghtml",
+      "urlToImage": "https://s2.glbimg.com/fOwoTY9Wbg6_VZuXx9CecWTRawE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/u/o/vrP1nATIAiO1o8fiAIYA/bitcoins.jpg",
+      "publishedAt": "2022-09-12T11:58:18Z",
+      "content": "O bitcoin manteve os ganhos recentes e atingiu a maior cotação em três semanas antes da divulgação da inflação ao consumidor de agosto e da atualização de software do Ethereum, a segunda maior cripmo… [+1837 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Compradores reaparecem, bitcoin fica acima de US$ 20 mil e criptomoedas retomam US$ 1 tri",
+      "description": "Valorização das criptomoedas ocorre na contramão de Wall Street, que mantém as perdas desde a abertura dos negócios, com destaque para queda de quase 1% da Nasdaq Numa semana que promete alta volatilidade para as criptmoedas, investidores atrás de oportunidad…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/29/compradores-reaparecem-bitcoin-fica-acima-de-us-20-mil-e-criptomoedas-retomam-us-1-tri.ghtml",
+      "urlToImage": "https://s2.glbimg.com/nJTzZhK3JtpmzL2aq3LbC_ToruM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/y/1/nnNi2ATFA00ta1AmwESA/gettyimages-1297465792-170667a.jpg",
+      "publishedAt": "2022-08-29T16:10:06Z",
+      "content": "Numa semana que promete alta volatilidade para as criptmoedas, investidores atrás de oportunidades de preço voltaram a comprar bitcoin e ethereum no final da manhã desta segunda-feira, levando a maio… [+1957 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Criptomoedas iniciam setembro em baixa com atenção voltada para atualização do ethereum",
+      "description": "bitcoin mostra dificuldade de manter o patamar de US$ 20 mil em meio ao mau humor que prevalece nos negócios com ativos de risco As principais criptomoedas iniciaram setembro com leve baixa, com os investidores atentos a indicadores macroeconômicos e à atuali…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/01/criptomoedas-iniciam-setembro-em-baixa-com-ateno-voltada-para-atualizao-do-ethereum.ghtml",
+      "urlToImage": "https://s2.glbimg.com/fOwoTY9Wbg6_VZuXx9CecWTRawE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/u/o/vrP1nATIAiO1o8fiAIYA/bitcoins.jpg",
+      "publishedAt": "2022-09-01T12:26:04Z",
+      "content": "As principais criptomoedas iniciaram setembro com leve baixa, com os investidores atentos a indicadores macroeconômicos e à atualização do ethereum, que entra na reta final na próxima semana. Maior d… [+3275 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Bitcoin e ethereum sobem pelo 3º dia com política monetária no radar",
+      "description": "Bitcoin, ethereum e as principais criptomoedas sobem pela terceira sessão nesta quinta-feira, dia em que os mercados de risco se voltam para acompanhar a abertura do simpósio de Jackson Hole, em Wyoming, que contará na sexta-feira de manhã com discurso do pre…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/25/bitcoin-e-ethereum-sobem-pelo-3-dia-com-poltica-monetria-no-radar.ghtml",
+      "urlToImage": "https://s2.glbimg.com/57brsenBObDJb9Gn50SHKCMoqYU=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/X/d/KUWXXGTs6WcAOrRzdgXQ/foto09opin-201-col-op3-a13.jpg",
+      "publishedAt": "2022-08-25T12:20:26Z",
+      "content": "Bitcoin, ethereum e as principais criptomoedas sobem pela terceira sessão nesta quinta-feira, dia em que os mercados de risco se voltam para acompanhar a abertura do simpósio de Jackson Hole, em Wyom… [+2699 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Fotos, nota de dólar e mais: os itens de Elon Musk que estão sendo leiloados pela ex-namorada do bilionário",
+      "description": "Jennifer Gwynne namorou o empresário na década de 1990 e listou 21 itens sobre ele em casa de leilões dos EUA, incluindo colar de esmeralda que recebeu de presente. Cartão de aniversário assinado por Musk atrai o maior interesse e já recebeu lance equivalente…",
+      "url": "https://g1.globo.com/tecnologia/noticia/2022/09/12/fotos-nota-de-dolar-e-mais-os-itens-de-elon-musk-que-estao-sendo-leiloados-pela-ex-namorada-do-bilionario.ghtml",
+      "urlToImage": "https://s2.glbimg.com/q7mm86Ad0xbSoAyl4m4KItlrdyo=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2022/8/r/FWNFpNTCGMz73QoOlsAQ/cartao.jpg",
+      "publishedAt": "2022-09-12T20:11:24Z",
+      "content": "Fotos da juventude, nota de dólar assinada e outras recordações da juventude de Elon Musk estão sendo leiloadas nos Estados Unidos. Os itens foram anunciados por Jennifer Gwynne, ex-namorada do bilio… [+5185 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Conjur.com.br"
+      },
+      "author": "Luciano Buratto",
+      "title": "Luciano Buratto: Panorama da blockchain no Judiciário",
+      "description": "Desde que se tornou mais difundida a tecnologia da blockchain, em razão das suas principais características, segurança, criptografia, transparência, descentralização e imutabilidade, muito se tem falado a respeito das suas aplicações em outras áreas e mercado…",
+      "url": "https://www.conjur.com.br/2022-ago-20/luciano-buratto-panorama-blockchain-judiciario",
+      "urlToImage": "https://s.conjur.com.br/img/b/selo-opiniao-artigos-dentro.png",
+      "publishedAt": "2022-08-20T14:45:00Z",
+      "content": "Desde que se tornou mais difundida a tecnologia da blockchain, em razão das suas principais características, segurança, criptografia, transparência, descentralização e imutabilidade, muito se tem fal… [+7226 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Criptomoedas seguem ações de tecnologia e aceleram perdas após discurso de Powell",
+      "description": "Tom rigoroso do dirigente do Fed motivou forte desvalorização dos ativos de risco, incluindo bitcoin e ethereum As principais criptomoedas aceleraram as perdas após o presidente do Federal Reserve, Jerome Powell, alertar sobre os riscos para a economia de um …",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/26/criptomoedas-seguem-aes-de-tecnologia-e-aceleram-perdas-aps-discurso-de-powell.ghtml",
+      "urlToImage": "https://s2.glbimg.com/SacdIm_MdIfryq3HqaE-FxRIDQg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/h/5/s4dHJTTAKbELFRrSoafQ/pexels-rodnae-productions-8369687.jpg",
+      "publishedAt": "2022-08-26T15:14:40Z",
+      "content": "As principais criptomoedas aceleraram as perdas após o presidente do Federal Reserve, Jerome Powell, alertar sobre os riscos para a economia de um afrouxamento prematuro da política monetária. O tom … [+2250 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Bitcoin sobe e ethereum cai antes de inflação dos EUA e em semana crucial para o mercado cripto",
+      "description": "Expectativa por dados econômicos puxou tanto Wall Street quanto os preços das criptomoedas O bitcoin opera em alta hoje, acompanhando o desempenho positivo que foi registrado pelas bolsas de valores dos Estados Unidos. Enquanto isso, o ethereum começou com re…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/12/bitcoin-sobe-e-ethereum-cai-antes-de-inflao-dos-eua-e-em-semana-crucial-para-o-mercado-cripto.ghtml",
+      "urlToImage": "https://s2.glbimg.com/jbETRrEQaTgvu6XsApPBPAa43HA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/D/F/VHIWxuTCWTGdDR2YJvsQ/dmitry-demidko-og3a-ilg8ay-unsplash.jpg",
+      "publishedAt": "2022-09-12T22:01:39Z",
+      "content": "O bitcoin opera em alta hoje, acompanhando o desempenho positivo que foi registrado pelas bolsas de valores dos Estados Unidos. Enquanto isso, o ethereum começou com retração a semana em que deve ser… [+1854 chars]"
     }
   ]
 }
