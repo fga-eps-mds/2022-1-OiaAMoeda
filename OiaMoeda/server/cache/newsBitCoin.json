@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 270,
+  "totalResults": 272,
   "articles": [
     {
       "source": {
@@ -281,12 +281,12 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Ethereum recupera terreno e bitcoin tem pequenas oscilações antes de simpósio do Fed",
-      "description": "Depois da queda na última sexta-feira, o bitcoin já está no quarto dia de pequenas oscilações, retomando o movimento de lateralidade O ethereum voltou a subir nesta quarta-feira, enquanto o bitcoin segue com pequenas oscilações antes do simpósio do Federal Re…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/24/ethereum-recupera-terreno-e-bitcoin-tem-pequenas-oscilaes-antes-de-simpsio-do-fed.ghtml",
-      "urlToImage": "https://s2.glbimg.com/2YAEQ4fYYex8sAvwn_KPrNoSL6c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/7/0/2cEqkvQ7q1hrnGEx9XiQ/ethereum.jpg",
-      "publishedAt": "2022-08-24T12:19:16Z",
-      "content": "O ethereum voltou a subir nesta quarta-feira, enquanto o bitcoin segue com pequenas oscilações antes do simpósio do Federal Reserve em Jackson Hole, quando os dirigentes do banco central americano po… [+2482 chars]"
+      "title": "Bitcoin segue queda em Wall Street e volta a perder os US$ 20 mil",
+      "description": "Criptomoedas registram desvalorização na esteira do mau humor com as sinalizações recentes do Fed O bitcoin e o ethereum passaram a cair nesta terça-feira (30) após um início de dia em alta. As criptomoedas seguem o desempenho negativo das bolsas dos Estados …",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/30/bitcoin-segue-queda-em-wall-street-e-volta-a-perder-os-us-20-mil.ghtml",
+      "urlToImage": "https://s2.glbimg.com/MkkNNu1SCjgGn8XKHIbXzLaDubs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/o/J/cyO0KdTKCBWlyqkra8kA/bitcoin-blockchain.jpg",
+      "publishedAt": "2022-08-30T16:16:02Z",
+      "content": "O bitcoin e o ethereum passaram a cair nesta terça-feira (30) após um início de dia em alta. As criptomoedas seguem o desempenho negativo das bolsas dos Estados Unidos. Nos mercados acionários dos EU… [+1957 chars]"
     },
     {
       "source": {
@@ -294,12 +294,12 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Bitcoin segue queda em Wall Street e volta a perder os US$ 20 mil",
-      "description": "Criptomoedas registram desvalorização na esteira do mau humor com as sinalizações recentes do Fed O bitcoin e o ethereum passaram a cair nesta terça-feira (30) após um início de dia em alta. As criptomoedas seguem o desempenho negativo das bolsas dos Estados …",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/30/bitcoin-segue-queda-em-wall-street-e-volta-a-perder-os-us-20-mil.ghtml",
-      "urlToImage": "https://s2.glbimg.com/MkkNNu1SCjgGn8XKHIbXzLaDubs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/o/J/cyO0KdTKCBWlyqkra8kA/bitcoin-blockchain.jpg",
-      "publishedAt": "2022-08-30T16:16:02Z",
-      "content": "O bitcoin e o ethereum passaram a cair nesta terça-feira (30) após um início de dia em alta. As criptomoedas seguem o desempenho negativo das bolsas dos Estados Unidos. Nos mercados acionários dos EU… [+1957 chars]"
+      "title": "Ethereum recupera terreno e bitcoin tem pequenas oscilações antes de simpósio do Fed",
+      "description": "Depois da queda na última sexta-feira, o bitcoin já está no quarto dia de pequenas oscilações, retomando o movimento de lateralidade O ethereum voltou a subir nesta quarta-feira, enquanto o bitcoin segue com pequenas oscilações antes do simpósio do Federal Re…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/24/ethereum-recupera-terreno-e-bitcoin-tem-pequenas-oscilaes-antes-de-simpsio-do-fed.ghtml",
+      "urlToImage": "https://s2.glbimg.com/2YAEQ4fYYex8sAvwn_KPrNoSL6c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/7/0/2cEqkvQ7q1hrnGEx9XiQ/ethereum.jpg",
+      "publishedAt": "2022-08-24T12:19:16Z",
+      "content": "O ethereum voltou a subir nesta quarta-feira, enquanto o bitcoin segue com pequenas oscilações antes do simpósio do Federal Reserve em Jackson Hole, quando os dirigentes do banco central americano po… [+2482 chars]"
     },
     {
       "source": {
@@ -628,6 +628,19 @@
     },
     {
       "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Entenda o que são games em Web3 e o que esperar deles",
+      "description": "Mesmo longe de vitrine do mercado cripto, os jogos relacionados à tecnologia blockchain ainda se mostram relevantes Os games em Web3 tiveram grande destaque no recente ciclo de alta das criptomoedas, ocorrido entre 2020 e 2021. Para os novos investidores que …",
+      "url": "https://valor.globo.com/patrocinado/mercado-bitcoin/noticia/2022/09/15/entenda-o-que-sao-games-em-web3-e-o-que-esperar-deles.ghtml",
+      "urlToImage": "https://s2.glbimg.com/n6Grx2BPbYjDVqEGHnpDXI62asc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/Q/b/VkLXE5S2Aym7JQzASoAQ/mercado-biticoin2-1509-web3gaming.png",
+      "publishedAt": "2022-09-15T19:52:39Z",
+      "content": "Os games em Web3 tiveram grande destaque no recente ciclo de alta das criptomoedas, ocorrido entre 2020 e 2021. Para os novos investidores que adentravam o mercado cripto em busca de ganhos, esse cas… [+5898 chars]"
+    },
+    {
+      "source": {
         "id": null,
         "name": "Inteligenciafinanceira.com.br"
       },
@@ -953,6 +966,19 @@
     },
     {
       "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Blockchain Flow ganha força no mercado cripto",
+      "description": "Com foco na eficiência de seus processos, a rede ganha vez mais espaço ampliando seu alcance Enquanto a maioria dos criptoativos está passando por um momento de tensão, com quedas sequenciais de valor de mercado, uma moeda tem se destacado: a Flow, cripto de …",
+      "url": "https://valor.globo.com/patrocinado/mercado-bitcoin/noticia/2022/09/15/blockchain-flow-ganha-forca-no-mercado-cripto.ghtml",
+      "urlToImage": "https://s2.glbimg.com/43gB5N00EyRZH6Zms0kld4lg4x0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/8/a/D7SgYURwG9TU4FCeIQrQ/mercado-biticoin-1509-parte2.png",
+      "publishedAt": "2022-09-15T20:22:14Z",
+      "content": "Enquanto a maioria dos criptoativos está passando por um momento de tensão, com quedas sequenciais de valor de mercado, uma moeda tem se destacado: a Flow, cripto de uma rede blockchain com foco para… [+3042 chars]"
+    },
+    {
+      "source": {
         "id": "info-money",
         "name": "InfoMoney"
       },
@@ -1275,32 +1301,6 @@
       "urlToImage": "https://s2.glbimg.com/Z84bJVfFxgwXgvh_6j_pw3ivvTw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/g/B/2iyQXQQWCx7dyMOw8GvA/bitcoin-blockchain.jpg",
       "publishedAt": "2022-08-29T21:45:49Z",
       "content": "O bitcoin e o ethereum operam em alta nesta segunda-feira (29) depois de caírem forte no fim de semana até as mínimas em mais de um mês. O bitcoin chegou a atingir o patamar de US$ 19.540 no domingo,… [+2339 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Bitcoin atinge maior cotação em três semanas antes de dado de inflação e atualização do ethereum",
-      "description": "É o sexto dia seguido de alta, o que levou o valor somado das criptomoedas a retomar os US$ 1,12 trilhão O bitcoin manteve os ganhos recentes e atingiu a maior cotação em três semanas antes da divulgação da inflação ao consumidor de agosto e da atualização de…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/12/bitcoin-atinge-maior-cotao-em-trs-semanas-antes-de-dado-de-inflao-e-atualizao-do-ethereum.ghtml",
-      "urlToImage": "https://s2.glbimg.com/fOwoTY9Wbg6_VZuXx9CecWTRawE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/u/o/vrP1nATIAiO1o8fiAIYA/bitcoins.jpg",
-      "publishedAt": "2022-09-12T11:58:18Z",
-      "content": "O bitcoin manteve os ganhos recentes e atingiu a maior cotação em três semanas antes da divulgação da inflação ao consumidor de agosto e da atualização de software do Ethereum, a segunda maior cripmo… [+1837 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Compradores reaparecem, bitcoin fica acima de US$ 20 mil e criptomoedas retomam US$ 1 tri",
-      "description": "Valorização das criptomoedas ocorre na contramão de Wall Street, que mantém as perdas desde a abertura dos negócios, com destaque para queda de quase 1% da Nasdaq Numa semana que promete alta volatilidade para as criptmoedas, investidores atrás de oportunidad…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/29/compradores-reaparecem-bitcoin-fica-acima-de-us-20-mil-e-criptomoedas-retomam-us-1-tri.ghtml",
-      "urlToImage": "https://s2.glbimg.com/nJTzZhK3JtpmzL2aq3LbC_ToruM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/y/1/nnNi2ATFA00ta1AmwESA/gettyimages-1297465792-170667a.jpg",
-      "publishedAt": "2022-08-29T16:10:06Z",
-      "content": "Numa semana que promete alta volatilidade para as criptmoedas, investidores atrás de oportunidades de preço voltaram a comprar bitcoin e ethereum no final da manhã desta segunda-feira, levando a maio… [+1957 chars]"
     }
   ]
 }

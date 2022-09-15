@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 181,
+  "totalResults": 188,
   "articles": [
     {
       "source": {
@@ -14,6 +14,45 @@
       "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2022/08/shutterstock_1933394666.jpg",
       "publishedAt": "2022-08-26T16:19:55Z",
       "content": "O Ethereum Ã© uma das redes blockchains mais populares no mundo. As transaÃ§Ãµes sÃ£o feitas com a moeda Ether (ETH)Â e validadas em um banco de dados compartilhado publicamente que permite rastrear … [+1603 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Olhardigital.com.br"
+      },
+      "author": "Luciano Mathias",
+      "title": "The Merge: a atualização da Ethereum",
+      "description": "O segundo maior protocolo cripto do mundo acaba de passar por uma atualização bem importante, denominada “The Merge”. Simplificando bem, esse update mudou a prova de consenso da blockchain, de prova de trabalho para prova de participação. A mudança já era pla…",
+      "url": "https://olhardigital.com.br/2022/09/15//the-merge-a-atualizacao-da-ethereum/",
+      "urlToImage": null,
+      "publishedAt": "2022-09-15T15:17:30Z",
+      "content": "O segundo maior protocolo cripto do mundo acaba de passar por uma atualizaÃ§Ã£o bem importante, denominada âThe Mergeâ. Simplificando bem, esse update mudou a prova de consenso da blockchain, de … [+3510 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Olhardigital.com.br"
+      },
+      "author": "Adriano Camargo",
+      "title": "Ethereum completa ‘fusão’ que tornará as suas transações criptográficas mais verdes",
+      "description": "O Ethereum completou a sua tão esperada “fusão” com um método muito mais eficiente de cunhagem de novas moedas, afirmou o cofundador da moeda criptográfica, Vitalik Buterin, pelo twitter. Com uma atualização, chamada “Ethereum Merge”, a emissão da moeda cript…",
+      "url": "https://olhardigital.com.br/2022/09/15/pro/ethereum-completa-a-fusao-que-tornara-as-suas-transacoes-criptograficas-mais-verdes/",
+      "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2021/09/como-minerar-bitcoin-pelo-celular.jpg",
+      "publishedAt": "2022-09-15T13:27:34Z",
+      "content": "O Ethereum completou a sua tÃ£o esperada âfusÃ£oâ com um mÃ©todo muito mais eficiente de cunhagem de novas moedas, afirmou o cofundador da moeda criptogrÃ¡fica, Vitalik Buterin, pelo twitter. Com… [+2405 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tecmundo.com.br"
+      },
+      "author": "Jorge Marin",
+      "title": "Ethereum Merge: fusão da criptomoeda foi finalizada hoje (15)",
+      "description": "Planejada há pelo menos cinco anos, foi concluída na madrugada desta quinta-feira (15) a esperada atualização Merge (\"Fusão\", em português) da criptomoeda Ethereum para uma modalidade mais ecológica em termos de consumo de energia e cunhagem de novos tokens. …",
+      "url": "https://www.tecmundo.com.br/mercado/247745-ethereum-merge-fusao-criptomoeda-finalizada-15.htm",
+      "urlToImage": "https://tm.ibxk.com.br/2022/09/15/15095750226043.jpg",
+      "publishedAt": "2022-09-15T09:58:04Z",
+      "content": "Planejada há pelo menos cinco anos, foi concluída na madrugada desta quinta-feira (15) a esperada atualização Merge (\"Fusão\", em português) da criptomoeda Ethereumpara uma modalidade mais ecológica e… [+1910 chars]"
     },
     {
       "source": {
@@ -242,12 +281,12 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Bitcoin e ethereum derretem após surpresa com inflação resistente nos EUA",
-      "description": "Desde a semana passada aumentou a busca por hedge contra eventuais contratempos na atualização do Ethereum Bitcoin e ethereum inverteram o sinal nesta terça seguindo o mau humor nos mercados de risco após a divulgação dos dados de inflação de agosto, que indi…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/13/bitcoin-e-ethereum-derretem-aps-surpresa-com-inflao-resistente-nos-eua.ghtml",
-      "urlToImage": "https://s2.glbimg.com/wuX8S62XSkijMWOCJth01gHeA_U=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/O/Z/cEBDtKRIKgmXweQVuRGg/bitcoin-3.jpg",
-      "publishedAt": "2022-09-13T16:01:02Z",
-      "content": "Bitcoin e ethereum inverteram o sinal nesta terça seguindo o mau humor nos mercados de risco após a divulgação dos dados de inflação de agosto, que indicaram um aumento maior do que o esperado dos pr… [+2938 chars]"
+      "title": "Bitcoin segue queda em Wall Street e volta a perder os US$ 20 mil",
+      "description": "Criptomoedas registram desvalorização na esteira do mau humor com as sinalizações recentes do Fed O bitcoin e o ethereum passaram a cair nesta terça-feira (30) após um início de dia em alta. As criptomoedas seguem o desempenho negativo das bolsas dos Estados …",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/30/bitcoin-segue-queda-em-wall-street-e-volta-a-perder-os-us-20-mil.ghtml",
+      "urlToImage": "https://s2.glbimg.com/MkkNNu1SCjgGn8XKHIbXzLaDubs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/o/J/cyO0KdTKCBWlyqkra8kA/bitcoin-blockchain.jpg",
+      "publishedAt": "2022-08-30T16:16:02Z",
+      "content": "O bitcoin e o ethereum passaram a cair nesta terça-feira (30) após um início de dia em alta. As criptomoedas seguem o desempenho negativo das bolsas dos Estados Unidos. Nos mercados acionários dos EU… [+1957 chars]"
     },
     {
       "source": {
@@ -255,12 +294,12 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Bitcoin segue queda em Wall Street e volta a perder os US$ 20 mil",
-      "description": "Criptomoedas registram desvalorização na esteira do mau humor com as sinalizações recentes do Fed O bitcoin e o ethereum passaram a cair nesta terça-feira (30) após um início de dia em alta. As criptomoedas seguem o desempenho negativo das bolsas dos Estados …",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/30/bitcoin-segue-queda-em-wall-street-e-volta-a-perder-os-us-20-mil.ghtml",
-      "urlToImage": "https://s2.glbimg.com/MkkNNu1SCjgGn8XKHIbXzLaDubs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/o/J/cyO0KdTKCBWlyqkra8kA/bitcoin-blockchain.jpg",
-      "publishedAt": "2022-08-30T16:16:02Z",
-      "content": "O bitcoin e o ethereum passaram a cair nesta terça-feira (30) após um início de dia em alta. As criptomoedas seguem o desempenho negativo das bolsas dos Estados Unidos. Nos mercados acionários dos EU… [+1957 chars]"
+      "title": "Bitcoin e ethereum derretem após surpresa com inflação resistente nos EUA",
+      "description": "Desde a semana passada aumentou a busca por hedge contra eventuais contratempos na atualização do Ethereum Bitcoin e ethereum inverteram o sinal nesta terça seguindo o mau humor nos mercados de risco após a divulgação dos dados de inflação de agosto, que indi…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/13/bitcoin-e-ethereum-derretem-aps-surpresa-com-inflao-resistente-nos-eua.ghtml",
+      "urlToImage": "https://s2.glbimg.com/wuX8S62XSkijMWOCJth01gHeA_U=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/O/Z/cEBDtKRIKgmXweQVuRGg/bitcoin-3.jpg",
+      "publishedAt": "2022-09-13T16:01:02Z",
+      "content": "Bitcoin e ethereum inverteram o sinal nesta terça seguindo o mau humor nos mercados de risco após a divulgação dos dados de inflação de agosto, que indicaram um aumento maior do que o esperado dos pr… [+2938 chars]"
     },
     {
       "source": {
@@ -421,6 +460,19 @@
     {
       "source": {
         "id": null,
+        "name": "Abertoatedemadrugada.com"
+      },
+      "author": "Carlos Martins",
+      "title": "Ethereum Merge chega com poupança de energia de 99.98%",
+      "description": "O Ethereum completou a mudança para o novo sistema Proof of Stake, que promete reduzir a energia consumida em 99.998%.",
+      "url": "https://abertoatedemadrugada.com/2022/09/ethereum-merge-chega-com-poupanca-de.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhecubqTCueIdCbttIKIs6W03TvumoE-u7w1jGV7KEY4UXYOEErspL-919KgOftNxGMoLR7Ps_fv6Vk7s-JgWgZVavlcbFYBAccOsNJZABVHVo5-Lyo77P4uXVn3bJaraOObFZuS9qawa83D_6Gyrkc-dRpJNO1VH6Sql6xTGAGznqO8wAzU8oz_M_W6Q/w1200-h630-p-k-no-nu/ether.jpg",
+      "publishedAt": "2022-09-15T11:00:00Z",
+      "content": "O Ethereum completou a mudança para o novo sistema Proof of Stake, que promete reduzir a energia consumida em 99.98%.Com o consumo energético da mineração das criptomoedas usando o sistema Proof of W… [+1204 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Olhardigital.com.br"
       },
       "author": "Rodrigo Mozelli",
@@ -456,6 +508,19 @@
       "urlToImage": "https://s2.glbimg.com/Nr4Zq6PstGr9AGl89pAmUYaSXgg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/3/d/aAmrgwSkyOxN4bHEfSZw/bitcoin.jpg",
       "publishedAt": "2022-08-29T12:17:09Z",
       "content": "O bitcoin perdeu o patamar de US$ 20 mil no final de semana e iniciou a segunda feira em baixa junto com as principais criptomoedas. Foi a primeira vez desde meados de julho que a maior das moedas di… [+2196 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Observador.pt"
+      },
+      "author": "Alexandra Machado",
+      "title": "Uma revolução nas criptomoedas aconteceu bem cedo neste 15 de setembro. A mudança radical da ether",
+      "description": "Esta quinta-feira, ainda cedo, aconteceu uma revolução na segunda maior criptomoeda. A ether tornou-se mais verde.",
+      "url": "https://observador.pt/especiais/uma-revolucao-nas-criptomoedas-aconteceu-bem-cedo-neste-15-de-setembro-a-mudanca-radical-da-ether/",
+      "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1024%3A575%3Anowe%3A0%3A49%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F09%2F15192417%2FGettyImages-1423635393.jpg",
+      "publishedAt": "2022-09-15T19:16:23Z",
+      "content": "As criptomoedas precisam de uma boa notícia este ano, depois da queda da Terra/Luna e da plataforma Celsius. Ela chegou logo pela manhã. Por volta das 7h40 (em Lisboa) o panda apareceu no vídeo que a… [+1590 chars]"
     },
     {
       "source": {
@@ -603,6 +668,19 @@
     {
       "source": {
         "id": null,
+        "name": "Abertoatedemadrugada.com"
+      },
+      "author": "Carlos Martins",
+      "title": "Notícias do dia",
+      "description": "Google Photos reforça criação de memórias; iOS 16.1 prepara-se para o Matter; Deathloop na Xbox a 20 de Setembro; Avaliações na Play Store por região",
+      "url": "https://abertoatedemadrugada.com/2022/09/noticias-do-dia_15.html",
+      "urlToImage": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj4NA2jdftB1ILDDhuuCh-5I6QyDe0I-nwV2jKq0_tHdiEVF9dEIUYwOLo7UjBqPX0dBT89c6qga11OfUSgcf_WB1KF9DIpI27D5ih-Oy6se3A2R5kJrPsM3Xg7t484tBV2SM-wOUHQS5s-3_YV6gLlaxulVwliuCSeORr-BrOj5NJMRWBxy4e5nnfkqw/w1200-h630-p-k-no-nu/photomemories.jpg",
+      "publishedAt": "2022-09-15T16:30:00Z",
+      "content": "Ethereum Merge chega com poupança de energia de 99.98%; iPhone 14 Plus com menos encomendas que o Mini que a Apple abandonou; Dall-E expande pinturas famosas para fora das margens; e os curiosos e te… [+3544 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Tecmundo.com.br"
       },
       "author": "Felipe Vidal",
@@ -612,6 +690,19 @@
       "urlToImage": "https://tm.ibxk.com.br/2022/09/08/08191405061002.jpg",
       "publishedAt": "2022-09-10T15:00:00Z",
       "content": "O mercado de placas de vídeo finalmente está voltando a uma estabilidade após pouco mais de um ano de absoluto caos na indústria. Com a normalidade batendo na porta e o retorno de preços competitivos… [+7896 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Blockchain Flow ganha força no mercado cripto",
+      "description": "Com foco na eficiência de seus processos, a rede ganha vez mais espaço ampliando seu alcance Enquanto a maioria dos criptoativos está passando por um momento de tensão, com quedas sequenciais de valor de mercado, uma moeda tem se destacado: a Flow, cripto de …",
+      "url": "https://valor.globo.com/patrocinado/mercado-bitcoin/noticia/2022/09/15/blockchain-flow-ganha-forca-no-mercado-cripto.ghtml",
+      "urlToImage": "https://s2.glbimg.com/43gB5N00EyRZH6Zms0kld4lg4x0=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/8/a/D7SgYURwG9TU4FCeIQrQ/mercado-biticoin-1509-parte2.png",
+      "publishedAt": "2022-09-15T20:22:14Z",
+      "content": "Enquanto a maioria dos criptoativos está passando por um momento de tensão, com quedas sequenciais de valor de mercado, uma moeda tem se destacado: a Flow, cripto de uma rede blockchain com foco para… [+3042 chars]"
     },
     {
       "source": {
@@ -892,19 +983,6 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Bitcoin e ethereum caem em dia de “The Merge”",
-      "description": "Criptomoedas registram perdas na contramão da recuperação que foi registrada por ativos de risco em Wall Street O bitcoin e o ethereum operam em queda, na contramão de Wall Street e mantendo o movimento de pessimismo da véspera, quando o mercado foi tomado po…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/14/bitcoin-e-ethereum-caem-em-dia-de-the-merge.ghtml",
-      "urlToImage": "https://s2.glbimg.com/sALnGlnlw6jrzGcjnNh5PcAdGZc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/e/S/e3YBGkTBmAFqnhBanHZQ/ilustra-02.jpg",
-      "publishedAt": "2022-09-14T22:34:42Z",
-      "content": "O bitcoin e o ethereum operam em queda, na contramão de Wall Street e mantendo o movimento de pessimismo da véspera, quando o mercado foi tomado por preocupações a respeito dos dados de inflação dos … [+2026 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
       "title": "Bitcoin atinge maior cotação em três semanas antes de dado de inflação e atualização do ethereum",
       "description": "É o sexto dia seguido de alta, o que levou o valor somado das criptomoedas a retomar os US$ 1,12 trilhão O bitcoin manteve os ganhos recentes e atingiu a maior cotação em três semanas antes da divulgação da inflação ao consumidor de agosto e da atualização de…",
       "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/12/bitcoin-atinge-maior-cotao-em-trs-semanas-antes-de-dado-de-inflao-e-atualizao-do-ethereum.ghtml",
@@ -924,6 +1002,19 @@
       "urlToImage": "https://s2.glbimg.com/nJTzZhK3JtpmzL2aq3LbC_ToruM=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/y/1/nnNi2ATFA00ta1AmwESA/gettyimages-1297465792-170667a.jpg",
       "publishedAt": "2022-08-29T16:10:06Z",
       "content": "Numa semana que promete alta volatilidade para as criptmoedas, investidores atrás de oportunidades de preço voltaram a comprar bitcoin e ethereum no final da manhã desta segunda-feira, levando a maio… [+1957 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Bitcoin e ethereum caem em dia de “The Merge”",
+      "description": "Criptomoedas registram perdas na contramão da recuperação que foi registrada por ativos de risco em Wall Street O bitcoin e o ethereum operam em queda, na contramão de Wall Street e mantendo o movimento de pessimismo da véspera, quando o mercado foi tomado po…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/14/bitcoin-e-ethereum-caem-em-dia-de-the-merge.ghtml",
+      "urlToImage": "https://s2.glbimg.com/sALnGlnlw6jrzGcjnNh5PcAdGZc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/e/S/e3YBGkTBmAFqnhBanHZQ/ilustra-02.jpg",
+      "publishedAt": "2022-09-14T22:34:42Z",
+      "content": "O bitcoin e o ethereum operam em queda, na contramão de Wall Street e mantendo o movimento de pessimismo da véspera, quando o mercado foi tomado por preocupações a respeito dos dados de inflação dos … [+2026 chars]"
     },
     {
       "source": {
@@ -1139,6 +1230,32 @@
         "name": "Globo"
       },
       "author": null,
+      "title": "Ethereum e bitcoin recuperam perdas em dia de cautela com política monetária",
+      "description": "Valor de mercado conjunto das criptomoedas voltou a ficar acima de US$ 1 trilhão, somando US$ 1,02 trilhão nesta quinta\n As principais criptomoedas recuperaram parte das perdas recentes nesta quinta-feira, dia marcado pela cautela nos mercados de risco com o …",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/08/ethereum-e-bitcoin-recuperam-perdas-em-dia-de-cautela-com-poltica-monetria.ghtml",
+      "urlToImage": "https://s2.glbimg.com/jbETRrEQaTgvu6XsApPBPAa43HA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/D/F/VHIWxuTCWTGdDR2YJvsQ/dmitry-demidko-og3a-ilg8ay-unsplash.jpg",
+      "publishedAt": "2022-09-08T12:14:42Z",
+      "content": "As principais criptomoedas recuperaram parte das perdas recentes nesta quinta-feira, dia marcado pela cautela nos mercados de risco com o ajuste na política monetária pelo Banco Central Europeu (BCE)… [+1945 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
+      "title": "Bitcoin e ethereum sobem pelo 2º dia e analista acredita em teste dos US$ 24 mil",
+      "description": "Preocupação com indicadores dos EUA e simpósio de Jackson Hole não desanimam investidores O bitcoin e o ethereum sobem pelo segundo dia nesta quarta-feira (24) conforme o mercado financeiro tradicional registrou leves ganhos antes de uma quinta-feira que prom…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/24/bitcoin-e-ethereum-sobem-pelo-2-dia-e-analista-acredita-em-teste-dos-us-24-mil.ghtml",
+      "urlToImage": "https://s2.glbimg.com/sDGNgWmueQqkLapsumvEFReYqds=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/h/O/13Ll8ZR8Gp4PFCTmg5uQ/bitcoin-g0d68a9993-1920.jpg",
+      "publishedAt": "2022-08-24T21:23:28Z",
+      "content": "O bitcoin e o ethereum sobem pelo segundo dia nesta quarta-feira (24) conforme o mercado financeiro tradicional registrou leves ganhos antes de uma quinta-feira que promete ser bem agitada. Além dos … [+2289 chars]"
+    },
+    {
+      "source": {
+        "id": "globo",
+        "name": "Globo"
+      },
+      "author": null,
       "title": "Gestora cripto Dragonfly compra hedgefund MetaStable, um dos primeiros investidores do Ethereum",
       "description": "Fundada em 2014, a MetaStable tinha mais de US$ 400 milhões em ativos sob gestão em 31 de julho A gestora de venture capital de ativos digitais Dragonfly adquiriu o MetaStable Capital, um dos mais antigos fundos de investimento em criptomoedas, promovendo uma…",
       "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/15/gestora-cripto-dragonfly-compra-hedgefund-metastable-um-dos-primeiros-investidores-do-ethereum.ghtml",
@@ -1178,129 +1295,12 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Bitcoin e ethereum sobem pelo 2º dia e analista acredita em teste dos US$ 24 mil",
-      "description": "Preocupação com indicadores dos EUA e simpósio de Jackson Hole não desanimam investidores O bitcoin e o ethereum sobem pelo segundo dia nesta quarta-feira (24) conforme o mercado financeiro tradicional registrou leves ganhos antes de uma quinta-feira que prom…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/24/bitcoin-e-ethereum-sobem-pelo-2-dia-e-analista-acredita-em-teste-dos-us-24-mil.ghtml",
-      "urlToImage": "https://s2.glbimg.com/sDGNgWmueQqkLapsumvEFReYqds=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2021/h/O/13Ll8ZR8Gp4PFCTmg5uQ/bitcoin-g0d68a9993-1920.jpg",
-      "publishedAt": "2022-08-24T21:23:28Z",
-      "content": "O bitcoin e o ethereum sobem pelo segundo dia nesta quarta-feira (24) conforme o mercado financeiro tradicional registrou leves ganhos antes de uma quinta-feira que promete ser bem agitada. Além dos … [+2289 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Ethereum e bitcoin recuperam perdas em dia de cautela com política monetária",
-      "description": "Valor de mercado conjunto das criptomoedas voltou a ficar acima de US$ 1 trilhão, somando US$ 1,02 trilhão nesta quinta\n As principais criptomoedas recuperaram parte das perdas recentes nesta quinta-feira, dia marcado pela cautela nos mercados de risco com o …",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/08/ethereum-e-bitcoin-recuperam-perdas-em-dia-de-cautela-com-poltica-monetria.ghtml",
-      "urlToImage": "https://s2.glbimg.com/jbETRrEQaTgvu6XsApPBPAa43HA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/D/F/VHIWxuTCWTGdDR2YJvsQ/dmitry-demidko-og3a-ilg8ay-unsplash.jpg",
-      "publishedAt": "2022-09-08T12:14:42Z",
-      "content": "As principais criptomoedas recuperaram parte das perdas recentes nesta quinta-feira, dia marcado pela cautela nos mercados de risco com o ajuste na política monetária pelo Banco Central Europeu (BCE)… [+1945 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
       "title": "Bitcoin e ether interrompem rali com cautela nos mercados e trégua no entusiasmo com ethereum",
       "description": "Criptomoedas, no entanto, defendem os patamares atingidos nos últimos dias depois de forte recuperação nos preços Bitcoin, ether e as principais criptomoedas interromperam o rali recente após um aumento na cautela dos mercados de risco com o temor de desacele…",
       "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/16/bitcoin-e-ether-interrompem-rali-com-cautela-nos-mercados-e-tregua-no-entusiasmo-com-ethereum.ghtml",
       "urlToImage": "https://s2.glbimg.com/fOwoTY9Wbg6_VZuXx9CecWTRawE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/u/o/vrP1nATIAiO1o8fiAIYA/bitcoins.jpg",
       "publishedAt": "2022-08-16T11:48:36Z",
       "content": "Bitcoin, ether e as principais criptomoedas interromperam o rali recente após um aumento na cautela dos mercados de risco com o temor de desaceleração brusca na atividade econômica e uma trégua no en… [+2021 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "NFTs continuam a cair apesar de alta de 54% do Ethereum antes da atualização",
-      "description": "Tokens construídos sobre a rede da segunda maior criptomoeda do mundo vão na contramão do ether em meio a falta de interesse dos investidores Os preços do ether e de Tokens Não Fungíveis (NFTs, na sigla em inglês) que geralmente operam na rede Ethereum vão em…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/19/nfts-continuam-a-cair-apesar-de-alta-de-54percent-do-ethereum-antes-da-atualizacao.ghtml",
-      "urlToImage": "https://s2.glbimg.com/SWuGku0UiMhdV3fYdq-9feS_-C8=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/u/k/UyctqrR0ueBjvfNP7dIw/open-sea-bored-apes.jpg",
-      "publishedAt": "2022-08-19T14:47:49Z",
-      "content": "Os preços do ether e de Tokens Não Fungíveis (NFTs, na sigla em inglês) que geralmente operam na rede Ethereum vão em direções opostas, à medida que investidores compram a segunda maior criptomoeda a… [+2542 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Bitcoin e ethereum desabam na semana: próximos dias terão inflação nos EUA e Jackson Hole",
-      "description": "Investidores devem ficar atentos ao discurso do presidente do Fed, Jerome Powell, e a dados do PCE e do PIB na maior economia do mundo O bitcoin e o ethereum despencam nesta sexta-feira (19) e acumulam perdas de 10,7% e de 9,3% respectivamente em sete dias. A…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/19/bitcoin-e-ethereum-desabam-na-semana-prximos-dias-tero-inflao-nos-eua-e-jackson-hole.ghtml",
-      "urlToImage": "https://s2.glbimg.com/gEnely-detDhi33dJuy-8IsEevs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/K/G/8y7htzRsiHdFmyBRdRbg/bitcoin-7296070-1280.png",
-      "publishedAt": "2022-08-19T21:11:48Z",
-      "content": "O bitcoin e o ethereum despencam nesta sexta-feira (19) e acumulam perdas de 10,7% e de 9,3% respectivamente em sete dias. As criptomoedas seguiram com muito mais intensidade o que ocorreu no mercado… [+2941 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Canaltech.com.br"
-      },
-      "author": "Renato Santino",
-      "title": "Motoristas da 99 terão desconto para alugar carros elétricos",
-      "description": "A 99 aproveitou o evento de comemoração de seus 10 anos de atividade no Brasil para divulgar os planos para aumentar a frota de veículos eletrificados ao longo dos próximos anos. A principal ação nesse sentido é a concessão de descontos a motoristas parceiros…",
-      "url": "https://canaltech.com.br/apps/motoristas-da-99-terao-desconto-para-alugar-carros-eletricos-223426/",
-      "urlToImage": "https://t.ctcdn.com.br/ChHYjOd9wCMEHu5ZvkiL6quZUA4=/1380x776/smart/i572674.jpeg",
-      "publishedAt": "2022-08-18T19:42:27Z",
-      "content": "A 99 aproveitou o evento de comemoração de seus 10 anos de atividade no Brasil para divulgar os planos para aumentar a frota de veículos eletrificados ao longo dos próximos anos. A principal ação nes… [+1855 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Maioria dos seguidores do criador do Ethereum consideram ele \"de esquerda\", mas só 37,8% o identificam como \"woke\"",
-      "description": "Vitalik Buterin postou uma série de enquetes sobre a percepção de seus seguidores no Twitter a respeito de si O criador do Ethereum, Vitalik Buterin, postou uma série de enquetes sobre si no Twitter nesta terça-feira (5). As perguntas vão de qual é a personal…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/05/maioria-dos-seguidores-do-criador-do-ethereum-consideram-ele-de-esquerda-mas-so-378percent-o-identificam-como-woke.ghtml",
-      "urlToImage": "https://s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/public/fb_marca.png",
-      "publishedAt": "2022-09-05T18:26:21Z",
-      "content": "O criador do Ethereum, Vitalik Buterin, postou uma série de enquetes sobre si no Twitter nesta terça-feira (5). As perguntas vão de qual é a personalidade dele de acordo com as classificações do RPG … [+2542 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Terra.com.br"
-      },
-      "author": "Reuters",
-      "title": "Setor de mixers de criptomoedas fica apreensivo após sanção dos EUA",
-      "description": "O sonho das finanças descentralizadas enfrenta turbulência. Em 2022, o total de fundos depositados no setor encolheu para cerca de 61 bilhões de dólares,...",
-      "url": "https://www.terra.com.br/byte/setor-de-mixers-de-criptomoedas-fica-apreensivo-apos-sancao-dos-eua,58f5be407193654c92ef36d664c81911krf1x3uk.html",
-      "urlToImage": "https://s1.trrsf.com/fe/zaz-mod-t360-icons/svg/logos/terra-16x9-borda.png",
-      "publishedAt": "2022-08-23T16:36:51Z",
-      "content": "O sonho das finanças descentralizadas enfrenta turbulência. Em 2022, o total de fundos depositados no setor encolheu para cerca de 61 bilhões de dólares, ante mais de 170 bilhões no início do ano, se… [+1594 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Terra.com.br"
-      },
-      "author": "BBC News Brasil",
-      "title": "O que é a fusão do Ethereum, tida como 'maior revolução das criptomoedas' desde o bitcoin",
-      "description": "O ether, a segunda criptomoeda mais popular do mundo, passou por uma grande mudança operacional que visa tornar o negócio mais sustentável.",
-      "url": "https://www.terra.com.br/economia/o-que-e-a-fusao-do-ethereum-tida-como-maior-revolucao-das-criptomoedas-desde-o-bitcoin,dbd4e384c9fcff0032180fa1c911c277613r0unk.html",
-      "urlToImage": "https://p2.trrsf.com/image/fget/cf/1200/630/middle/images.terra.com/2022/09/15/1344089870-125403964gettyimages-1241222435.jpg",
-      "publishedAt": "2022-09-15T09:19:13Z",
-      "content": "A segunda criptomoeda mais importante do mundo, o ether, mudou para um novo modelo operacional mais ecológico.\r\nAté agora, a \"mineração\" da criptomoeda (processo de criação ou transação de uma unidad… [+5679 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Bitcoin e ethereum caem na contramão de Wall Street após baterem US$ 25 mil e US$ 2 mil respectivamente",
-      "description": "Mercado cripto tem dia de correção após as fortes altas recentes O Bitcoin (BTC) e o Ethereum (ETH) operam em queda nesta segunda-feira (15) após chegarem a bater US$ 25 mil e US$ 2 mil respectivamente no domingo. O mundo cripto vai na contramão dos mercados …",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/15/bitcoin-e-ethereum-caem-na-contramo-de-wall-street-aps-baterem-us-25-mil-e-us-2-mil-respectivamente.ghtml",
-      "urlToImage": "https://s2.glbimg.com/1TTSvRtqxxGtttRRr77vly2uIGc=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/n/A/KvrBUuSJug4GXViQCRHg/ethereum-e-bitcoin.jpg",
-      "publishedAt": "2022-08-15T22:11:26Z",
-      "content": "O Bitcoin (BTC) e o Ethereum (ETH) operam em queda nesta segunda-feira (15) após chegarem a bater US$ 25 mil e US$ 2 mil respectivamente no domingo. O mundo cripto vai na contramão dos mercados tradi… [+2596 chars]"
     }
   ]
 }
