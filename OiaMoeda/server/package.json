@@ -17,7 +17,7 @@
     "Finanças",
     "MDS"
   ],
-  "author": "Renato Gabriel M. Carvalho",
+  "author": "Grupo-5 Professora Carla Rocha\nArthur Taylor \n Yago Milagres\n Thiago Oliveira\n Pablo Santos \n Silas Neres\n João Pedro\n João Gabriel\n Renato Gabriel",
   "license": "MPL-2.0",
   "bugs": {
     "url": "https://github.com/fga-eps-mds/2022-1-OiaAMoeda/issues"
@@ -25,6 +25,7 @@
   "homepage": "https://github.com/fga-eps-mds/2022-1-OiaAMoeda#readme",
   "dependencies": {
     "axios": "^0.27.2",
+    "coingecko-api": "^1.0.10",
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",
     "ejs": "^3.1.8",
