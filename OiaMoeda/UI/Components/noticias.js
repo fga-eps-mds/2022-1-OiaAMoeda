@@ -10,7 +10,7 @@ function carrega_noticias(moeda) {
             $("#noticias").html("<p>Não foi possivel obter as noticias</p>");
         }
     }).done(function (data) {
-        //$("#noticias").html(" ");
+        $("#noticias").html(" ");
         data["articles"].forEach(function (noticia) {
             $("#noticias").append(`
         <div class="col">
