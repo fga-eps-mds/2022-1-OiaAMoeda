@@ -28,7 +28,10 @@
                     <ion-icon class="dropdown-icone-seta ms-3" name="chevron-down-outline"></ion-icon>
                     <div class="ms-4">Cripto Moeda</div>
                 </button>
-                <ul id="menu"class="dropdown-menu">               
+                <ul id="menu"class="dropdown-menu">             
+                <ul class="dropdown-menu">
+                    <li><a class="dropdown-item" onclick="trocar_moeda('BitCoin','BTCUSDT')">BitCoin</a></li>
+                    <li><a class="dropdown-item" onclick="trocar_moeda('Ethereum','ETHUSDT')">Ethereum</a></li>     
                 </ul>
             </div>
         </nav>
@@ -39,15 +42,15 @@
 
         <!-- SEÇÃO DO GRÁFICO -->
         <section class="bg-dark m-2 p-5 rounded d-flex flex-column gap-5">
-            <h6 class="texto-claro">*NOME DA MOEDA* to USD Chart</h6>
-            <button type="button" class="btn btn-light">TESTE</button>
+            <h6 class="texto-claro" id="nome-moeda">*NOME DA MOEDA* to USD Chart</h6>
+            <!-- <button type="button" class="btn btn-light">TESTE</button> -->
             <div class="tradingview-widget-container" id="tvchart"></div>
         </section class="bg-alert">
     
         <!-- SEÇÃO DAS INFORMAÇÕES DA CRIPTO -->
-        <section class="mw-25">
+        <section class="mw-25 mt-5">
             <div class="bg-dark m-2 p-5 rounded d-flex flex-column gap-5">
-                <h2 class="texto-claro">NOME DA MOEDA AQUI</h2>
+                <h2 class="texto-claro" id="nome-moeda-h2">NOME DA MOEDA AQUI</h2>
 
                 <h1 class="texto-claro">VALOR DA MOEDA AQUI</h1>
                 <div class="bg-light rounded">
@@ -55,27 +58,17 @@
                 </div>
             </div>
 
-            <div class="bg-dark m-2 p-5 rounded d-flex flex-column gap-5">
-                <h2 class="texto-claro">Exchange</h2>
-                <div class="d-flex justify-content-center">
-                    <p class="texto-claro">qtd* moeda*</p>
-                    <ion-icon size="large" class="texto-claro" name="arrow-forward-outline"></ion-icon>
-                    <p class="texto-claro">qtd* USTD</p>
-                </div>
-                <div class="input-group">
-                    <input type="text" class="form-control rounded-pill" aria-label="Dollar amount (with dot and two decimal places)">
-                    <div class="input-group-append">
-                    <span class="input-group-text">coinICON*</span>
-                    </div>
-                </div>
-                <div class="input-group">
-                    <input type="text" class="form-control rounded-pill" aria-label="Dollar amount (with dot and two decimal places)">
-                    <div class="input-group-append">
-                    <span class="input-group-text">$</span>
-                    </div>
-                </div>
-                <button>refresh</button>                
-            </div>
+            <crypto-converter-widget 
+            class="m-5"
+            shadow symbol live background-color="#3F3F3F" 
+            border-radius="0.60rem" 
+            fiat="united-states-dollar" 
+            crypto="bitcoin" 
+            amount="1" 
+            decimal-places="2"
+            margin="5px"
+            margin-left="3px">
+            <script async src="https://cdn.jsdelivr.net/gh/dejurin/crypto-converter-widget@1.5.2/dist/latest.min.js"></script>
         </section>
 
         <!-- SEÇÃO DAS NOTÍCIAS -->

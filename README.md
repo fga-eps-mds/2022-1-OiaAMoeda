@@ -55,7 +55,7 @@ cd $HOME
 git clone https://github.com/fga-eps-mds/2022-1-OiaAMoeda.git
 ```
 
-3. Remova verção antigas e copie o frontend para o servidor apache
+3. Remova versão antigas e copie o frontend para o servidor apache
 ```sh
 sudo rm -r /var/www/html/UI | sudo cp -r $HOME/2022-1-OiaAMoeda/OiaMoeda/UI/ /var/www/html/
 ```

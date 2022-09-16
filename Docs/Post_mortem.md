@@ -57,6 +57,17 @@ realizado na etapa final, é de suma importância sua leitura, pois ele contém 
   <p align="center">
   <img src="https://camo.githubusercontent.com/1b733793b67e0e2f2e5a0085dbabbf03d4ee459ce981126c8243a72bf22c7b4d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e54757237586c56445564714d2f67697068792e676966"  width="300"/>
 
+### Renato Gabriel (Product Owner)
+   
+   <p align="justify"> Eu diria que MDS se tornou para mim uma das minhas matérias favoritas da faculdade por ter me possibilitado, pela primeire vez, provar um gostinho de como um processo de devenvolvimento de software deve ser. Ainda que, por problemas de comunicação em nosso grupo, não tenhamos conseguido desenvolvenr um projeto tão robusto ou satisfatório em termos de qualidade do produto final. Acredito que todo tempo usado nesta materia foi , ,por vezes, frustrante devido à ampla variedade de assuntos, técnicas e tecnologias tratadas na disciplina mas enfim proveitoso.
+  
+   <p align="justify"> Como aprendizado para estudantes futuros eu diria para não se envergonharem quando o assunto e pedir ajuda. A professora e o corpo de monitoria da matéria foram extremamente competentes nas situações em que viemos à precisar de ajuda e se tem um ponto em que me arrependo é não ter tido a iniciativa de pedir por auxílio mais vezes.
+  <p align="center">
+
+  <img src="https://tenor.com/view/ru-paul-dont-fuck-it-up-gif-7618177.gif"  width="300"/>
+</p>
+
+
     
 ### João Gabriel Elvas (Developer)
 <p align="justify">Na minha visão cursar a matéria de MDS (Métodos de Desenvolvimento de Software) foi uma experiencia nova, apesar de ter alguns pontos já vistos por mim em matérias passadas. Senti que adquiri muito conhecimento de trabalho em grupo e como realmente funciona na prática um projeto de software, num escopo menor claro. Desde seu início com as ideias de projetos a serem feitos, a mão na massa, a batida em paredes vendo que não seria possível ser feito da forma que imaginamos e entre outras coisas.
