@@ -76,4 +76,6 @@ npm i
  node server.js
 ```
 
+link do video da release 2: https://drive.google.com/drive/folders/1UAXGwSgYdNfpRLNlubQ8GyU2GEbKM8s9?usp=sharing
+
 > :warning: O frontend por padrão fica no localhost:80/UI e o backend está em localhost:3003
