@@ -49,4 +49,14 @@ realizado na etapa final, é de suma importância sua leitura, pois ele contém 
   
 </p>
 
+### Renato Gabriel (Product Owner)
+   
+   <p align="justify"> Eu diria que MDS se tornou para mim uma das minhas matérias favoritas da faculdade por ter me possibilitado, pela primeire vez, provar um gostinho de como um processo de devenvolvimento de software deve ser. Ainda que, por problemas de comunicação em nosso grupo, não tenhamos conseguido desenvolvenr um projeto tão robusto ou satisfatório em termos de qualidade do produto final. Acredito que todo tempo usado nesta materia foi , ,por vezes, frustrante devido à ampla variedade de assuntos, técnicas e tecnologias tratadas na disciplina mas enfim proveitoso.
+  
+   <p align="justify"> Como aprendizado para estudantes futuros eu diria para não se envergonharem quando o assunto e pedir ajuda. A professora e o corpo de monitoria da matéria foram extremamente competentes nas situações em que viemos à precisar de ajuda e se tem um ponto em que me arrependo é não ter tido a iniciativa de pedir por auxílio mais vezes.
+  <p align="center">
+
+  <img src="https://tenor.com/view/ru-paul-dont-fuck-it-up-gif-7618177.gif"  width="300"/>
+</p>
+
 
