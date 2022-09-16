@@ -49,7 +49,7 @@
         </section class="bg-alert">
     
         <!-- SEÇÃO DAS INFORMAÇÕES DA CRIPTO -->
-        <section class="mw-25">
+        <section class="mw-25 mt-5">
             <div class="bg-dark m-2 p-5 rounded d-flex flex-column gap-5">
                 <h2 class="texto-claro">NOME DA MOEDA AQUI</h2>
 
@@ -59,29 +59,9 @@
                 </div>
             </div>
 
-            <div class="bg-dark m-2 p-5 rounded d-flex flex-column gap-5">
-                <h2 class="texto-claro">Exchange</h2>
-                <div class="d-flex justify-content-center">
-                    <p class="texto-claro">qtd* moeda*</p>
-                    <ion-icon size="large" class="texto-claro" name="arrow-forward-outline"></ion-icon>
-                    <p class="texto-claro">qtd* USTD</p>
-                </div>
-                <div class="input-group">
-                    <input type="text" class="form-control rounded-pill" aria-label="Dollar amount (with dot and two decimal places)">
-                    <div class="input-group-append">
-                    <span class="input-group-text">coinICON*</span>
-                    </div>
-                </div>
-                <div class="input-group">
-                    <input type="text" class="form-control rounded-pill" aria-label="Dollar amount (with dot and two decimal places)">
-                    <div class="input-group-append">
-                    <span class="input-group-text">$</span>
-                    </div>
-                </div>
-                <button>refresh</button>                
-            </div>
             <crypto-converter-widget 
-            shadow symbol live background-color="#292929" 
+            class="m-5"
+            shadow symbol live background-color="#3F3F3F" 
             border-radius="0.60rem" 
             fiat="united-states-dollar" 
             crypto="bitcoin" 

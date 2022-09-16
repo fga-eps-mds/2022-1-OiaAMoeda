@@ -22,7 +22,7 @@ server.get('/noticias', (req, res) => {
 
 server.get('/moedas', (req, res) => {
 
-  const moedas = (async () => {                                                                                       //188f514b04db4f2586a4700cb306a7b8
+  const moedas = (async () => {                                                                                       
     const { data } = await axios(`https://api.coinranking.com/v2/coins`)
 
     fs.writeFile('cache/moedas.json', JSON.stringify(data, null, 2), err => {
@@ -36,5 +36,6 @@ server.get('/moedas', (req, res) => {
 })
 
 server.listen(3003, () => {
-  console.log("servidor de pe em http://localhost:3003")
+  console.log("servidor de pe em http://localhost:3003")  
+  console.log("ctrl+c para desligar")
 })
