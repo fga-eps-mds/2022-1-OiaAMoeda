@@ -96,3 +96,23 @@ realizado na etapa final, é de suma importância sua leitura, pois ele contém 
   
 <p align="justify">Cursar MDS foi uma das melhores experiencias que tive na faculdade ate o momento,o fato de poder vivenciar uma experiencia de trabalho em conjunto, como se fosse realmente um emprego foi algo extremamente satisfatorio.Poder aprender sobre metodologia de trabalho e diferentes tecnicas de desenvolvimento não so agregou em minha vida como me incentivou a buscar mais sobre o mesmo. 
 <p align="justify">Aprender sobre metodo Scrum,Xp,Kanban,modelo Spotify entre outros realmente me incentivou a desenvolver não somente minhas habilidades tecnicas, mas tambem aquelas que são necessarias para uma melhor comunicação e gestão, entre a equipe e o cliente, alem de estruturas e documentos que facilitam o entendimento do software a ser desenvolvido.
+  
+  
+### Pablo Santos Costa (Developer)
+
+<p align="justify">A disciplina Métodos de Desenvolvimento de Software foi muito produtiva, o incentivo e desempenho
+da professora Carla foi de muito proveito, por meio da professora a
+turma ficou bastante pensativa e assim trazendo questionamento fazendo
+assim que nos procurássemos mais informações, assim cumprindo os objetivos
+propostos. Quando fui iniciar essa unidade curricular, ouvi diversos burburinhos
+sobre a disciplina desde que entrei na faculdade, por várias vezes ouvi falar
+sobre a disciplina as pessoas comentando que a disciplina é uma matéria
+sobre debate é uma matéria em grupo e que grupo em uma faculdade a grade
+é fechada dificilmente tem tanta comunicação quanto esta matéria MDS é
+repleta de surpresas. Confesso que a matéria foi um desafio, mas como aluno
+acredito que meu desempenho tenha atingido os objetivos da disciplina,
+possibilitando a participação nas discussões, contribuindo com meus colegas
+meus pontos de vista, e podendo conhecer o ponto de vista deles também. No
+entanto, acho que é preciso ir mais fundo neste campo, considero que o
+período em que essa disciplina acontece é muito intenso, tanto de perspectivas
+profissionais e pessoais levam a situações e resultados inesperados.
