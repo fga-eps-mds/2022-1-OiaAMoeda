@@ -73,6 +73,16 @@ realizado na etapa final, é de suma importância sua leitura, pois ele contém 
   <img src="https://tenor.com/view/ru-paul-dont-fuck-it-up-gif-7618177.gif"  width="300"/>
 </p>
 
+### Silas Neres (Arquiteto)
+
+   <p align="justify"> Antes de fazer MDS, ouvia algumas pessoas falando que talvez essa fosse a matéria mais importante do curso, e ficava muito apreensivo e com receio de como seria essa matéria, no começo já senti uma diferença enorme das outras matérias, pois muita coisa era muito abstrata para mim, principalmente as termologias de programador que a professora utilizava, e as primeiras semanas foram mais voltadas para adaptação e aprender mexer no Github.
+  
+   <p align="justify"> Logo depois, percebi o intuito principal da matéria, fazer-nos aprender a trabalhar em grupo e aprender buscar informações sozinho também, foi realmente uma experiência muito interessante vivenciar essa matéria, me ofereceu uma boa noção de como funciona de forma real um projeto de software em grupo e me ensinou provavelmente muito mais que as outras matérias já me ofereceram.
+     
+     <p align="justify"> Por fim, apesar da dificuldade inicial foi muito bom manter até o final e com certeza superou expectativas que eu tinha em relação a essa matéria, considero que a partir de hoje estou bem mais apto a evoluir como profissional
+       
+     <img src="https://tenor.com/view/office-gif-23066448" width="300"/>
+</p>                                                                     
 
     
 ### João Gabriel Elvas (Developer)
