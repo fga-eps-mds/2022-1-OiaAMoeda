@@ -82,7 +82,7 @@ realizado na etapa final, é de suma importância sua leitura, pois ele contém 
    <p align="justify"> Por fim, apesar da dificuldade inicial foi muito bom manter até o final e com certeza superou expectativas que eu tinha em relação a essa matéria, considero que a partir de hoje estou bem mais apto a evoluir como profissional.
  <p align="center">
 
-  <img src="https://tenor.com/view/michael-scott-dancing-celebrating-celebration-gif-21469300"  width="300"/>
+  <img src="https://c.tenor.com/kWejy2kDcTwAAAAC/office.gif"  width="300"/>
 </p>                                                                  
 
     
