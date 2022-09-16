@@ -49,6 +49,14 @@ realizado na etapa final, é de suma importância sua leitura, pois ele contém 
   
 </p>
 
+### Thiago Oliveira Cunha (Product Owner)
+<p align="justify"> Métodos de Desenvolvimento de Software(MDS) é uma disciplina muito conhecida dentro do curso de Engenharia de Software como “a disciplina transformadora” ou quaisquer outros adjetivos semelhantes a esse, no meu caso eu concordo sim, pois para que seja possível a conclusão do projeto que será definido por vocês, ou até mesmo a entrega do MVP é necessário muitos fatores, e muito tempo de todos os integrantes do grupo, salvo grupos onde se tem integrantes que já conhecem bastante da linguagem a ser trabalhada, caso contrário tudo será muito novo e muito assustador, todos os documentos, como fazer, onde procurar, onde aprender, a própria linguagem, onde se for necessário por exemplo utilizar HTML em conjunto com servidores e outras linguagens, será algo extremamente trabalhoso e difícil.
+<p align="justify"> Porém com uma boa comunicação entre TODOS os integrantes obrigatoriamente, creio ser bem possível de se fazer e de entregar um bom projeto e bem completo, tornando assim a comunicação e o planejamento os pilares para a matéria ao meu ver, apesar de tal responsabilidade em cima de todos e etc, que pode causar até bastante ansiedade em todos os integrantes, creio que seja uma experiência necessária de se passar no curso de Eng. De Software, pois assim você aprende a aprender e a lidar com problemas de diversos tipos e principalmente trabalhar em grupo.
+<p align="justify"> A matéria poderia ser dividida em duas? ao meu ver podia, porém não sei se tal mudança impactaria demais no que a disciplina se propõe, que seria de você realmente se ferrar muito e muito, em tudo, e está tudo bem, é assim mesmo felizmente ou infelizmente, só errando que se aprende, porém talvez deva ter um jeito de minimizar tal frustração que muitos passam ao fazer MDS, a qual eu considero que passei, mas enfim, foquem em principalmente comunicação e planejamento da disciplina, se possível vendo vários passos a frente, vai dar errado? Vai, e muito, mas dando errado você ira aprender como se fazer certo, por isso é extremamente importante também tentar botar a mão na massa desde cedo, se possível, confia que vai dar tudo certo, e certamente vocês sairão da matéria muito mais maduros no curso, com um vocabulário maior e sabendo se virar em praticamente todo tipo de situação, pois vocês sairão do nada e chegarão no tudo.
+  <p align="justify">Abaixo um gif de como foi minha experiência na matéria 😅:
+  <p align="center">
+  <img src="https://camo.githubusercontent.com/1b733793b67e0e2f2e5a0085dbabbf03d4ee459ce981126c8243a72bf22c7b4d/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4e54757237586c56445564714d2f67697068792e676966"  width="300"/>
+
 ### Renato Gabriel (Product Owner)
    
    <p align="justify"> Eu diria que MDS se tornou para mim uma das minhas matérias favoritas da faculdade por ter me possibilitado, pela primeire vez, provar um gostinho de como um processo de devenvolvimento de software deve ser. Ainda que, por problemas de comunicação em nosso grupo, não tenhamos conseguido desenvolvenr um projeto tão robusto ou satisfatório em termos de qualidade do produto final. Acredito que todo tempo usado nesta materia foi , ,por vezes, frustrante devido à ampla variedade de assuntos, técnicas e tecnologias tratadas na disciplina mas enfim proveitoso.
@@ -60,3 +68,14 @@ realizado na etapa final, é de suma importância sua leitura, pois ele contém 
 </p>
 
 
+    
+### João Gabriel Elvas (Developer)
+<p align="justify">Na minha visão cursar a matéria de MDS (Métodos de Desenvolvimento de Software) foi uma experiencia nova, apesar de ter alguns pontos já vistos por mim em matérias passadas. Senti que adquiri muito conhecimento de trabalho em grupo e como realmente funciona na prática um projeto de software, num escopo menor claro. Desde seu início com as ideias de projetos a serem feitos, a mão na massa, a batida em paredes vendo que não seria possível ser feito da forma que imaginamos e entre outras coisas.
+<p align="justify"> De forma geral, acredito que a experiencia vivenciada nessa matéria será utilizada no meu futuro como programador, acredito que essa matéria seja de extrema necessidade no nosso curso, para que possamos ter uma noção de como as coisas funcionam, mesmo que em uma escala menor. Aprendi que o trabalho do engenheiro de software não se limita a programação, e sim que há muitos quesitos e passos antes da mesma 😅😅.
+<p align="justify"> Acredito que o grande ponto chave dessa matéria e a organização e comunicação interna do grupo, pois sem ela o projeto não irá alcançar o ponto idealizado pelos integrantes. 
+  
+### João Pedro Anacleto Ferreira Machado (Developer)
+  
+  
+<p align="justify">Cursar MDS foi uma das melhores experiencias que tive na faculdade ate o momento,o fato de poder vivenciar uma experiencia de trabalho em conjunto, como se fosse realmente um emprego foi algo extremamente satisfatorio.Poder aprender sobre metodologia de trabalho e diferentes tecnicas de desenvolvimento não so agregou em minha vida como me incentivou a buscar mais sobre o mesmo. 
+<p align="justify">Aprender sobre metodo Scrum,Xp,Kanban,modelo Spotify entre outros realmente me incentivou a desenvolver não somente minhas habilidades tecnicas, mas tambem aquelas que são necessarias para uma melhor comunicação e gestão, entre a equipe e o cliente, alem de estruturas e documentos que facilitam o entendimento do software a ser desenvolvido.
