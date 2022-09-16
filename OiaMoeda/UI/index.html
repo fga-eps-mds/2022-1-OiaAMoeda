@@ -12,7 +12,8 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet"
         integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous">
     <link rel="stylesheet" href="css/style.css">
-    <link rel="icon" href="https://raw.githubusercontent.com/fga-eps-mds/2022-1-OiaAMoeda/1e3d9fef3495ec1e0f05e3ee48924ef3f97f89a5/Docs/Imgs/Logo/Oia_a_moeda_single.svg">
+    <link rel="icon"
+        href="https://raw.githubusercontent.com/fga-eps-mds/2022-1-OiaAMoeda/1e3d9fef3495ec1e0f05e3ee48924ef3f97f89a5/Docs/Imgs/Logo/Oia_a_moeda_single.svg">
     <title>Oia a moeda</title>
 </head>
 
@@ -20,59 +21,54 @@
     <header>
         <nav class="navbar navbar-expand-lg cabecalho fixed-top">
             <a class="navbar-brand ml-2 p-1" href="https://fga-eps-mds.github.io/2022-1-OiaAMoeda/#/">
-                <img src="https://fga-eps-mds.github.io/2022-1-OiaAMoeda/Docs/Imgs/Logo/Oia_a_moeda.svg" 
-                    height="40" class="d-inline-block align-top" alt="Oia a moeda">
+                <img src="https://fga-eps-mds.github.io/2022-1-OiaAMoeda/Docs/Imgs/Logo/Oia_a_moeda.svg" height="40"
+                    class="d-inline-block align-top" alt="Oia a moeda">
             </a>
             <div class="btn-group dropdowncoin">
-                <button id="moeda_selecionada" class="btn btn-secondary btn-sm dropdown-toggle bg-light d-flex align-items-center" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                <button id="moeda_selecionada"
+                    class="btn btn-secondary btn-sm dropdown-toggle bg-light d-flex align-items-center" type="button"
+                    data-bs-toggle="dropdown" aria-expanded="false">
                     <ion-icon class="dropdown-icone-seta ms-3" name="chevron-down-outline"></ion-icon>
                     <div class="ms-4">Cripto Moeda</div>
                 </button>
-                <ul id="menu"class="dropdown-menu">             
-                <ul class="dropdown-menu">
-                    <li><a class="dropdown-item" onclick="trocar_moeda('BitCoin','BTCUSDT')">BitCoin</a></li>
-                    <li><a class="dropdown-item" onclick="trocar_moeda('Ethereum','ETHUSDT')">Ethereum</a></li>     
-                </ul>
+                <ul id="menu" class="dropdown-menu">
+                    <ul class="dropdown-menu">
+                        <li><a class="dropdown-item" onclick="trocar_moeda('BitCoin','BTCUSDT')">BitCoin</a></li>
+                        <li><a class="dropdown-item" onclick="trocar_moeda('Ethereum','ETHUSDT')">Ethereum</a></li>
+                    </ul>
             </div>
         </nav>
     </header>
 
-    <main class="d-flex flex-row justify-content-around m-5 p-5" size="100%">
-    <!-- CADA SEÇÃO ESTÁ PERPENDICULAR NA VERTICAL COM  A OUTRA, COMO NO PROTÓTIPO DE ALTA, IMPLEMENTAR SABENDO DISSO. -->
+    <main class="d-flex flex-row justify-content-around m-5 p-5">
+        <!-- CADA SEÇÃO ESTÁ PERPENDICULAR NA VERTICAL COM  A OUTRA, COMO NO PROTÓTIPO DE ALTA, IMPLEMENTAR SABENDO DISSO. -->
 
         <!-- SEÇÃO DO GRÁFICO -->
-        <section class="bg-dark m-2 p-5 rounded d-flex flex-column gap-5">
+        <section class="bg-dark m-2 p-5 rounded d-flex flex-column gap-5 .secao-1" style="height: 700px;">
             <h6 class="texto-claro" id="nome-moeda">*NOME DA MOEDA* to USD Chart</h6>
-            <!-- <button type="button" class="btn btn-light">TESTE</button> -->
             <div class="tradingview-widget-container" id="tvchart"></div>
         </section class="bg-alert">
-    
+
         <!-- SEÇÃO DAS INFORMAÇÕES DA CRIPTO -->
-        <section class="mw-25 mt-5">
+        <section class="mw-25 mt-5" style="width: 500;">
             <div class="bg-dark m-2 p-5 rounded d-flex flex-column gap-5">
                 <h2 class="texto-claro" id="nome-moeda-h2">NOME DA MOEDA AQUI</h2>
 
-                <h1 class="texto-claro">VALOR DA MOEDA AQUI</h1>
-                <div class="bg-light rounded">
+                <h1 id="valor" class="texto-claro">VALOR DA MOEDA AQUI</h1>
+                <div id="icone-moeda" class="bg-light rounded" style="width:90px">
                     links de documentos aqui
                 </div>
             </div>
 
-            <crypto-converter-widget 
-            class="m-5"
-            shadow symbol live background-color="#3F3F3F" 
-            border-radius="0.60rem" 
-            fiat="united-states-dollar" 
-            crypto="bitcoin" 
-            amount="1" 
-            decimal-places="2"
-            margin="5px"
-            margin-left="3px">
-            <script async src="https://cdn.jsdelivr.net/gh/dejurin/crypto-converter-widget@1.5.2/dist/latest.min.js"></script>
+            <crypto-converter-widget class="m-5" shadow symbol live background-color="#3F3F3F" border-radius="0.60rem"
+                fiat="united-states-dollar" crypto="bitcoin" amount="1" decimal-places="2" margin="5px"
+                margin-left="3px">
+                <script async
+                    src="https://cdn.jsdelivr.net/gh/dejurin/crypto-converter-widget@1.5.2/dist/latest.min.js"></script>
         </section>
 
         <!-- SEÇÃO DAS NOTÍCIAS -->
-        <section id="noticias" class="row row-cols-1 row-cols-md-2 g-4 mw-25">
+        <section id="noticias" class="row row-cols-1 row-cols-md-1 g-4 mw-25">
 
         </section>
     </main>
@@ -85,8 +81,9 @@
         integrity="sha384-7VPbUDkoPSGFnVtYi0QogXtr74QeVeeIs99Qfg5YCF+TidwNdjvaKZX19NZ/e6oz"
         crossorigin="anonymous"></script>
     <script type="text/javascript" src="Components/noticias.js"></script>
-    <script type="text/javascript" src="Components/inicia.js"></script>
     <script type="text/javascript" src="Components/menu_dropdow.js"></script>
+    <script type="text/javascript" src="Components/doc_moeda.js"></script>
+    <script type="text/javascript" src="Components/inicia.js"></script>
     <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 </body>

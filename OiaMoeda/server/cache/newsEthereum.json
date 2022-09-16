@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 188,
+  "totalResults": 191,
   "articles": [
     {
       "source": {
@@ -79,6 +79,19 @@
       "urlToImage": "https://img.olhardigital.com.br/wp-content/uploads/2022/08/Meta-Instagram-NFT.jpg",
       "publishedAt": "2022-08-30T06:16:19Z",
       "content": "A Meta anunciou nesta segunda-feira (29) que seus usuÃ¡rios poderÃ£o postar suas NFTs tanto no Facebook, como no Instagram.\r\nO criador de conteÃºdo pode, inclusive, conectar sua conta Meta com suas c… [+2926 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tecmundo.com.br"
+      },
+      "author": "Carlos Palmeira",
+      "title": "10 notícias de tecnologia para você começar o dia (16/09)",
+      "description": "Bom dia! Separamos as principais notícias do mundo da Ciência e Tecnologia para você saber tudo o que aconteceu na última quinta-feira (15). Para conferir cada notícia na íntegra, basta clicar nos links a seguir.1. iOS 16.1 traz porcentagem de bateria no iPho…",
+      "url": "https://www.tecmundo.com.br/internet/247828-10-noticias-tecnologia-voce-comecar-dia-16-09.htm",
+      "urlToImage": "https://tm.ibxk.com.br/2022/09/15/15183114703507.jpg",
+      "publishedAt": "2022-09-15T19:00:00Z",
+      "content": "Bom dia! Separamos as principais notícias do mundo da Ciência e Tecnologia para você saber tudo o que aconteceu na última quinta-feira (15). Para conferir cada notícia na íntegra, basta clicar nos li… [+1973 chars]"
     },
     {
       "source": {
@@ -242,12 +255,12 @@
         "name": "Jornaldenegocios.pt"
       },
       "author": "jng@negocios.pt (Jornal de Negócios)",
-      "title": "Sob críticas ambientais, ethereum quer gastar menos 99% de energia",
-      "description": "A rede ethereum está prestes a concluir um processo que pretende reduzir de forma drástica o consumo de energia. A nova fase pode dar vantagem competitiva face à bitcoin, a \"rainha\" da computação, alvo de críticas pelo gasto de eletricidade.",
-      "url": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/sob-criticas-ambientais-ethereum-quer-gastar-menos-99-de-energia",
-      "urlToImage": "https://cdn.jornaldenegocios.pt/images/2022-09/img_1200x676$2022_09_13_21_19_15_435978.jpg",
-      "publishedAt": "2022-09-14T09:00:00Z",
-      "content": "A rede ethereum conclui esta quinta-feira o seu “merge” (fusão), deixando para trás o protocolo “prova de trabalho” – um método de validação das operações que exige um grande poder de computação (e c… [+167 chars]"
+      "title": "Negociação cripto reage com tranquilidade a revolução na ethereum",
+      "description": "A mudança de protocolo na ethereum é vista como o segundo momento mais importante do universo cripto, a seguir à fundação da bitcoin. Ainda assim, a negociação de critpomoedas reagiu com tranquilidade.",
+      "url": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/negociacao-cripto-reage-com-tranquilidade-a-revolucao-na-ethereum",
+      "urlToImage": "https://cdn.jornaldenegocios.pt/images/2021-05/img_1200x676$2021_05_03_19_39_13_402325.jpg",
+      "publishedAt": "2022-09-15T09:36:28Z",
+      "content": "As principais criptomoedas estão na manhã desta quinta-feira a negociar sem grandes alterações, depois de nas primeiras horas deste 15 de setembro ter ficado concluída a mudança de protocolo na ether… [+2152 chars]"
     },
     {
       "source": {
@@ -255,12 +268,12 @@
         "name": "Jornaldenegocios.pt"
       },
       "author": "jng@negocios.pt (Jornal de Negócios)",
-      "title": "Negociação cripto reage com tranquilidade a revolução na ethereum",
-      "description": "A mudança de protocolo na ethereum é vista como o segundo momento mais importante do universo cripto, a seguir à fundação da bitcoin. Ainda assim, a negociação de critpomoedas reagiu com tranquilidade.",
-      "url": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/negociacao-cripto-reage-com-tranquilidade-a-revolucao-na-ethereum",
-      "urlToImage": "https://cdn.jornaldenegocios.pt/images/2021-05/img_1200x676$2021_05_03_19_39_13_402325.jpg",
-      "publishedAt": "2022-09-15T09:36:28Z",
-      "content": "As principais criptomoedas estão na manhã desta quinta-feira a negociar sem grandes alterações, depois de nas primeiras horas deste 15 de setembro ter ficado concluída a mudança de protocolo na ether… [+2152 chars]"
+      "title": "Sob críticas ambientais, ethereum quer gastar menos 99% de energia",
+      "description": "A rede ethereum está prestes a concluir um processo que pretende reduzir de forma drástica o consumo de energia. A nova fase pode dar vantagem competitiva face à bitcoin, a \"rainha\" da computação, alvo de críticas pelo gasto de eletricidade.",
+      "url": "https://www.jornaldenegocios.pt/mercados/criptoativos/detalhe/sob-criticas-ambientais-ethereum-quer-gastar-menos-99-de-energia",
+      "urlToImage": "https://cdn.jornaldenegocios.pt/images/2022-09/img_1200x676$2022_09_13_21_19_15_435978.jpg",
+      "publishedAt": "2022-09-14T09:00:00Z",
+      "content": "A rede ethereum conclui esta quinta-feira o seu “merge” (fusão), deixando para trás o protocolo “prova de trabalho” – um método de validação das operações que exige um grande poder de computação (e c… [+167 chars]"
     },
     {
       "source": {
@@ -521,6 +534,19 @@
       "urlToImage": "https://wm.observador.pt/wm/obs/l/https%3A%2F%2Fbordalo.observador.pt%2Fv2%2Frs%3Afill%3A770%3A403%2Fc%3A1024%3A575%3Anowe%3A0%3A49%2Fq%3A85%2Fplain%2Fhttps%3A%2F%2Fs3.observador.pt%2Fwp-content%2Fuploads%2F2022%2F09%2F15192417%2FGettyImages-1423635393.jpg",
       "publishedAt": "2022-09-15T19:16:23Z",
       "content": "As criptomoedas precisam de uma boa notícia este ano, depois da queda da Terra/Luna e da plataforma Celsius. Ela chegou logo pela manhã. Por volta das 7h40 (em Lisboa) o panda apareceu no vídeo que a… [+1590 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Tudocelular.com"
+      },
+      "author": "Tudocelular.com",
+      "title": "Fusão do Ethereum é concluída e promete reduzir 99,9% do consumo de energia na mineração",
+      "description": "Término do processo representa uma mudança no paradigma do blockchain.",
+      "url": "https://www.tudocelular.com/mercado/noticias/n195711/fusao-ethereum-concluida-reduzir-consumo-energia.html",
+      "urlToImage": "https://t2.tudocdn.net/306601?w=1920",
+      "publishedAt": "2022-09-15T18:30:00Z",
+      "content": "Nesta quinta-feira (15), os responsáveis pela criptomoeda Ethereum anunciaram a conclusão do processo de atualização Merge (\"Fusão\", em português) do ativo virtual. O término desse processo represent… [+1307 chars]"
     },
     {
       "source": {
@@ -1275,32 +1301,6 @@
       "urlToImage": "https://s2.glbimg.com/jbETRrEQaTgvu6XsApPBPAa43HA=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/D/F/VHIWxuTCWTGdDR2YJvsQ/dmitry-demidko-og3a-ilg8ay-unsplash.jpg",
       "publishedAt": "2022-08-22T12:27:06Z",
       "content": "Bitcoin, ethereum e as principais criptomoedas iniciaram mais uma semana com perdas seguindo a piora nos mercados de risco e de olho nos ajustes da política monetária para conter o avanço dos preços.… [+2180 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Ethereum perde espaço para bitcoin na contagem regressiva para atualização de blockchain",
-      "description": "Desde a semana passada, aumentou a busca por hedge para proteger apostas mais longas no ether Na contagem regressiva para a atualização do Ethereum, o ecossistema de blockchain com mais aplicações comerciais no mercado, os investidores do universo cripto segu…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/09/13/ethereum-perde-espao-para-bitcoin-na-contagem-regressiva-para-atualizao-de-blockchain.ghtml",
-      "urlToImage": "https://s2.glbimg.com/94yjtgOxujlMcVIfpnlcD4jo9og=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/I/5/adz6QJTvGlK1BEumFneg/ethereum-wikimedia-commons.jpg",
-      "publishedAt": "2022-09-13T11:46:46Z",
-      "content": "Na contagem regressiva para a atualização do Ethereum, o ecossistema de blockchain com mais aplicações comerciais no mercado, os investidores do universo cripto seguem cautelosos com o ether diante d… [+2895 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Bitcoin e ether interrompem rali com cautela nos mercados e trégua no entusiasmo com ethereum",
-      "description": "Criptomoedas, no entanto, defendem os patamares atingidos nos últimos dias depois de forte recuperação nos preços Bitcoin, ether e as principais criptomoedas interromperam o rali recente após um aumento na cautela dos mercados de risco com o temor de desacele…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/16/bitcoin-e-ether-interrompem-rali-com-cautela-nos-mercados-e-tregua-no-entusiasmo-com-ethereum.ghtml",
-      "urlToImage": "https://s2.glbimg.com/fOwoTY9Wbg6_VZuXx9CecWTRawE=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/u/o/vrP1nATIAiO1o8fiAIYA/bitcoins.jpg",
-      "publishedAt": "2022-08-16T11:48:36Z",
-      "content": "Bitcoin, ether e as principais criptomoedas interromperam o rali recente após um aumento na cautela dos mercados de risco com o temor de desaceleração brusca na atividade econômica e uma trégua no en… [+2021 chars]"
     }
   ]
 }
