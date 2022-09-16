@@ -23,4 +23,4 @@
 Este documento visa ilustrar, em formato de diagrama, as atividades necessárias para a entrega do _MVP_.
 
 ## 2. Diagrama
-![Diagrama da Estrutura Analítica do Projeto](https://raw.githubusercontent.com/fga-eps-mds/2022-1-OiaAMoeda/Revis%C3%A3o_EAP/Docs/Imgs/Diagramas/EAP%20-%20%C3%93ia%20a%20Moeda.png)
+![Diagrama da Estrutura Analítica do Projeto](Imgs/Diagramas/EAP%20-%20%C3%93ia%20a%20Moeda.png)
