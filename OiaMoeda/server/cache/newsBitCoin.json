@@ -1,6 +1,6 @@
 {
   "status": "ok",
-  "totalResults": 272,
+  "totalResults": 275,
   "articles": [
     {
       "source": {
@@ -281,12 +281,12 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Bitcoin segue queda em Wall Street e volta a perder os US$ 20 mil",
-      "description": "Criptomoedas registram desvalorização na esteira do mau humor com as sinalizações recentes do Fed O bitcoin e o ethereum passaram a cair nesta terça-feira (30) após um início de dia em alta. As criptomoedas seguem o desempenho negativo das bolsas dos Estados …",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/30/bitcoin-segue-queda-em-wall-street-e-volta-a-perder-os-us-20-mil.ghtml",
-      "urlToImage": "https://s2.glbimg.com/MkkNNu1SCjgGn8XKHIbXzLaDubs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/o/J/cyO0KdTKCBWlyqkra8kA/bitcoin-blockchain.jpg",
-      "publishedAt": "2022-08-30T16:16:02Z",
-      "content": "O bitcoin e o ethereum passaram a cair nesta terça-feira (30) após um início de dia em alta. As criptomoedas seguem o desempenho negativo das bolsas dos Estados Unidos. Nos mercados acionários dos EU… [+1957 chars]"
+      "title": "Ethereum recupera terreno e bitcoin tem pequenas oscilações antes de simpósio do Fed",
+      "description": "Depois da queda na última sexta-feira, o bitcoin já está no quarto dia de pequenas oscilações, retomando o movimento de lateralidade O ethereum voltou a subir nesta quarta-feira, enquanto o bitcoin segue com pequenas oscilações antes do simpósio do Federal Re…",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/24/ethereum-recupera-terreno-e-bitcoin-tem-pequenas-oscilaes-antes-de-simpsio-do-fed.ghtml",
+      "urlToImage": "https://s2.glbimg.com/2YAEQ4fYYex8sAvwn_KPrNoSL6c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/7/0/2cEqkvQ7q1hrnGEx9XiQ/ethereum.jpg",
+      "publishedAt": "2022-08-24T12:19:16Z",
+      "content": "O ethereum voltou a subir nesta quarta-feira, enquanto o bitcoin segue com pequenas oscilações antes do simpósio do Federal Reserve em Jackson Hole, quando os dirigentes do banco central americano po… [+2482 chars]"
     },
     {
       "source": {
@@ -294,12 +294,12 @@
         "name": "Globo"
       },
       "author": null,
-      "title": "Ethereum recupera terreno e bitcoin tem pequenas oscilações antes de simpósio do Fed",
-      "description": "Depois da queda na última sexta-feira, o bitcoin já está no quarto dia de pequenas oscilações, retomando o movimento de lateralidade O ethereum voltou a subir nesta quarta-feira, enquanto o bitcoin segue com pequenas oscilações antes do simpósio do Federal Re…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/24/ethereum-recupera-terreno-e-bitcoin-tem-pequenas-oscilaes-antes-de-simpsio-do-fed.ghtml",
-      "urlToImage": "https://s2.glbimg.com/2YAEQ4fYYex8sAvwn_KPrNoSL6c=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/7/0/2cEqkvQ7q1hrnGEx9XiQ/ethereum.jpg",
-      "publishedAt": "2022-08-24T12:19:16Z",
-      "content": "O ethereum voltou a subir nesta quarta-feira, enquanto o bitcoin segue com pequenas oscilações antes do simpósio do Federal Reserve em Jackson Hole, quando os dirigentes do banco central americano po… [+2482 chars]"
+      "title": "Bitcoin segue queda em Wall Street e volta a perder os US$ 20 mil",
+      "description": "Criptomoedas registram desvalorização na esteira do mau humor com as sinalizações recentes do Fed O bitcoin e o ethereum passaram a cair nesta terça-feira (30) após um início de dia em alta. As criptomoedas seguem o desempenho negativo das bolsas dos Estados …",
+      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/30/bitcoin-segue-queda-em-wall-street-e-volta-a-perder-os-us-20-mil.ghtml",
+      "urlToImage": "https://s2.glbimg.com/MkkNNu1SCjgGn8XKHIbXzLaDubs=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/o/J/cyO0KdTKCBWlyqkra8kA/bitcoin-blockchain.jpg",
+      "publishedAt": "2022-08-30T16:16:02Z",
+      "content": "O bitcoin e o ethereum passaram a cair nesta terça-feira (30) após um início de dia em alta. As criptomoedas seguem o desempenho negativo das bolsas dos Estados Unidos. Nos mercados acionários dos EU… [+1957 chars]"
     },
     {
       "source": {
@@ -889,6 +889,19 @@
     {
       "source": {
         "id": null,
+        "name": "Tudocelular.com"
+      },
+      "author": "Tudocelular.com",
+      "title": "Fusão do Ethereum é concluída e promete reduzir 99,9% do consumo de energia na mineração",
+      "description": "Término do processo representa uma mudança no paradigma do blockchain.",
+      "url": "https://www.tudocelular.com/mercado/noticias/n195711/fusao-ethereum-concluida-reduzir-consumo-energia.html",
+      "urlToImage": "https://t2.tudocdn.net/306601?w=1920",
+      "publishedAt": "2022-09-15T18:30:00Z",
+      "content": "Nesta quinta-feira (15), os responsáveis pela criptomoeda Ethereum anunciaram a conclusão do processo de atualização Merge (\"Fusão\", em português) do ativo virtual. O término desse processo represent… [+1307 chars]"
+    },
+    {
+      "source": {
+        "id": null,
         "name": "Jornaldenegocios.pt"
       },
       "author": "jng@negocios.pt (Jornal de Negócios)",
@@ -1288,19 +1301,6 @@
       "urlToImage": "https://s2.glbimg.com/SacdIm_MdIfryq3HqaE-FxRIDQg=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/h/5/s4dHJTTAKbELFRrSoafQ/pexels-rodnae-productions-8369687.jpg",
       "publishedAt": "2022-08-15T12:18:01Z",
       "content": "Após novos ganhos no final de semana, bitcoin, ethereum e as principais criptomoedas iniciaram a semana com cotações mais comedidas e as atenções voltadas para indicadores macroeconômicos, além de in… [+1798 chars]"
-    },
-    {
-      "source": {
-        "id": "globo",
-        "name": "Globo"
-      },
-      "author": null,
-      "title": "Bitcoin e ethereum sobem depois de baterem mínimas em mais de um mês",
-      "description": "Criptomoedas foram na contramão do desempenho negativo registrado pelas bolsas de valores dos EUA O bitcoin e o ethereum operam em alta nesta segunda-feira (29) depois de caírem forte no fim de semana até as mínimas em mais de um mês. O bitcoin chegou a ating…",
-      "url": "https://valor.globo.com/financas/criptomoedas/noticia/2022/08/29/bitcoin-e-ethereum-sobem-depois-de-baterem-mnimas-em-mais-de-um-ms.ghtml",
-      "urlToImage": "https://s2.glbimg.com/Z84bJVfFxgwXgvh_6j_pw3ivvTw=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2022/g/B/2iyQXQQWCx7dyMOw8GvA/bitcoin-blockchain.jpg",
-      "publishedAt": "2022-08-29T21:45:49Z",
-      "content": "O bitcoin e o ethereum operam em alta nesta segunda-feira (29) depois de caírem forte no fim de semana até as mínimas em mais de um mês. O bitcoin chegou a atingir o patamar de US$ 19.540 no domingo,… [+2339 chars]"
     }
   ]
 }
