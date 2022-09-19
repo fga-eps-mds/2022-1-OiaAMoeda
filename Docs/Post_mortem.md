@@ -116,3 +116,5 @@ meus pontos de vista, e podendo conhecer o ponto de vista deles também. No
 entanto, acho que é preciso ir mais fundo neste campo, considero que o
 período em que essa disciplina acontece é muito intenso, tanto de perspectivas
 profissionais e pessoais levam a situações e resultados inesperados.
+
+
