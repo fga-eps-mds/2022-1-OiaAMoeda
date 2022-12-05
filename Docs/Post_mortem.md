@@ -91,6 +91,9 @@ realizado na etapa final, é de suma importância sua leitura, pois ele contém 
 <p align="justify"> De forma geral, acredito que a experiencia vivenciada nessa matéria será utilizada no meu futuro como programador, acredito que essa matéria seja de extrema necessidade no nosso curso, para que possamos ter uma noção de como as coisas funcionam, mesmo que em uma escala menor. Aprendi que o trabalho do engenheiro de software não se limita a programação, e sim que há muitos quesitos e passos antes da mesma 😅😅.
 <p align="justify"> Acredito que o grande ponto chave dessa matéria e a organização e comunicação interna do grupo, pois sem ela o projeto não irá alcançar o ponto idealizado pelos integrantes. 
   
+  
+  <!-- Daqui em diante o conteudo não está do git pages, ate então -->
+  
 ### João Pedro Anacleto Ferreira Machado (Developer)
   
   
